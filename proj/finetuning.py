@@ -65,7 +65,6 @@ model = AutoModelForCausalLM.from_pretrained(
     trust_remote_code=True,
     attn_implementation="eager",
 )
-max_len = model.config.max_position_embeddings
 
 peft_params = LoraConfig(
     r=32,
@@ -91,7 +90,7 @@ sft_config = SFTConfig(
     per_device_train_batch_size=1,
     per_device_eval_batch_size=1,
     learning_rate=3e-4,
-    num_train_epochs=3,
+    num_train_epochs=2,
     eval_strategy="steps",
     save_strategy="steps",
     eval_steps=50,
@@ -123,21 +122,6 @@ print("input_ids shape:", batch["input_ids"].shape)  # (batch_size, seq_len)
 print("Batch size (num samples):", batch["input_ids"].size(0))
 print("Sequence length per sample:", batch["input_ids"].size(1))
 print("========================================\n")
-# =======================================================
-
-
-# dataloader = trainer.get_train_dataloader()
-# batch = next(iter(dataloader))
-# print("\n===== DEBUG: All Examples in Batch =====")
-# for i, input_ids in enumerate(batch["input_ids"]):
-#     num_tokens = len(input_ids)   # number of tokens for this example
-#     decoded_text = tokenizer.decode(input_ids, skip_special_tokens=True)
-
-#     print(f"Example {i} --> {num_tokens} tokens")
-#     print(decoded_text)  
-#     print("-" * 80)
-
-# print("========================================\n")
 
 # --------------------------
 # Train and Save
