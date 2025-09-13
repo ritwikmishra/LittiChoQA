@@ -40,6 +40,9 @@ print("Processing dataset and tokenizing...")
 with open(DATA_PATH, "r", encoding="utf-8") as f:
     dataset = json.load(f)
 
+total_non_factoid = sum(len(entry["qas"].get("non-factoid", [])) for entry in dataset.values())
+print(f"Total non-factoid QA samples: {total_non_factoid}")
+
 
 with open(OUT_INTERMEDIATE, "a", encoding="utf-8") as outf:
     for key, entry in tqdm(dataset.items(), desc="Tokenizing entries"):

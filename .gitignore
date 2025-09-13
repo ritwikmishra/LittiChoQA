@@ -1,0 +1,9 @@
+munfquad/
+finetuning/data/
+lc/
+finetuning/finetuned_models/
+finetuning/cache/
+finetuning/wandb/
+graphs/
+__pycache__
+combined_all_response.json

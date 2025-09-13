@@ -52,16 +52,17 @@ def shorten_context(input_jsonl: str, lc_dir: str, output_jsonl: str) -> None:
 
         processed_entries.append({"qid": qid, "prompt": new_prompt, "completion": completion})
 
+    processed_entries.sort(key=lambda x: len(x["prompt"]))
     with open(output_jsonl, 'w', encoding='utf-8') as outfile:
         for entry in tqdm(processed_entries, desc=f"Writing {os.path.basename(output_jsonl)}", unit="entry"):
             outfile.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
 
 lc_dir = "/media/data_dump/aarya220007/lc"
-# input_base = "/media/data_dump/aarya220007/data/fc_dataset"
-# output_base = "/media/data_dump/aarya220007/data/sc_l6v2_dataset"
-input_base = "/media/data_dump/aarya220007/data_test/fc_dataset"
-output_base = "/media/data_dump/aarya220007/data_test/sc_l6v2_dataset"
+input_base = "/media/data_dump/aarya220007/data/fc_dataset"
+output_base = "/media/data_dump/aarya220007/data/sc_l6v2_dataset"
+# input_base = "/media/data_dump/aarya220007/data_test/fc_dataset"
+# output_base = "/media/data_dump/aarya220007/data_test/sc_l6v2_dataset"
 
 os.makedirs(output_base, exist_ok=True)
 

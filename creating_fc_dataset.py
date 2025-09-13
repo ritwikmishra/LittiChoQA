@@ -17,7 +17,7 @@ def prepare_ft_dataset(input_path: str, output_dir: str) -> None:
     total_qas = sum(len(story_data["qas"]["non-factoid"]) for story_data in dataset.values())
     assert total_qas > 0, "No non-factoid QAs found in dataset"
 
-    qa_counter = 10 #added
+    qa_counter = 100  # added
 
     with tqdm(total=total_qas, desc="Processing non-factoid entries", unit="qa") as pbar:
         for story_key, story_data in dataset.items():
@@ -39,16 +39,15 @@ def prepare_ft_dataset(input_path: str, output_dir: str) -> None:
                     f"## Answer: \n "
                 )
 
-                completion = (
-                    f"{answer}"
-                )
+                completion = f"{answer}"
 
                 entries.append({"qid": qid, "prompt": prompt, "completion": completion})
-                qa_counter -= 1 #added
+                qa_counter -= 1  # added
                 pbar.update(1)
 
     random.shuffle(entries)
 
+    # Train/Val/Test split ratios
     train_split = 0.7
     val_split = 0.1
     test_split = 0.2
@@ -66,7 +65,10 @@ def prepare_ft_dataset(input_path: str, output_dir: str) -> None:
         "test": entries[n_train + n_val:]
     }
 
+    # ✅ Sort each split by prompt length
     for split_name, split_entries in splits.items():
+        split_entries.sort(key=lambda x: len(x["prompt"])) 
+
         output_path = os.path.join(output_dir, f"{split_name}.jsonl")
         with tqdm(total=len(split_entries), desc=f"Writing {split_name} entries", unit="qa") as pbar:
             with open(output_path, "w", encoding="utf-8") as f:
@@ -76,10 +78,10 @@ def prepare_ft_dataset(input_path: str, output_dir: str) -> None:
 
         print(f"{split_name.capitalize()} JSONL created at: {output_path} ({len(split_entries)} entries)")
 
-    print(f"Total non-factoid entries: {len(entries)}")
+    print(f"Total non-factoid entries: {len(entries)})")
 
 
-input_path = "/media/data_dump/aarya220007/combined_all_response.json"
+input_path = "/media/data_dump/aarya220007/finetuning_proj/combined_all_response.json"
 # output_dir = "/media/data_dump/aarya220007/data/fc_dataset"
 output_dir = "/media/data_dump/aarya220007/data_test/fc_dataset"
 prepare_ft_dataset(input_path, output_dir)

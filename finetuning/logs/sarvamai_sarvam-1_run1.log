@@ -1,0 +1,26 @@
+===== Run Arguments =====
+{
+  "run_id": "1",
+  "model": "sarvamai/sarvam-1",
+  "train": "data/fc_dataset/train.jsonl",
+  "val": "data/fc_dataset/val.jsonl",
+  "context": "long",
+  "max_len": 1250
+}
+=========================
+
+Loaded tokenized lengths for 135237 QIDs
+Original train dataset size: 94684
+Trimmed train dataset size: 1975
+Original val dataset size: 13526
+Trimmed val dataset size: 292
+Filtering fully-masked samples...
+Final train dataset size: 1942
+Final val dataset size: 286
+trainable params: 6,422,528 || all params: 2,531,510,272 || trainable%: 0.2537
+Resuming training from this run's best checkpoint: finetuned_models/sarvamai/sarvam-1/runs/1/best_checkpoint
+{'loss': 3.9492, 'grad_norm': 1.767366886138916, 'learning_rate': 4.7888774459320285e-08, 'num_tokens': 62500.0, 'mean_token_accuracy': 0.339632710814476, 'epoch': 0.95}
+{'loss': 3.8807, 'grad_norm': 2.229168653488159, 'learning_rate': 2.214212152420185e-08, 'num_tokens': 125000.0, 'mean_token_accuracy': 0.32655692115426066, 'epoch': 0.98}
+{'train_runtime': 37.5808, 'train_samples_per_second': 51.675, 'train_steps_per_second': 51.675, 'train_loss': 0.28505514284363737, 'epoch': 1.0}
+Model for this run saved to finetuned_models/sarvamai/sarvam-1/runs/1
+Best checkpoint for this run saved at: finetuned_models/sarvamai/sarvam-1/runs/1/best_checkpoint

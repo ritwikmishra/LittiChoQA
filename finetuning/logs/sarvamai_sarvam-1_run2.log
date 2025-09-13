@@ -1,0 +1,27 @@
+===== Run Arguments =====
+{
+  "run_id": "2",
+  "model": "sarvamai/sarvam-1",
+  "train": "data/sc_l6_dataset/train.jsonl",
+  "val": "data/sc_l6_dataset/val.jsonl",
+  "context": "short_l6",
+  "max_len": 1250
+}
+=========================
+
+Loaded tokenized lengths for 135237 QIDs
+Original train dataset size: 94684
+Trimmed train dataset size: 1975
+Original val dataset size: 13526
+Trimmed val dataset size: 292
+Filtering fully-masked samples...
+Final train dataset size: 1974
+Final val dataset size: 291
+trainable params: 6,422,528 || all params: 2,531,510,272 || trainable%: 0.2537
+Resuming training from this run's best checkpoint: finetuned_models/sarvamai/sarvam-1/runs/2/best_checkpoint
+{'loss': 4.5069, 'grad_norm': 6.970431327819824, 'learning_rate': 6.332320162107396e-08, 'num_tokens': 62500.0, 'mean_token_accuracy': 0.293631246984005, 'epoch': 0.94}
+{'loss': 4.3376, 'grad_norm': 1.6407946348190308, 'learning_rate': 3.799392097264438e-08, 'num_tokens': 125000.0, 'mean_token_accuracy': 0.32475147128105164, 'epoch': 0.96}
+{'loss': 4.1882, 'grad_norm': 2.208735466003418, 'learning_rate': 1.2664640324214792e-08, 'num_tokens': 187500.0, 'mean_token_accuracy': 0.3454276210069656, 'epoch': 0.99}
+{'train_runtime': 44.5992, 'train_samples_per_second': 44.261, 'train_steps_per_second': 44.261, 'train_loss': 0.38266703133162755, 'epoch': 1.0}
+Model for this run saved to finetuned_models/sarvamai/sarvam-1/runs/2
+Best checkpoint for this run saved at: finetuned_models/sarvamai/sarvam-1/runs/2/best_checkpoint

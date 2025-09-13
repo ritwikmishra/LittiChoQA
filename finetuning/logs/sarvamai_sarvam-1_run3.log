@@ -1,0 +1,31 @@
+===== Run Arguments =====
+{
+  "run_id": "3",
+  "model": "sarvamai/sarvam-1",
+  "train": "data/sc_l6v2_dataset/train.jsonl",
+  "val": "data/sc_l6v2_dataset/val.jsonl",
+  "context": "short_l6v2",
+  "max_len": 1250
+}
+=========================
+
+Loaded tokenized lengths for 135237 QIDs
+Original train dataset size: 94684
+Trimmed train dataset size: 1975
+Original val dataset size: 13526
+Trimmed val dataset size: 292
+Filtering fully-masked samples...
+Final train dataset size: 1345
+Final val dataset size: 180
+trainable params: 6,422,528 || all params: 2,531,510,272 || trainable%: 0.2537
+Resuming training from this run's best checkpoint: finetuned_models/sarvamai/sarvam-1/runs/3/best_checkpoint
+{'loss': 6.4701, 'grad_norm': 5.194484710693359, 'learning_rate': 2.200743494423792e-07, 'num_tokens': 62500.0, 'mean_token_accuracy': 0.1386150548607111, 'epoch': 0.78}
+{'loss': 5.4333, 'grad_norm': 4.789519309997559, 'learning_rate': 1.828996282527881e-07, 'num_tokens': 125000.0, 'mean_token_accuracy': 0.21092677786946296, 'epoch': 0.82}
+{'loss': 5.0357, 'grad_norm': 2.646620273590088, 'learning_rate': 1.4572490706319702e-07, 'num_tokens': 187500.0, 'mean_token_accuracy': 0.2242329354584217, 'epoch': 0.86}
+{'loss': 4.8245, 'grad_norm': 0.4677998125553131, 'learning_rate': 1.0855018587360594e-07, 'num_tokens': 250000.0, 'mean_token_accuracy': 0.2513735067844391, 'epoch': 0.89}
+{'eval_loss': 11.117949485778809, 'eval_runtime': 18.4102, 'eval_samples_per_second': 9.777, 'eval_steps_per_second': 9.777, 'eval_num_tokens': 250000.0, 'eval_mean_token_accuracy': 0.10602941240908371, 'epoch': 0.89}
+{'loss': 4.3369, 'grad_norm': 0.870642364025116, 'learning_rate': 7.137546468401487e-08, 'num_tokens': 312500.0, 'mean_token_accuracy': 0.31358020201325415, 'epoch': 0.93}
+{'loss': 4.2231, 'grad_norm': 1.1816421747207642, 'learning_rate': 3.420074349442379e-08, 'num_tokens': 375000.0, 'mean_token_accuracy': 0.3207138407230377, 'epoch': 0.97}
+{'train_runtime': 102.4488, 'train_samples_per_second': 13.129, 'train_steps_per_second': 13.129, 'train_loss': 1.238451308920481, 'epoch': 1.0}
+Model for this run saved to finetuned_models/sarvamai/sarvam-1/runs/3
+Best checkpoint for this run saved at: finetuned_models/sarvamai/sarvam-1/runs/3/best_checkpoint
