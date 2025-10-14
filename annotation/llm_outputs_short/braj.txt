@@ -1,0 +1,126 @@
+=== Workbook: braj_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_2",
+        2: "Answer_6",
+        3: "Answer_5",
+        4: "Answer_1",
+        5: "Answer_4",
+        6: "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_2": "Answer_2 best matches the reference answer. It lists the three thieves' special abilities (though a bit paraphrased) and briefly links them to their usefulness in theft, much like the reference answer. The main details are present and reasonably accurate, though 'तिजोरी' is slightly misplaced for the third ability, but overall it captures the essence.",
+        "Answer_6": "Answer_6 captures the idea that all three had special abilities contributing to their theft, and attempts to mention the first two qualities (unlocking with sight, sensing hidden wealth), similar to the reference. However, the third trait is missing, and the narrative becomes unclear at the end. Still, it is closer to the reference than the more off-topic or repetitive answers.",
+        "Answer_5": "Answer_5 mostly repeats the second skill about sensing hidden wealth four times for different thieves, failing to connect or mention the individual distinct qualities as presented in the story. It includes reference to being caught but lacks details of the unique abilities, which makes it less aligned to the reference.",
+        "Answer_1": "Answer_1 does not accurately mention any special skills of the thieves, instead talks vaguely about their interactions and about the king and soldiers. It does not answer the question on the thieves' abilities or their usefulness to theft, thus ranks lower.",
+        "Answer_4": "Answer_4 gives a misconstrued explanation: it misinterprets the story as thieves improving their weaknesses, which is not in the original. The characteristics mentioned do not properly reflect the actual abilities described in the reference; their analysis is inaccurate.",
+        "Answer_3": "Answer_3 is generic and tautological, saying only that the thieves had features that helped their work. It does not specify any characteristic or link to their usefulness, thus is the least similar to the reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: braj_stories.xlsx | Sheet: Story_2_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_1",
+        3: "Answer_2",
+        4: "Answer_4",
+        5: "Answer_3",
+        6: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer discusses the role and behavior of the 'छोटी भाभी' in relation to the sister, specifically mentioning the conflict (gali देना) and the pivotal act of giving 'खुहागिल करुए', which is highly relevant. It emphasizes themes of compassion, forgiveness, and the moral message, closely aligning with the reference answer, though it shifts some focus to the sister's virtue. Still, it is the most accurate and complete in describing the emotional dynamics and actions relevant to the story.",
+        "Answer_1": "Answer_1 discusses the sacrifice of the 'छोटी भाभी' and her willingness to give up her life for her sister (though actual story details are somewhat misconstrued, as she gives her jewelry). The answer recognizes her importance, sacrifice, and love, which are key points from the reference answer, though some factual details are inaccurate. Nevertheless, it addresses the question correctly in spirit.",
+        "Answer_2": "Answer_2 starts to discuss the role and behavior of the छोटी भाभी but is incomplete and digresses into a retelling of the general family context, not really addressing the critical points of sacrifice, compassion, and supportive actions by the छोटी भाभी as in the reference. Hence, it is ranked lower.",
+        "Answer_4": "This answer is generic, and while it discusses sibling bonds and the young sister's devotion and sacrifice, it lacks the specifics about the छोटी भाभी, her conduct, and fails to detail her pivotal actions or the emotional core of the story referenced in the model answer. It is mostly tangential.",
+        "Answer_3": "Answer_3 is mostly irrelevant and contains factual inaccuracies. It confuses the events and characters (mixing up who the छोटी भाभी is and misattributing actions), and describes manipulations with mirrors and food unrelated to this story, making it unrelated.",
+        "Answer_5": "This answer gives only a web reference and provides no content, and therefore deserves the lowest rank."
+    }
+}
+================================================================================
+
+=== Workbook: braj_stories.xlsx | Sheet: Story_3_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_1",
+        3: "Answer_3",
+        4: "Answer_4",
+        5: "Answer_5",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer best addresses both aspects of the question: it highlights the swarth (selfishness) and cleverness (chalaki) in the story, explaining how both camel and jackal act out of selfish motives, ultimately damaging the relationship. It also reflects on the moral lesson of honesty and trust in friendship, which closely matches the reference answer.",
+        "Answer_1": "This answer discusses the jackal's cleverness and gives a partial explanation about the motives and lessons, mentioning the need for honesty and trust. However, it misses several key events from the story, such as the camel's revenge, making it less comprehensive than the reference and Answer_6.",
+        "Answer_3": "This answer attempts to recognize cleverness and selfishness, but its examples are less accurate and slightly confused regarding the events (e.g., roles are mixed up, and the actual incidents between camel and jackal are not described in depth). The moral given is appropriate but generic.",
+        "Answer_4": "This answer lists some traits and makes disjointed comments about the characters but largely fails to explain the events, the cleverness or selfishness, or the specific lesson from the story. It is disconnected from the reference answer.",
+        "Answer_5": "This is just a repetition of the question with no answer content. It offers no reasoning or information.",
+        "Answer_2": "This answer contains only a list of vocabulary meanings and is entirely irrelevant to the question, providing no analysis or lesson."
+    }
+}
+================================================================================
+
+=== Workbook: braj_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_4",
+        3: "Answer_1",
+        4: "Answer_3",
+        5: "Answer_2",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_5": "Although the answer is generic and does not mention the specific powers/gifts stated in the reference (seeing and opening locks, smelling hidden treasures, recognizing people from the past), it does attempt to give characteristics (intelligence, strength, planning) and links them to the act of theft, showing some partial alignment with the idea that certain characteristics aided their thieving. This makes it the least incorrect among all the answers.",
+        "Answer_4": "This answer is vague, repeating only that the thieves are smart and have learned a lot, without mentioning any detail or linking their qualities to their thieving success as the reference answer does. Still, the answer is slightly relevant, suggesting intelligence aided theft.",
+        "Answer_1": "This answer describes irrelevant details about thieves' acts such as eating food, using refrigerators, and drinking beverages, none of which are present in the reference or story. It fails to mention any of the specific qualities or capabilities that helped in their theft as required by the question.",
+        "Answer_3": "This answer gets lost in physical descriptions of the thieves' appearance and their clothing, without mentioning any helpful traits or skills related to theft. The answer is thus not appropriate or relevant to the question.",
+        "Answer_2": "This answer is incoherent and drifts away from the story, bringing in unrelated content about thieves staring at each other and making food/items disappear. It does not refer to the specific qualities, nor the concept of how those qualities helped with theft.",
+        "Answer_6": "This answer is the least relevant, only repeating that the thieves enter the house like cooks, with no mention of their skills, qualities, or how these would help with theft. It shows no understanding of the question or alignment with the reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: braj_stories.xlsx | Sheet: Story_2_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_3",
+        3: "Answer_4",
+        4: "Answer_6",
+        5: "Answer_5",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_1": "Although not fully coherent or accurate, Answer_1 at least makes an attempt to discuss the importance of 'छोटी भाभी' (although refers to her as 'रानी', which is not from the given story) and her relationship with her sister-in-law. There is mention of love and an attempt at family dynamics, making it somewhat, albeit weakly, related to the reference.",
+        "Answer_3": "This answer, although drifting into irrelevant or unrelated narratives and some incoherence, does touch on the 'छोटी भाभी', but brings in confusion and does not accurately reflect the actual events of the story. There's some vague mention of roles, but it's not clear and does not specifically address the reference answer’s key points (sacrifice, compassion, support).",
+        "Answer_4": "Answer_4 seems to conflate or introduce unrelated characters ('रानी', 'इंदू') and does not relate directly to the given story. The answer discusses generalities of family female roles but is not relevant or accurate with respect to the reference answer or story specifics.",
+        "Answer_6": "This answer is almost entirely irrelevant, revolving around family property disputes and characters not found in the given story, and repeats itself. It does not discuss the role or behavior of the 'छोटी भाभी' in relation to the sister at all.",
+        "Answer_5": "Answer_5 includes irrelevant non-Hindi content at the start and proceeds to discuss 'रानी' and property disputes which are not related to 'करबतः चौथ की कहानी'. The answer doesn't address the question or reference answer in substance.",
+        "Answer_2": "Answer_2 contains only placeholders (a, b, c...) and does not provide any information or attempt to answer the question. It is therefore ranked lowest."
+    }
+}
+================================================================================
+
+=== Workbook: braj_stories.xlsx | Sheet: Story_3_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_1",
+        3: "Answer_3",
+        4: "Answer_4",
+        5: "Answer_2",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_5": "This answer identifies both the cunning and selfishness in the friendship of the camel and jackal, similar to the reference. It discusses how both use each other for their own gain and highlights the lesson that friendship can have selfish motives and that trust is necessary. However, some details are invented (like jackal using traps), which is inaccurate, but overall, it is the closest in both structure and intent to the reference answer.",
+        "Answer_1": "This answer tries to address the question, mentioning cunning and selfishness, but is somewhat confused and inaccurate. It ascribes some invented actions, seems repetitive, and does not clearly explain incidents from the story. It partially matches the reference by discussing cunning and selfishness, but lacks clarity and completeness.",
+        "Answer_3": "This is simply a restatement of the question rather than an answer. It adds no information and does not attempt to tackle the lessons or examples shown in the story, making it less similar than Answers 1 or 5.",
+        "Answer_4": "This answer is a string of random or nonsensical symbols and does not answer the question at all.",
+        "Answer_2": "This answer is in Chinese and discusses entirely unrelated individuals and concepts (Kushal and Raghuv, 牛和羊). It seems to be copied from another context and is entirely irrelevant to both the story and reference answer.",
+        "Answer_6": "This answer is in Telugu and appears to repeat meaningless phrases with no connection to the content, story, or question, making it the least similar of all."
+    }
+}
+================================================================================
+

@@ -1,0 +1,126 @@
+=== Workbook: urdu_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_1",
+        3: "Answer_3",
+        4: "Answer_2",
+        5: "Answer_5",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer closely matches the reference answer in content and depth. It clearly states that repeated theft events indicate a wider societal problem, discusses poverty, economic inequality, and social issues, and draws a direct connection to the behavior of individuals in such environments. Although it does not mention some specific points like the character of Sardar Ji, it sufficiently covers societal desensitization, the normalization of theft, and raises awareness of poverty and law enforcement failures—these align closely with the reference.",
+        "Answer_1": "This answer is quite detailed and covers why repeated theft is highlighted in the story. It discusses the normalization of illegal and immoral behavior, impacts on social security, and the need for personal responsibility. However, it is less specific than the reference about desensitization, law enforcement failures, and hope via responsible citizens, but is more relevant and comprehensive than other less complete responses.",
+        "Answer_3": "While this answer identifies key social issues impacted by repeated theft (trust, justice, insecurity), it is less precise and comprehensive than the reference answer or Answer_1. It lacks explicit mention of poverty, law enforcement, or social responsibility, and some points (like 'certainty') are less clearly articulated. Still, it is more on-topic than the incomplete or irrelevant answers.",
+        "Answer_2": "This answer does not meaningfully address the question. It is incomplete, does not explain why theft is repeated in the story, and does not highlight any societal issues. The answer is vague and lacks coherence, so it is rated low.",
+        "Answer_5": "This answer merely restates the question and provides no value or explanation, so it is ranked just above the least meaningful answer.",
+        "Answer_4": "This answer consists mostly of repetitions and non-sequitur statements that add no substantive value or explanation regarding the question or the story. It is the least meaningful among all provided answers."
+    }
+}
+================================================================================
+
+=== Workbook: urdu_stories.xlsx | Sheet: Story_2_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_5",
+        3: "Answer_3",
+        4: "Answer_2",
+        5: "Answer_4",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 closely captures the symbolic aspects mentioned in the reference answer, describing Hajji Sahib's act as motivated by love, sacrifice, and representing a deeper struggle or journey. While it does not explicitly mention failure or obstacles, it does allude to deeper meanings in the act and conveys the sense of love, commitment, and symbolism of human endeavor. It is the most thematically aligned to the reference answer.",
+        "Answer_5": "Answer_5 mentions Hajji Sahib's effort and sacrifice for his wife and draws attention to his love and the challenges given his age and condition, aligning with the reference answer regarding love, effort, and sacrifice. However, it lacks explicit discussion of obstacles, symbolic failure, or broader life struggles, making it a little less complete than Answer_1.",
+        "Answer_3": "Answer_3 only treats the act as a symbol of love, and doesn't explore the themes of failed effort, obstacles, or deeper human struggle as highlighted in the reference answer. It's concise and relevant but considerably less comprehensive.",
+        "Answer_2": "Answer_2 simply mentions the comparison of faded beauty and middle age made by Hajji Sahib. It contains a partial thematic alignment with the story, but does not answer the question about the symbolic meaning of going out at night and bringing kebabs.",
+        "Answer_4": "Answer_4 is largely incoherent and repetitive, simply listing phrases about Hajji Sahib going out at night, without providing any relevant symbolic interpretation or connection to the deeper meanings discussed in the reference.",
+        "Answer_6": "Answer_6 is pure gibberish with no content, meaning, or relevance to the story, question, or reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: urdu_stories.xlsx | Sheet: Story_3_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_1",
+        3: "Answer_3",
+        4: "Answer_2",
+        5: "Answer_6",
+        6: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer most closely matches the reference answer in content and depth. It explains the feelings of fear, terror, helplessness, and the overall dark atmosphere created by the silence after the attack, mirroring the nuance in the reference answer about shock, trauma, and existential realization. The mention that some dangers can only be endured resonates with the idea of overwhelming helplessness and the existential message found in the reference answer.",
+        "Answer_1": "This answer is relevant and fairly close to the reference answer, identifying feelings of fear, restlessness, and despair. However, it doesn't capture as strongly the themes of shock, trauma, and existential questioning that are highlighted in the reference. While it refers to silence and fear, its explanation is less nuanced and missed the emotional depth expressed in the reference.",
+        "Answer_3": "This answer provides a decent summary of the background of the story and the terrifying power of the bird, but it doesn't focus as directly on the emotional and thematic impact of the silence after the attack. It spends more time summarizing the traits of the bird and the legend rather than reflecting on the silence and its effects, making it less aligned with the question and reference.",
+        "Answer_2": "This answer is repetitive, primarily stating 'a silence of death' multiple times, and doesn't provide a clear or developed description of the emotional impact or message behind the silence. It lacks the depth, detail, and insight found in both the reference and higher-ranked answers.",
+        "Answer_6": "This is simply the question repeated and does not provide any answer or relevant information.",
+        "Answer_5": "This answer is incoherent, incomplete, and does not address the question meaningfully at all."
+    }
+}
+================================================================================
+
+=== Workbook: urdu_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_2",
+        3: "Answer_5",
+        4: "Answer_4",
+        5: "Answer_3",
+        6: "Answer_1"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer directly addresses the repeated mention of theft in the story, recognizing it as a reflection of a societal issue and noting its commonness and effects on people, which aligns closely with the reference answer's themes of normalization, societal problems, and impact. It captures the main ideas without straying off topic, though in less detail than the reference.",
+        "Answer_2": "This answer reasonably explains that the repeated theft incidents highlight the gravity and negative effects of theft, mentioning insecurity and trust issues. It covers part of the reference answer's points about societal issues, but is less detailed and doesn't mention aspects like law enforcement failure or collective responsibility/hope, thus ranks below Answer_6.",
+        "Answer_5": "This answer is incomplete and only includes a phrase related to the question, 'معاشرتی مسائل روشنی پڑتی ہے', without providing an explanation. It is thus much less informative than Answers 6 and 2.",
+        "Answer_4": "This answer is mostly in Chinese rather than Urdu, and while it discusses the reasons for repeating theft events in general terms (seriousness, distrust, poverty, lack of morality or legal awareness), it is largely generic and not tailored to the specific content of the story or the question, plus it is not in the target language.",
+        "Answer_3": "This answer is incomplete, repetitive, and fails to properly respond to the question. The content is a mix of templated question-answer forms and is incoherent and off-topic, contributing nothing meaningful.",
+        "Answer_1": "This answer is entirely off-topic and irrelevant to both the story and the question, discussing a boy-girl relationship instead of theft or social issues. It has no similarity to the reference answer and provides incorrect information about the story's main subject."
+    }
+}
+================================================================================
+
+=== Workbook: urdu_stories.xlsx | Sheet: Story_2_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_2",
+        3: "Answer_5",
+        4: "Answer_3",
+        5: "Answer_1",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer attempts to provide a symbolic interpretation of Hajji Sahib's act, relating it to experiences and memories from the past and their inescapable nature. Although not as comprehensive or close to the reference as possible, it makes an effort to discuss symbolism, which aligns with the reference answer's focus on the act's symbolic meaning.",
+        "Answer_2": "This answer discusses Hajji Sahib's desire and the symbolic aspect of his act in a vague manner. It talks about his wish and returning, but lacks depth and misses key symbolic elements such as struggle, sacrifice, obstacles, and failure. However, it tries to take a symbolic angle, so it is ranked above purely irrelevant or non-answers.",
+        "Answer_5": "This is essentially a copy-paste of the question itself and does not provide any explanation or answer. As such, it is not useful, but at least it restates the question, so it ranks above completely irrelevant answers.",
+        "Answer_3": "This answer, with a single word 'ہڈھڑھیں', has no relevance or connection to the story, question, or symbolic interpretation.",
+        "Answer_1": "This answer does not make any relevant point, instead it goes off-topic and includes incomprehensible sentences, not related to the story or question.",
+        "Answer_4": "This answer is written in Chinese, which completely disregards the instruction that reasoning must be in English and the context is Urdu. It also does not engage directly with the story and mostly speculates on vague symbolic meaning, showing a lack of relevance to the story's specific symbolic themes."
+    }
+}
+================================================================================
+
+=== Workbook: urdu_stories.xlsx | Sheet: Story_3_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_2",
+        3: "Answer_4",
+        4: "Answer_5",
+        5: "Answer_3",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_1": "This answer most closely matches the reference. It discusses the deep shock, pain, and inexpressibility of emotions experienced after the attack, and connects the silence to a sense that words cannot capture such trauma, aligning with the reference's themes of helplessness, grief, and the weight of silence after disaster.",
+        "Answer_2": "Although a bit repetitive and not fully coherent, this answer identifies the symbolic presence of the 'makrooh' bird and touches on the theme of the silence accentuating the horror. However, it lacks the depth and strong emotional explanation found in Answer_1.",
+        "Answer_4": "This answer misinterprets the story; instead of describing shock and helplessness, it attributes the silence to 'dishonesty and ingratitude', which is not supported by the story or the reference answer. There is a surface attempt to analyze, but the core emotional and thematic alignment is incorrect.",
+        "Answer_5": "This is an incomplete answer that merely restates the question with only introductory text. It does not provide any analysis or emotional insight, making it much less similar to the reference answer.",
+        "Answer_3": "The answer is mostly incoherent repetition and does not provide any meaningful discussion of the themes, emotions, or message of the story. It does not align with the reference answer.",
+        "Answer_6": "This is nonsensical and consists of meaningless repetition. It provides no relevant content or analysis in response to the question and is therefore ranked last."
+    }
+}
+================================================================================
+

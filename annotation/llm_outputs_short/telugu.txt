@@ -1,0 +1,41 @@
+=== Workbook: telugu_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_3",
+        3: "Answer_1",
+        4: "Answer_4",
+        5: "Answer_2",
+        6: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer closely aligns with the reference by discussing both the language style and poetic structure. It mentions repetition and rhythm, highlighting how they contribute to the poem’s power and message. The reasoning is coherent and contextually accurate.",
+        "Answer_3": "This answer talks about language style and structure but provides an overly simplified analysis. It lacks details about poetic devices and emotional depth mentioned in the reference answer.",
+        "Answer_1": "This answer merely quotes lines from the poem ('పదండి ముందుకు!') without offering any analytical insight into the language or structure, making it minimally relevant.",
+        "Answer_4": "This answer is off-topic and appears to be a system-generated or mismatched response unrelated to the question about poetic style.",
+        "Answer_2": "This answer contains only a series of symbols and does not provide any meaningful content related to the question.",
+        "Answer_5": "This answer consists solely of exclamation marks, offering no relevant or interpretable response."
+    }
+}
+================================================================================
+
+=== Workbook: telugu_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_1",
+        3: "Answer_6",
+        4: "Answer_2",
+        5: "Answer_3",
+        6: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_4": "Provides a clear and relevant evaluation of both the language style and poetic structure, mentioning rhythm, meter, and reader experience, closely aligning with the reference answer.",
+        "Answer_1": "Mentions the language style and poetic structure briefly, but lacks detailed analysis or examples, making it partially aligned with the reference.",
+        "Answer_6": "Attempts to analyze language style and poetic elements with examples, but contains mixed Chinese text, reducing clarity and direct relevance.",
+        "Answer_2": "Sentences are incoherent and do not provide meaningful insights about language style or poetic structure.",
+        "Answer_3": "Repeats the question and does not provide any analysis, thus irrelevant.",
+        "Answer_5": "Contains only placeholder symbols without any informative content, making it the least relevant."
+    }
+}
+================================================================================

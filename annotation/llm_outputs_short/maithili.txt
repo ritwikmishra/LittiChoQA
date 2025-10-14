@@ -1,0 +1,126 @@
+=== Workbook: maithili_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_6",
+        3: "Answer_3",
+        4: "Answer_1",
+        5: "Answer_2",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_5": "Answer_5 summarizes both key points: Gonu Jha did not fear Kali’s terrifying form because he considered himself like her child (using the tiger analogy), and he responded with laughter. This best captures the essence of the reference, mentioning both the reason for lack of fear and the nature of his reaction.",
+        "Answer_6": "Answer_6 repeats Gonu Jha’s comparison (the tiger analogy) nearly verbatim from the story and reference answer, directly addressing why he didn't feel fear and how he explained his reaction. However, it lacks the mention of laughter, which was an important part of his reaction as per the reference.",
+        "Answer_3": "Answer_3 contains a partial story excerpt, providing the analogy about the child and tiger and Gonu’s response, but it is cut off and incomplete. Hence, while it includes one key reason, it does not fully address the entire answer as required.",
+        "Answer_1": "Answer_1 just says 'No', which does not attempt to answer the question about why Gonu Jha was not afraid or how he reacted. It is extremely minimal and not informative.",
+        "Answer_2": "Answer_2 is not in Maithili and instead discusses in Chinese the method of Gonu’s response, which also does not correspond to the contents of the story or the reference answer accurately. It misrepresents Gonu’s reaction and context.",
+        "Answer_4": "Answer_4 consists only of a stray phrase, 'माँ कालीक', and provides no meaningful answer."
+    }
+}
+================================================================================
+
+=== Workbook: maithili_stories.xlsx | Sheet: Story_2_short_l6 ===
+{
+    "Rankings": {
+        "1": "Answer_6",
+        "2": "Answer_3",
+        "3": "Answer_5",
+        "4": "Answer_2",
+        "5": "Answer_1",
+        "6": "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_6": "Answer_6 most closely matches the reference answer by clearly explaining the difference between the curse (श्राप) and the blessing (आशीर्वाद), noting that the curse brought suffering for breaking a promise and the blessing removed that suffering, allowing Gonu Jha to recover. It also accurately relates this to the moral message about keeping one's promises, which parallels the reference answer's thematic content.",
+        "Answer_3": "Answer_3 attempts to mention both the curse and the blessing but is vague and somewhat incoherent. It repeats phrases from the story rather than explicitly answering the question. However, it still tries to address the concepts of curse and blessing, which sets it above the rest apart from Answer_6.",
+        "Answer_5": "Answer_5 presents a multiple-choice answer and selects 'love of Kamala Maiya for Gonu Jha', which does not answer the question regarding the difference between curse and blessing nor describes the impact on the story. It is off-topic but somewhat thematically related, so it ranks above unrelated or nonsensical answers.",
+        "Answer_2": "Answer_2 only lists sequential events from the story without actually answering the specific question about the difference between the curse and the blessing or their effect on the story. It is an account rather than an analysis.",
+        "Answer_1": "Answer_1 does not answer the question at all, simply repeating unrelated or incomplete statements about 'fear in the curse given to Gonu Jha.' There is no attempt to describe the difference between curse and blessing or their narrative impact.",
+        "Answer_4": "Answer_4 is written in Chinese and refers to events (Kamala Maiya's sacrifice) that did not occur in the story provided. It is completely irrelevant and factually incorrect, making it the least similar to the reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: maithili_stories.xlsx | Sheet: Story_3_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_3",
+        3: "Answer_1",
+        4: "Answer_2",
+        5: "Answer_6",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_5": "This answer correctly states that Gonoo Jha used his intelligence to put forward three conditions to protect himself from the courtiers' conspiracy. It addresses both his cunning (buddhimatta) and the purpose of his conditions—to display loyalty and ensure his own safety. Although not detailed, it captures the essence of the reference answer.",
+        "Answer_3": "Answer 3 mentions Gonoo Jha's awareness of the conspiracy and his decision to place three conditions before the king, matching the main event in the reference answer. However, it does not specify what the conditions were or explain their significance, so it is less comprehensive than Answer 5.",
+        "Answer_1": "This answer vaguely mentions Gonoo Jha used his intellect to come up with a solution and kept three conditions. However, it mislists the conditions and provides generic statements without details or significance, making it less accurate than Answers 5 and 3, but still somewhat on-topic.",
+        "Answer_2": "Answer 2 is repetitive, lacks clarity, and does not specify Gonoo Jha's actual actions or the content/significance of his conditions, so it is of very low quality.",
+        "Answer_6": "This answer simply repeats 'for Gonoo Jha's decision' three times, provides no relevant details, and does not address either the conditions or their significance.",
+        "Answer_4": "This answer is completely off-topic, mentioning the king's father's death and unrelated events. It demonstrates no understanding of the actual story events, so it ranks lowest."
+    }
+}
+================================================================================
+
+=== Workbook: maithili_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_5",
+        3: "Answer_4",
+        4: "Answer_3",
+        5: "Answer_2",
+        6: "Answer_1"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer comes closest to the reference answer. It refers to the metaphor comparing Gonu Jha's relationship to Maa Kali with that of a child and tigress, directly quoting the relevant part, and correctly addresses both why he wasn't afraid and how he responded. Though it does not mention the laughter or humor aspect, it is otherwise the most faithful in content.",
+        "Answer_5": "This answer attempts to address the question and refers to the child leaping and playing, which reflects the story's comparison. However, the structure is repetitive, incomplete, and does not clearly capture Gonu Jha’s response or the aspect of his humor and direct dialogue. Still, it is closer to the correct theme than the rest.",
+        "Answer_4": "This answer is mostly a mix of incorrect options, explanatory notes and partial translations, rather than a clear or coherent answer. The reference to 'suddenly stomped' is not relevant to the story or reference answer. It shows some attempt to answer, but contains significant factual errors.",
+        "Answer_3": "This answer is factually incorrect; it talks about Gonu Jha's mother expressing displeasure to his father regarding a tiger, which is unrelated to the story or the question.",
+        "Answer_2": "This answer is not in Maithili, is incomplete and does not provide any relevant information about the story or the question. It does not attempt to address either aspect of the reference answer.",
+        "Answer_1": "This answer is a single word, 'लालकाकी', which is unrelated to the story and question. It provides no relevant information."
+    }
+}
+================================================================================
+
+=== Workbook: maithili_stories.xlsx | Sheet: Story_2_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_4",
+        3: "Answer_5",
+        4: "Answer_1",
+        5: "Answer_2",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_3": "Answer_3, despite some repetition and superficial statements, directly addresses the generic difference between 'curse' (श्राप) and 'blessing' (आशीर्वाद), touching on one causing suffering and the other, prosperity. Although it lacks details specific to the story, it fits closest in terms of the conceptual contrast requested in the question, overlapping somewhat with the reference answer.",
+        "Answer_4": "Answer_4 attempts to compare the curse and blessing, mentioning both, but invents details not present in the story (e.g., Shiva's anger, eternal wandering, separation from loved ones, etc.), which detracts from fidelity to the source. Still, it somewhat maintains the contrast between the two concepts in line with the question.",
+        "Answer_5": "Answer_5 is essentially incomplete, only restating the question and not attempting to answer it in any way. This shows minimal relevance.",
+        "Answer_1": "Answer_1 introduces a completely unrelated narrative—involving the death of Gonu Jha, his parents, and Saurashtra—which is not in the original story. The answer fabricates events and does not address the asked comparison at all.",
+        "Answer_2": "Answer_2 is irrelevant and confusing: it talks about mothers-in-law, daughters, and so forth, clearly referencing other stories or fabrications, not the given text. The content is disconnected from the question and reference answer.",
+        "Answer_6": "Answer_6 is entirely irrelevant, being written in Chinese and referencing 'Deepa' and 'Manish', which are not related to this story at all. It does not address the question or story in any way."
+    }
+}
+================================================================================
+
+=== Workbook: maithili_stories.xlsx | Sheet: Story_3_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_3",
+        3: "Answer_4",
+        4: "Answer_5",
+        5: "Answer_2",
+        6: "Answer_1"
+    },
+    "Reasoning": {
+        "Answer_6": "Answer_6 most closely aligns with the reference answer. It clearly states that Gonu Jha used his intelligence and laid down several conditions (though the described conditions are partially inaccurate and somewhat fabricated). The answer explains the importance of the conditions as protecting himself from trickery and ensuring his security and dignity. The structure and explanation are the closest to the reference, despite mixing up specific details.",
+        "Answer_3": "Answer_3 provides multiple points, but these are mostly generic, referring to using 'buddhimatta' and vague reference to burglar/chors, which does not map to the story’s content about court conspiracy and specific conditions. Still, it acknowledges Gonu Jha's use of intelligence to escape a threat, which is conceptually closer than the completely irrelevant or repetitive answers.",
+        "Answer_4": "Answer_4 is irrelevant as it mainly discusses Gonu Jha’s intelligence being recognized by the king and does not talk at all about the three conditions or the specific conspiracy, as is required by the question.",
+        "Answer_5": "Answer_5 is mostly an irrelevant story about a pandit and a burglar, and includes Hindi text as well. It does not address the case of Gonu Jha's three conditions or his strategy against the conspiracy.",
+        "Answer_2": "Answer_2 is just a listing of options (A, B, C, D) with only 'C)' as an answer, which offers no relevant content or explanation regarding the question.",
+        "Answer_1": "Answer_1 repeats the question multiple times and provides no answer or reasoning whatsoever. It is the least useful."
+    }
+}
+================================================================================
+

@@ -1,0 +1,126 @@
+=== Workbook: konkani_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_5",
+        3: "Answer_1",
+        4: "Answer_3",
+        5: "Answer_2",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer shows awareness of Antulo's thoughts about changing his situation by going away and leaving his current state, which aligns with the reference answer highlighting his plans to leave the house and avoid responsibilities. It mentions both thinking about the future and the intention to change his situation, mirroring the reference's key points, though it's somewhat repetitive and not as detailed.",
+        "Answer_5": "This answer captures that Antulo considers theft as an option but is not happy about it, and he is only listening to his wife's suggestion due to lack of alternatives. While it does not match the reference answer as precisely as Answer_6 (about running away and avoiding responsibility), it does mention possible choices in changing his situation, so it ranks second.",
+        "Answer_1": "This answer focuses on theft and survival, but incorrectly states that Antulo is considering theft as a determined plan, whereas in the story and the reference, theft is only raised in a rhetorical sense. The answer does not effectively capture the nuance of Antulo's escapist and irresponsible thought process as described in the reference answer.",
+        "Answer_3": "This is a minimal answer that only says 'No' repeatedly, without explanation or reference to the story's situation. It fails to cover the detail and intent of the reference answer, which discusses escapism rather than a simple 'yes' or 'no'.",
+        "Answer_2": "This answer repeats a single phrase multiple times, providing no relevant information or relation to the question or reference answer. It is non-informative and therefore ranks low.",
+        "Answer_4": "This answer seems to confuse the plot, mentioning 'Nashib' as a person selling a bullock, which is unrelated to the provided story. The narrative, details, and context do not match the story or the question, so it is the least relevant answer."
+    }
+}
+================================================================================
+
+=== Workbook: konkani_stories.xlsx | Sheet: Story_2_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_4",
+        3: "Answer_6",
+        4: "Answer_2",
+        5: "Answer_1",
+        6: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_3": "Answer_3 closely mirrors the reference answer in that it states nissragachem varnann (description of nature) profoundly influences the atmosphere of the story, mentioning the beauty and peacefulness that nature adds, similar in spirit and focus to the reference. There is repetition but the content is most relevant.",
+        "Answer_4": "Answer_4 also mentions the effect of nature on the story's mood, describing in greater detail various natural elements (trees, vines, dew, fruits) and their positive influence (coolness, comfort, joy). Although some details may not be present in the original story, the general approach and explanation is similar to the reference answer.",
+        "Answer_6": "Answer_6 gives a very brief but correct answer: that nature's description enhances the mood of the story. While accurate, it lacks the detail, explanation, and supporting examples seen in the reference answer.",
+        "Answer_2": "Answer_2 touches on the influence of description on atmosphere, but focuses on festival/celebration elements rather than natural descriptions, and references sentences that do not pertain directly to nature, thus missing the specific focus of the reference.",
+        "Answer_1": "Answer_1 is almost entirely repetitive and generic, keeps using 'prabhav' (influence), and fails to show any specifics or actual content relevant to the question or the reference answer.",
+        "Answer_5": "Answer_5 simply repeats a line about gratitude that is not related to the question about nature's effect on atmosphere. It does not address the required topic, so it is ranked last."
+    }
+}
+================================================================================
+
+=== Workbook: konkani_stories.xlsx | Sheet: Story_3_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_4",
+        3: "Answer_1",
+        4: "Answer_2",
+        5: "Answer_3",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_5": "This answer captures the emotional complexity and the sense of relief or release experienced by the protagonist after Shekhar's death, closely matching the reference answer which highlights suffering, helplessness, and ultimately the search for liberation. Answer_5 mentions feelings of relief (सूटका), lack of satisfaction in life, and a sense of independence—matching the reference's core points.",
+        "Answer_4": "This answer mentions 'happiness and independence' as the mental state, which partially aligns with the 'release' in the reference answer but contradicts the noted suffering and helplessness. While not entirely reflective of the protagonist's struggle and pain, it acknowledges at least one layer (liberation/independence).",
+        "Answer_1": "Answer_1 only states 'techi vayt dishta' (she sees it badly), which is a very shallow reflection of the protagonist's emotional state. It lacks the depth found in the reference answer regarding suffering, helplessness, and search for liberation.",
+        "Answer_2": "This answer is mostly a repetition/summary of story details and does not address the protagonist's mental state in the last scene. It does not answer the question nor reflect the reference answer.",
+        "Answer_3": "This answer is almost entirely gibberish, an unstructured list of alphabets and random annotations, with a very brief mention of emotion ('vedanadayak', 'upeg') but with no explanation or direct connection to the end scene or the reference answer.",
+        "Answer_6": "This is an irrelevant answer in Hindi, not addressing the question or any aspect of the story or reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: konkani_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_3",
+        3: "Answer_1",
+        4: "Answer_4",
+        5: "Answer_5",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_6": "Answer_6 is the most similar to the reference answer because it directly states that Antulya decides to change his situation and considers changing his future. While it is brief and lacks detail, it aligns with the reference answer by clearly indicating intention and thought toward change.",
+        "Answer_3": "Answer_3 mentions that there is a possibility of a change in Antulya's situation in the future, which is related to the reference answer. However, it is more vague and generic, not detailing Antulya's avoidance or manner of thinking as specifically as the reference.",
+        "Answer_1": "Answer_1 consists only of section marker symbols and contains no answer or content. Thus, it is not relevant or similar to the reference, but is marginally better than the off-topic/nearly-gibberish answers.",
+        "Answer_4": "Answer_4 is written in Telugu and is largely incoherent and irrelevant to both the story and the question in Konkani. It does not provide any answer to the question asked.",
+        "Answer_5": "Answer_5 contains a mix of Odia and Hindi/Marathi sentences about tattoos, which have no relation to the story, question, or reference answer. It is completely off-topic.",
+        "Answer_2": "Answer_2 is entirely unrelated to the story, question, or reference answer. It claims the story is about birds and written in Telugu, which is incorrect—the story is in Konkani and revolves around Antulya. The whole answer is a fabricated justification for not answering, which shows strong dissimilarity to the reference."
+    }
+}
+================================================================================
+
+=== Workbook: konkani_stories.xlsx | Sheet: Story_2_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_3",
+        3: "Answer_1",
+        4: "Answer_2",
+        5: "Answer_5",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer closely follows the reference answer in both content and structure. It emphasizes the importance and impact of nature's description on the atmosphere of the story and steps through its significance and effectiveness, though it repeats itself and lacks some details, it is most aligned with the reference answer.",
+        "Answer_3": "This answer briefly mentions that the description of nature affects the atmosphere of the story. However, it is concise and does not elaborate on how or to what extent, making it less thorough than Answer_4 but more accurate and relevant than the remaining answers.",
+        "Answer_1": "This answer is vague and only states that nature's description is impactful without specifying effects on the story's atmosphere or providing details. It is less aligned with the reference answer than Answers 4 and 3.",
+        "Answer_2": "This answer is not in the target language and is irrelevant. It analyzes a different text, providing a generic and inaccurate response with respect to the story and question asked.",
+        "Answer_5": "This answer is not in Konkani, and does not address the question at all. It seems unrelated and is therefore ranked lower.",
+        "Answer_6": "This answer is also not in Konkani and completely unrelated to the question and reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: konkani_stories.xlsx | Sheet: Story_3_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_2",
+        2: "Answer_4",
+        3: "Answer_1",
+        4: "Answer_3",
+        5: "Answer_5",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_2": "Answer_2, despite some repetition, responds directly in Marathi (close to Konkani) and says 'The protagonist's feelings seem different/disturbed', which is the closest of all answers to the reference answer that discusses internal turmoil, helplessness, and struggle. Although not very elaborate, it at least keeps to the point and doesn't add irrelevant or wrong content.",
+        "Answer_4": "Answer_4 is somewhat relevant; it describes the protagonist trying to cherish memories for future need, which can be interpreted as a kind of struggle for comfort, slightly related to the reference answer's idea of searching for solace amidst pain. However, it is less precise and doesn't mention distress or a desire for release/escape directly.",
+        "Answer_1": "Answer_1 is a translation or analysis in Chinese which interprets the mood as 'sad and angry.' This does not accurately represent the nuanced inner turmoil, helplessness, or search for release described in the reference answer and the story's conclusion, so it is placed below the more relevant Marathi/Konkani responses.",
+        "Answer_3": "Answer_3 appears to be either a placeholder or an unrelated text; it does not answer the question or relate to the provided story or the reference answer at all.",
+        "Answer_5": "Answer_5 is merely a string of numbers with no substantive response to the question. It provides no information.",
+        "Answer_6": "Answer_6 is in Telugu with an incomplete phrase, completely unrelated and not an answer to the question or content provided."
+    }
+}
+================================================================================
+

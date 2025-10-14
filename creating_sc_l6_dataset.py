@@ -48,29 +48,50 @@ def shorten_context(input_jsonl: str, munfquad_dir: str, output_jsonl: str) -> N
         top_indices.sort()
         short_story = "\n".join([story_lines[i] for i in top_indices])
 
-        new_prompt = (
-            "Read the story and answer the question. "
-            f"## Story: \n {short_story} "
-            f"## Question: \n {question} "
-            f"## Answer: \n "
-        )
-        completion = (
-            f"{answer}"
-        )
+        # Build messages format
+        system_message = {
+            "role": "system",
+            "content": "You are a helpful assistant. Read the story and answer the question."
+        }
+        user_message = {
+            "role": "user",
+            "content": f"## Story:\n{short_story}\n\n## Question:\n{question}"
+        }
+        assistant_message = {
+            "role": "assistant",
+            "content": answer
+        }
 
-        processed_entries.append({"qid": qid, "prompt": new_prompt, "completion": completion})
+        processed_entries.append({
+            "qid": qid,
+            "messages": [system_message, user_message, assistant_message]
+        })
 
-    processed_entries.sort(key=lambda x: len(x["prompt"]))
+    # Sort by user prompt length for consistency
+    processed_entries.sort(key=lambda x: len(x["messages"][1]["content"]))
+        # new_prompt = (
+        #     "Read the story and answer the question. "
+        #     f"## Story: \n {short_story} "
+        #     f"## Question: \n {question} "
+        #     f"## Answer: \n "
+        # )
+        # completion = (
+        #     f"{answer}"
+        # )
+
+        # processed_entries.append({"qid": qid, "prompt": new_prompt, "completion": completion})
+
+    # processed_entries.sort(key=lambda x: len(x["prompt"]))
     with open(output_jsonl, 'w', encoding='utf-8') as outfile:
         for entry in tqdm(processed_entries, desc=f"Writing {os.path.basename(output_jsonl)}", unit="entry"):
             outfile.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
 
-munfquad_dir = "/media/data_dump/aarya220007/munfquad"
-input_base = "/media/data_dump/aarya220007/data/fc_dataset"
-output_base = "/media/data_dump/aarya220007/data/sc_l6_dataset"
-# input_base = "/media/data_dump/aarya220007/data_test/fc_dataset"
-# output_base = "/media/data_dump/aarya220007/data_test/sc_l6_dataset"
+munfquad_dir = "/media/data_dump/Ritwik/git/mqna/data/LittiChoQA/shorten_context/munfquad"
+input_base = "/media/data_dump/aarya220007/git/IP_Indic_Languages/finetuning/data/fc_dataset"
+# output_base = "/media/data_dump/aarya220007/git/IP_Indic_Languages/finetuning/data/sc_l6_dataset"
+# input_base = "/media/data_dump/aarya220007/git/IP_Indic_Languages/finetuning/data_test/fc_dataset"
+output_base = "/media/data_dump/aarya220007/git/IP_Indic_Languages/finetuning/data_test/sc_l6_dataset"
 
 os.makedirs(output_base, exist_ok=True)
 

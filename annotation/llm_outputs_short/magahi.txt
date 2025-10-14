@@ -1,0 +1,42 @@
+=== Workbook: magahi_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_3",
+        3: "Answer_5",
+        4: "Answer_4",
+        5: "Answer_6",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 directly addresses the question by pointing out that one should not fall into the trap of pickpockets, aligning with the reference answer's message about being alert and cautious. Though it is brief and does not cover all nuances such as the warning against trusting based on appearance or speech, it closely matches the reference answer's core message.",
+        "Answer_3": "Answer_3 explains that pickpockets are clever and exploit sincere people, summarizing the story's lesson. It also starts to describe the pickpocket's method, mentioning deceit and exploiting others, which is similar to the reference answer. However, it is less clear and incomplete in comparing appearance or sweet talk as a warning to society, thus it comes after Answer_1.",
+        "Answer_5": "Answer_5 refers to the importance of awareness and responding to danger, which somewhat matches the idea of societal vigilance in the reference answer. However, its explanation is unclear and deviates by suggesting odd advice (like putting someone's hand in your pocket), and does not directly tie to the story's specific events or cleverness of the pickpocket. Thus, it ranks lower than Answers 1 and 3.",
+        "Answer_4": "Answer_4 is more of a multiple-choice response and includes a Chinese explanation. While one option ('D') touches on clever people becoming more influential than authorities, which relates tangentially to the pickpocket's cleverness, it does not address the main message of vigilance or being wary of appearances presented in the reference answer. Thus, it is rated lower.",
+        "Answer_6": "Answer_6 presents a series of generic statements about society that are not focused on the story or the pickpocket's actions. It fails to address the core message of vigilance or how criminals operate cleverly, diverging from both the question and the reference answer.",
+        "Answer_2": "Answer_2 includes unrelated and partly repetitive statements about the lack of love and help in society and seems to be about a different story ('गाछ-बिरिछ') with extraneous information. It does not address the question, the pickpocket's cleverness, or the societal message drawn from the story, making it the least relevant."
+    }
+}
+================================================================================
+
+=== Workbook: magahi_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_2",
+        2: "Answer_3",
+        3: "Answer_4",
+        4: "Answer_1",
+        5: "Answer_5",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_2": "This answer, though brief, is the only one that is contextually correct, relevant, and in Magahi. It directly affirms that there is a societal message in the story regarding the pickpocket's cleverness and methods, which aligns with the reference answer's focus, though lacks specific detail.",
+        "Answer_3": "This answer attempts to address the message about cleverness and morality, and deals with some aspects of the story's theme, but the explanation is muddled by generic concepts. It partially connects to the reference answer but adds content not in the story and is much less precise.",
+        "Answer_4": "This answer is repetitive and doesn't provide any relevant information, simply repeating the question multiple times with some prompting phrases. Therefore, it doesn't answer the question at all.",
+        "Answer_1": "This answer is completely irrelevant. It refers to a completely different story, characters, and themes unrelated to the provided story, mixing in non-Magahi context.",
+        "Answer_5": "This answer is written in Chinese and responds that the story does not mention anything about the pickpocket's cleverness or its societal message, which is incorrect. It also refers to a different story altogether.",
+        "Answer_6": "This answer is irrelevant and written in a completely different language (Urdu/Arabic) and does not pertain to the story or question at all."
+    }
+}
+================================================================================
+

@@ -1,0 +1,69 @@
+=== Workbook: magahi_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_6",
+        3: "Answer_7",
+        4: "Answer_5",
+        5: "Answer_1",
+        6: "Answer_2",
+        7: "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_4": "'Answer_4' gives a comprehensive and nuanced analysis of the use of 'औकात' in the story, touching on each character's perspective, the social hypocrisy, the contrast between reality and show, and ties it directly to the story's message and satire. It explains how 'औकात' reveals the true nature of the characters' thoughts and actions.",
+        "Answer_6": "'Answer_6' also gives a good explanation about how 'औकात' reflects different meanings for different characters, especially focusing on the negotiation and questioning of 'औकात' by Munna Ji. It analyzes the theme through the characters' behaviors and thinking, but is not as detailed and clear as Answer_4 and misses some higher-level implications like social satire.",
+        "Answer_7": "'Answer_7' attempts to explain the importance of the word 'औकात' and its impact on characters' thoughts and actions, summarizing aspects of the story's situation. However, it is repetitive, less coherent, and does not go as in-depth as Answers 4 and 6 regarding thematic implications.",
+        "Answer_5": "'Answer_5' mostly recapitulates a portion of the story, summarizing actions rather than analyzing the meaning or implications of 'औकात'. It is cut off and does not provide much direct reasoning tied to the question, so it ranks below more analytical responses.",
+        "Answer_1": "'Answer_1' provides factual statements about the actions of Verma Ji and some others, mentioning 'औकात' and dowry, but the options are incomplete and seem contradictory (A and B), failing to analyze or synthesize a clear explanation regarding the role of 'औकात'.",
+        "Answer_2": "'Answer_2' simply rewords the question in Magahi and does not attempt to answer it, so it ranks very low.",
+        "Answer_3": "'Answer_3' is in English, mistakenly translates 'औकात' as 'ounce,' and gives unrelated details. It refers to pressure about dowry in general, but misattributes roles and context entirely, showing a lack of understanding of the story, so it ranks last."
+    }
+}
+================================================================================
+
+=== Workbook: magahi_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_5",
+        3: "Answer_3",
+        4: "Answer_7",
+        5: "Answer_1",
+        6: "Answer_6",
+        7: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer accurately and succinctly explains how the falling of the ring became the main problem in the story (the king's suspicion leading to a breakdown in relationship with the queen) and draws a meaningful lesson about mistrust, lack of communication, and the need for understanding in relationships. It contextualizes the event, reflects on its moral, and is well-grounded in the narrative.",
+        "Answer_5": "This answer clearly describes the event—king picking up the ring and misunderstanding leading to communication breakdown—and draws a lesson about how small incidents can cause big issues in relationships if not resolved with dialogue and understanding. It is brief but captures the essential problem and moral, though it is a little less nuanced than Answer_4.",
+        "Answer_3": "This answer links the falling of the ring to the marriage issues between the king and queen, and reflects on how small matters can become big problems if left unspoken. While thematically accurate, its explanation is more generic and less precise than Answers 4 and 5, lacking specific reference to suspicion or miscommunication, and trailing off unfinished.",
+        "Answer_7": "This answer gives a detailed recount of the story events up to the ring falling and the ensuing issue between the king and queen. However, it does not provide any explicit moral lesson or insight into what can be learned from the incident, which the question asks for.",
+        "Answer_1": "While this answer talks about the importance of small things in life, it veers away from the story's central conflict (mistrust and miscommunication) and its specific lesson. The response is too general and somewhat repetitive, failing to address the core problem arising from the ring incident.",
+        "Answer_6": "This answer is mostly a step-by-step retelling of story events, with a partial explanation included at the end (some of which is in Chinese). It misses out on highlighting the main lesson or moral from the event, and its summary lacks clarity and relevance.",
+        "Answer_2": "This answer is a series of unrelated statements about the ring falling into various people's hands. It does not make sense in the context of the story, does not address the cause of the main problem, nor does it provide any lesson or insight. It appears mostly nonsensical and irrelevant."
+    }
+}
+================================================================================
+
+=== Workbook: magahi_stories.xlsx | Sheet: Story_3 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_7",
+        3: "Answer_1",
+        4: "Answer_4",
+        5: "Answer_6",
+        6: "Answer_3",
+        7: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_5": "This answer provides a detailed, accurate, and coherent summary of all the key actions Raja Ji took out of attachment to, and defense of, his garden: warning the shepherd, using the stick, clever tactics (using the basket and disguise), killing enemies (shepherds, demons, tigers), and even risking his life. It directly relates details to the story and covers both emotional attachment and actual measures for protection.",
+        "Answer_7": "This answer concisely but correctly lists Raja Ji’s attachment and the main measures he took – using his staff to kill shepherds, demons, and tigers. It is accurate but less detailed than Answer_5, missing the element of cleverness with the basket/disguise and the full context of warnings and tactical approach.",
+        "Answer_1": "This answer repeats large portions of the relevant story events almost verbatim, so it contains the correct information (use of basket/petari, disguise, actions against daityas and tigers). However, the answer is too long, includes unnecessary narrative and is somewhat cut off. It's not well formatted as a direct answer to the question, but the content is mostly relevant.",
+        "Answer_4": "This answer is somewhat repetitive, vague in places, and combines correct events (basket fake, suta/stick attack on demons and tigers), but suffers from lack of structure and coherent narration. It provides some important story details but is less clear and less complete than the better-ranked answers.",
+        "Answer_6": "This answer is a list, mixing correct and incorrect/irrelevant statements about garden arrangements, who stayed there, and general statements about the garden's beauty. Only a few ideas are relevant (love for the garden, actions to protect), but it's mostly vague and sometimes incorrect regarding the story events.",
+        "Answer_3": "This answer is a general, high-level summary. It does not mention any specific actions Raja Ji took (such as the warning, use of stick, disguising with petari, killing enemies, etc.). It gives the correct overall feeling but lacks crucial detail, so it ranks low.",
+        "Answer_2": "This answer is entirely irrelevant and not in the correct language. It describes events that did not occur in the provided story, mixes up characters, and does not address the question. It is the weakest of all."
+    }
+}
+================================================================================
+

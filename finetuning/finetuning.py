@@ -122,6 +122,44 @@ def tokenize_and_build_labels(batch):
         "labels": labels
     }
 
+# --------------------------
+# Tokenize function
+# --------------------------
+def tokenize_and_build_labels(batch):
+    prompts = batch["prompt"]
+    completions = batch["completion"]
+    full_texts = [p + c for p, c in zip(prompts, completions)]
+
+    tokenized_prompts = tokenizer(prompts, truncation=False, add_special_tokens=False)
+    tokenized_full = tokenizer(
+        full_texts,
+        truncation=True,
+        max_length=args.max_len,
+        padding="max_length",
+        return_attention_mask=True
+    )
+
+    input_ids = tokenized_full["input_ids"]
+    attention_mask = tokenized_full["attention_mask"]
+
+    labels = []
+    for i, ids in enumerate(input_ids):
+        prompt_len = len(tokenized_prompts["input_ids"][i])
+        if prompt_len >= args.max_len:
+            lbl = [-100] * args.max_len
+        else:
+            lbl = ids.copy()
+            for j in range(prompt_len):
+                lbl[j] = -100
+        labels.append(lbl)
+
+    return {
+        "input_ids": input_ids,
+        "attention_mask": attention_mask,
+        "labels": labels
+    }
+
+
 
 # Map datasets
 tokenized_train = train_dataset.map(

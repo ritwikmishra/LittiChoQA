@@ -1,0 +1,42 @@
+=== Workbook: pali_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_4",
+        3: "Answer_5",
+        4: "Answer_3",
+        5: "Answer_2",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 attempts to discuss aspects of friendship portrayed in the story, referencing actions of the king and the moral lessons concerning the treatment of friends, which is partially relevant. Though incomplete and somewhat fragmented, it shows more understanding and content related to the story and reference answer than the rest.",
+        "Answer_4": "Answer_4 contains some elements mentioning 'mettacetanaya' (thoughts of loving kindness), and actions by Somadatta related to friendship and good deeds, which is closer to the themes in the reference answer but gets lost in repetition and mostly fails to convey a full answer.",
+        "Answer_5": "Answer_5 simply repeats the question in multiple ways, including some unrelated language, and indicates the sentence is part of the story, not answering the question. However, it does not make completely irrelevant or incorrect statements, so it ranks above the less relevant or nonsensical answers.",
+        "Answer_3": "Answer_3 is mostly unrelated and appears nonsensical regarding the specifics of the story, mentioning 'women's admirable deeds' instead of matters pertaining to the friendship or the actual events from the story.",
+        "Answer_2": "Answer_2 simply repeats the phrase about stories and suttas in a formulaic pattern without engaging with the actual content of the story or the desired analysis of the moral lesson. It contributes nothing relevant to the question.",
+        "Answer_6": "Answer_6 answers in Chinese, providing multiple-choice options, none of which are contextually or linguistically appropriate to the question in Pali. It also interprets the story in an oversimplified and incorrect way, referring to not killing as the main friendship lesson, which is not an accurate reflection of the reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: pali_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_1",
+        3: "Answer_6",
+        4: "Answer_5",
+        5: "Answer_4",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_3": "Although the response is generic and somewhat repetitive, it at least mentions 'mitta-dhamma', 'dhamma', and contrasts various dhammas, which relates to the core concepts of mittadhamma in the reference answer. It attempts to answer what kind of dhamma is taught, which is aligned with the question, even if it doesn't mention story specifics. This is closer in content to the reference answer than the rest.",
+        "Answer_1": "This answer is unrelated to the story provided and refers to puja-archana, which doesn't appear in the story at all. However, it at least tries to interpret the question and make sense of what is being asked, so it is marginally closer than non-answers.",
+        "Answer_6": "Answer_6 gives a very vague statement about the story having a complex message and some lesson about being careful and life-values, which is an extremely weak generalization but at least hints that some moral or value is being taught in the story. This tenuously reflects the 'teaching about mittadhamma' noted in the reference.",
+        "Answer_5": "This answer appears to be in Hindi or Bhojpuri and doesn't relate to the provided story or reference answer at all; it is just generic conversation and does not address mittadhamma or summarize the lesson. Thus, it is ranked lower.",
+        "Answer_4": "Answer_4 appears to be a string of repetitive unrelated text in Telugu, having no relevant content about the story or any concepts, so it is ranked lower.",
+        "Answer_2": "This is just a list of links regarding Sanskrit syllabary with no connection to the question, story, or concepts related to mittadhamma or the lesson, making it the least relevant of all."
+    }
+}
+================================================================================
+

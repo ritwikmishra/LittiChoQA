@@ -1,0 +1,69 @@
+=== Workbook: bhojpuri_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_6",
+        3: "Answer_5",
+        4: "Answer_2",
+        5: "Answer_1",
+        6: "Answer_7",
+        7: "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer provides a comprehensive and accurate understanding of the mother's change in thinking at the end of the story. It clearly explains the mother's realization about why parents sometimes have to be strict, her mix of regret and hope for her daughter's future, and draws a direct connection to the mother's expectation that Fulwa will also understand this when she becomes a mother herself. Overall, it captures both the emotional and thematic essence of the story.",
+        "Answer_6": "This answer closely reflects the key lesson the mother learns: sometimes parents have to harden their hearts for the children's good. It discusses both the mother's internal change and her hopes for her children's future. However, it is less smoothly written and slightly repetitive compared to Answer_4, and does not provide as deep an emotional or contextual analysis.",
+        "Answer_5": "This answer correctly mentions that the mother develops hope for Fulwa's future and wishes she will manage well in her in-law's house. However, it is brief and misses the nuanced emotional shift and insight the mother experiences about parenthood and teaching children, as depicted in the story.",
+        "Answer_2": "This answer only states that the mother has expectations about the future but does not actually convey what those expectations are or what change occurred in the mother's thinking. It lacks detail and does not address the question fully.",
+        "Answer_1": "This answer is mostly incoherent and repeatitive, talking about doubts or questions in the mother's mind without reference to the actual thematic or emotional shifts described at the end of the story. It does not accurately answer the question.",
+        "Answer_7": "This is an incomplete and fragmentary answer, simply repeating part of the question without providing any explanation or detail.",
+        "Answer_3": "This answer is in Chinese, despite the instructions to respond in English, and thus does not comply with the requirements. It also summarizes the story incorrectly by suggesting the mother teaches her daughter by pretending, which is inaccurate within the context of the Bhojpuri story."
+    }
+}
+================================================================================
+
+=== Workbook: bhojpuri_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_5",
+        3: "Answer_4",
+        4: "Answer_2",
+        5: "Answer_7",
+        6: "Answer_3",
+        7: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_1": "This response clearly and accurately summarizes the main character's feelings and decision, highlighting the themes of sacrifice, duty, and patriotism. It connects his personal love with his greater loyalty to the nation and the message for readers. It references specific aspects from the story and provides a well-rounded message.",
+        "Answer_5": "This answer also covers the key points: the depth of love, the soldier's sacrifice, and the priority of duty over personal feelings. However, its phrasing is a bit repetitive and less clear compared to Answer_1, and lacks as strong a connection between different themes.",
+        "Answer_4": "This response touches on important themes like sacrifice, duty, and love, and tries to connect these values to the message for readers. However, some parts are confusing and the language is less precise. It sometimes repeats phrases from the story directly without synthesizing them fully into a coherent answer.",
+        "Answer_2": "This answer is written in Hindi, not Bhojpuri as required. It provides a decent summary, covering the soldier's decision and the central message of national duty over personal loss. However, the use of a different language, and some lack of details specific to the Bhojpuri narrative, makes it less suitable for the prompt.",
+        "Answer_7": "This answer is vague and general, not fully connecting to the details of the original story or the specific emotional and thematic nuances present. It mixes English and Hindi, lacks focus, and doesn't fully address the message about sacrifice for the country.",
+        "Answer_3": "This is not a real answer, but a repetition of the story, not providing any analysis or summary related to the question. It does not answer the question at all.",
+        "Answer_6": "This answer repeats the question text twice without providing any actual answer or reasoning. It does not address the question at all."
+    }
+}
+================================================================================
+
+=== Workbook: bhojpuri_stories.xlsx | Sheet: Story_3 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_7",
+        3: "Answer_1",
+        4: "Answer_6",
+        5: "Answer_2",
+        6: "Answer_5",
+        7: "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer most comprehensively explains both the importance of appreciation (तारीफ आ सराहना) in the story and how it connects different generations. It clearly cites both the student's compliment and the son's compliment, discusses the emotional effect on Birashan, and generalizes the theme to how appreciation bridges generations and strengthens relationships.",
+        "Answer_7": "This answer concisely and correctly identifies the significant role of appreciation, references both generational compliments, and notes their emotional impact on Birashan. However, compared to Answer_4, it is slightly less deep in analysis and misses the concluding generalization about the universality and importance of appreciation.",
+        "Answer_1": "This answer includes relevant story details about the compliments and their effect on Birashan but is incomplete (trails off at the end) and does not clearly link the concept of appreciation to generational connection, making it less thorough than the top two.",
+        "Answer_6": "Although this answer mentions praise and attempts to discuss its role, it is repetitive, somewhat vague, and lacks depth. It doesn't explicitly connect the compliments to generational bridging as well as the higher answers.",
+        "Answer_2": "This answer appears to conflate characters (refers to Taranetra, a name not in the story) and is more of a generic or mismatched analysis not entirely relevant to this story’s specific characters and events. It doesn't directly answer how appreciation connects generations in the given Bhojpuri story.",
+        "Answer_5": "This answer misunderstands the question and gives a generic, confused response unrelated to the narrative or theme about appreciation bridging generations. It lacks both content relevance and accuracy.",
+        "Answer_3": "Simply states 'ऐसा नहीं है।' ('It is not so.'), which does not address the question at all and therefore deserves the lowest rank."
+    }
+}
+================================================================================
+

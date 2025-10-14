@@ -1,0 +1,69 @@
+=== Workbook: braj_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_1",
+        3: "Answer_4",
+        4: "Answer_7",
+        5: "Answer_6",
+        6: "Answer_5",
+        7: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_3": "This answer thoroughly discusses multiple layers of social lessons from the story, such as the problems with superstition and rituals involving sacrifice, the importance of compassion for animals, and the need for rational thinking and true faith. It directly relates to the main events and moral dilemmas faced in the story. It is the most comprehensive and contextually accurate answer.",
+        "Answer_1": "This answer rightly highlights not sacrificing family and respecting animals, which ties in directly with events from the story. However, it is less detailed and nuanced compared to Answer_3, as it doesn't address other important themes like superstition, logic, and compassion as broadly.",
+        "Answer_4": "While this answer lists several points, only the third one about not killing animals during rituals directly relates to the story's teaching. The point about listening to sadhus is questionable, as the sadhu in the story demanded a harmful sacrifice, which the narrative implicitly criticizes. The general advice about thinking before acting is valid but not as directly connected to the story as the higher-ranked answers.",
+        "Answer_7": "This answer brings up the respect for women and daughters, but these topics don't directly emerge as central themes from the specific events of the story. The main story revolves around sacrifice, superstition, and animal reverence, not specifically about gender respect.",
+        "Answer_6": "The answer gives a very generic lesson about not succumbing to force or threats, but this is not a central conflict or message in the story provided. It does not address the main issues of sacrifice, compassion, or superstition found in the narrative.",
+        "Answer_5": "This answer simply dismisses the question and offers no meaningful interpretation or lesson from the story. It fails to engage with the content at all.",
+        "Answer_2": "This answer is in a different language (Chinese) and refers to a lesson around honesty and trust related to a test involving water in the pond, which slightly misrepresents the events and themes of the story. As it is not in the required language (Braj/Hindi), and its focus does not match the actual moral lessons of the story, it is ranked the lowest."
+    }
+}
+================================================================================
+
+=== Workbook: braj_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_3",
+        3: "Answer_5",
+        4: "Answer_6",
+        5: "Answer_7",
+        6: "Answer_2",
+        7: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_1": "This answer is concise and directly summarizes the ending of the story: the cat was kicked by the jackal (गीदड़) and ran away, and it happened because the cat tried to deceive and trick the jackal. It clearly answers both aspects of the question—cat's situation and the reason behind it—with reference to the main plot points of the story.",
+        "Answer_3": "This answer provides good detail, mentioning the cat's isolation and humiliation, and correctly explains that her selfish and cunning behavior led to her predicament. Although it is somewhat verbose, it gives a well-rounded explanation that matches the story's theme, so it's only slightly less direct than Answer_1.",
+        "Answer_5": "This answer is short, and while it correctly says the cat was punished for her deceit toward the jackal, it lacks detail about what specifically happened at the end and doesn't fully address both the cat's situation and the reason comprehensively.",
+        "Answer_6": "This answer contains partial correctness by describing the punishment (being kicked) given to the cat but incorrectly introduces details about the cat's 'guru' and irrelevant instructions, which are not present in the provided story. The fabricated detail makes the answer less reliable.",
+        "Answer_7": "This answer repeats the same line continuously without providing any meaningful explanation, reasoning, or details about the story's context. It barely attempts an answer and is repetitive.",
+        "Answer_2": "This answer is almost entirely in Chinese and responds to a different question (multiple-choice), which is not coherent with the provided story or question. It makes references to '乌莉妮' and a 'temple door,' unrelated to the main events of the story. Thus, it is off-topic and not relevant.",
+        "Answer_4": "This answer is confusing, off-topic, and refers to several unrelated events and animals (cow, goat, etc.) that do not appear in the story. It appears to be a mix of gibberish and content unrelated to the given context, so ranks lowest."
+    }
+}
+================================================================================
+
+=== Workbook: braj_stories.xlsx | Sheet: Story_3 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_2",
+        3: "Answer_6",
+        4: "Answer_1",
+        5: "Answer_5",
+        6: "Answer_7",
+        7: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_3": "This answer precisely summarizes the core events—Muso's greed for sweets leads him to the sweet shop, where he is trapped and dies. It effectively explains how greed led to Muso's destruction and clearly articulates the moral: too much greed brings harm and one should act with consideration. The reasoning and detail are accurate, nuanced, and directly reflect the story.",
+        "Answer_2": "This answer correctly identifies that Muso's greed for sweets caused his downfall when he fell into the trap at the shop and died. It states the moral, 'greed is bad,' in a simple and accurate manner, though without much elaboration or nuance.",
+        "Answer_6": "This answer acknowledges Muso's greed leading to his destruction and notes the need to be wary of laziness and greed. However, it is incomplete and somewhat vague—there's no specific mention of the events or any elaboration on the lesson.",
+        "Answer_1": "This answer introduces confusion by focusing on Ghennī's thirst and suggests Muso sold himself, which does not happen in the story. It mischaracterizes events and places blame incorrectly. The answer tries to link the story to the lesson of greed but gets both plot and responsibility wrong.",
+        "Answer_5": "This answer consists of a list of generic moral statements about greed, restraint, and not harming others, repeated many times. It lacks any specific reference to the story of Muso and fails to establish the connection between the plot and the moral lesson.",
+        "Answer_7": "This answer introduces an inaccurate narrative about Ghennī's son dying due to neglect, which does not occur in the story. It misattributes events and characters, making the explanation irrelevant to the actual question and story.",
+        "Answer_4": "This answer is completely irrelevant as it is in Chinese, refers to eating pears, paper, papayas, and rice, and attributes the destruction to 'chilli pepper' instead of Muso. It is unrelated to the provided story and cannot be considered a valid answer."
+    }
+}
+================================================================================
+

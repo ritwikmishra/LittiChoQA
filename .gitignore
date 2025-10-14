@@ -1,9 +1,9 @@
-munfquad/
-finetuning/data/
-lc/
-finetuning/finetuned_models/
-finetuning/cache/
-finetuning/wandb/
-graphs/
-__pycache__
+finetuning/data
+finetuning/finetuned_models
 combined_all_response.json
+inferencing/outputs
+annotation/intersection_output.jsonl
+evaluation/hub_models
+evaluation/rouge_evaluation
+evaluation/sts_evaluation
+inferencing/base_outputs

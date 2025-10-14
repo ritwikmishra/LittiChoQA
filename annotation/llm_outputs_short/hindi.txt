@@ -1,0 +1,126 @@
+=== Workbook: hindi_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_3",
+        3: "Answer_2",
+        4: "Answer_4",
+        5: "Answer_1",
+        6: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_6": "Answer_6 most closely aligns with the reference answer. It accurately explains Narad Ji's role as a judge, highlights his intervention in the dispute, mentions that he brings wisdom and depth to the story, and references the moral judgement and resolution he provides, reflecting both the decision and the deeper theme of inner purity—matching the key points in the reference.",
+        "Answer_3": "Answer_3 also captures Narad Ji's role as a judge who listens to both sides and provides a just decision, and notes his effect on the story's process and fairness. However, it is slightly less detailed than Answer_6 in referencing the depth and moral wisdom Narad Ji brings. It is comprehensive but misses some nuance of the internal purity aspect.",
+        "Answer_2": "Answer_2 notes that Narad Ji is a decision-maker and monitors the results of penance, which is partially correct. However, it becomes vague and starts talking about ritual comparisons without clearly explaining the key moral insight or his decisive, revealing role in the story as per the reference. The ideas are less clearly or completely expressed.",
+        "Answer_4": "Answer_4 is repetitive and confusing, primarily focusing on Narad Ji not forgetting his principles, which doesn't accurately reflect his role as shown in the story or in the reference answer. It does not sufficiently address Narad Ji's function as a judge, mediator, or bringer of justice and wisdom.",
+        "Answer_1": "Answer_1 misinterprets Narad Ji's role, suggesting he makes everyone do penance to get rid of their sins. This does not match the events or function described in the story or the reference answer. It is very generic and overlooks both the conflict resolution and moral guidance aspects.",
+        "Answer_5": "Answer_5 is entirely irrelevant, simply repeating 'A wise Guru' in English without any connection to the story, question, or reference answer. It doesn't attempt to answer the question at all."
+    }
+}
+================================================================================
+
+=== Workbook: hindi_stories.xlsx | Sheet: Story_2_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_6",
+        3: "Answer_1",
+        4: "Answer_2",
+        5: "Answer_5",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_3": "Answer_3 is the closest to the reference answer in both detail and structure. It covers the main lessons: honesty and sincerity are always rewarded, dishonesty leads to punishment, trust is built through honesty, and sincere people gain respect. It also refers to rewards similar to the reference and gives a comprehensive moral summary.",
+        "Answer_6": "Answer_6 provides a good explanation that deals with honesty and morality, and touches on the importance of actions and words. It discusses the consequences of not adhering to honesty and indirectly highlights the punishment for immorality, aligning it quite well with the reference answer. However, it is slightly less organized and detailed compared to Answer_3.",
+        "Answer_1": "Answer_1 gives a correct but very basic and generic summary about truth and honesty, lacking the details and context from the story and missing out on the consequences and rewards/punishment aspects present in the reference answer.",
+        "Answer_2": "Answer_2 attempts to explain the importance of honesty and morality, but it is vague, lacks direct connection to the story, and does not address the punishment for deceit, as well as missing direct references to the story's events or the concept of justice as in the reference.",
+        "Answer_5": "Answer_5 provides only brief English axioms that are related to the story but are too generic and do not discuss the actual events, context, or lessons of the story. It lacks all the specifics that connect it to the reference answer or the narrative.",
+        "Answer_4": "Answer_4 is in Chinese and does not answer in Hindi as per instructions, plus it is only very loosely related to the story, focusing instead on caution, making commitments, and honesty in a generic fashion, with wrong references to the story contents. It does not address the specific lessons of justice and reward for honesty highlighted in the reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: hindi_stories.xlsx | Sheet: Story_3_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_5",
+        3: "Answer_2",
+        4: "Answer_1",
+        5: "Answer_3",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer is the most similar to the reference as it directly addresses the positive qualities in the crow's behavior such as not being lazy, working hard, readiness to bring positive changes, and persistent effort. These align well with the reference which speaks of hard work, cooperation, and self-reliance. Although it doesn't mention helping others as explicitly, it thoroughly covers positivity, effort, and change, making it the closest.",
+        "Answer_5": "This answer correctly identifies that the crow is not lazy, does its own work, and inspires the lazy man to do the same. It resembles the main ideas from the reference answer, but is a bit brief and does not mention cooperation or the crow helping its friend (the crocodile), which is important in the reference.",
+        "Answer_2": "This answer notes that the crow is more active and tries harder than the lazy man, and is less restless. While it highlights activity and effort, it lacks important elements from the reference such as cooperation, helping friends, and selflessness. The points on food are a bit irrelevant to positivity, making it less strong.",
+        "Answer_1": "This answer only advises to not be lazy and to do your own work, and focuses on the lesson learned by the lazy man rather than outlining the positive traits in the crow’s behavior, as the question and reference require. It is vague and incomplete compared to others.",
+        "Answer_3": "This answer lists generic positive traits, such as being active and alert, and attempts to create an analogy but does not accurately describe the crow's specific behavior—especially cooperation, helping others, and persistent effort. The answer is unfocused and contains mostly irrelevant story elements, making it imprecise and unaligned with the reference.",
+        "Answer_4": "This answer completely fails to address the question. It interprets the question processually and answers with options (like 'Crows') instead of describing the crow's positive behavior. It lacks any direct reference to the crow’s qualities and does not answer in the required context."
+    }
+}
+================================================================================
+
+=== Workbook: hindi_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_2",
+        3: "Answer_6",
+        4: "Answer_1",
+        5: "Answer_4",
+        6: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_3": "Answer_3 describes Narad Ji as a transformative and symbolic figure who brings change and insight to the story and the characters. It discusses Narad Ji's role in revealing deeper truths and forcing the characters to confront their actions, which aligns with the reference answer that highlights Narad as a guide and the one to reveal true intentions and provide a moral lesson. Though it doesn't mention every detail of the reference, it is closest in spirit and coverage.",
+        "Answer_2": "This answer recognizes that Narad Ji brings a turning point to the story and helps unveil existing truths, which overlaps broadly with the reference answer's themes of justice, guidance, and revealing true intentions. However, it is somewhat repetitive, slightly vague, and does not discuss the moral or ethical lesson as clearly as the reference answer.",
+        "Answer_6": "Answer_6 tries to discuss the impact of Narad Ji's presence, saying he brings new direction to the story and impacts the characters' personalities or thoughts. However, it incorrectly refers to a character 'मनीष' who does not appear in the provided story. It tries to analyze the effects but is off-target, so it's less accurate than Answers 2 and 3.",
+        "Answer_1": "Answer_1 is factually incorrect as it attributes a wife to Narad Ji and claims his role relates to love for her, which is absent in the story. The answer misconstrues the character and doesn't reflect Narad Ji's actual narrative function, making it less relevant to the reference answer.",
+        "Answer_4": "Answer_4 invents unrelated story elements (such as 'मनीष'), misidentifies Narad Ji as a hero for a non-existent character, and doesn't relate to the actual events or moral messaging of the given story. Thus, it's inaccurate and irrelevant, ranking lower.",
+        "Answer_5": "Answer_5 is completely unrelated to the story. It is written in Chinese and claims Narad Ji is not mentioned in the story, which is incorrect. It also introduces unrelated characters ('Madarailal', 'Manish') and provides no relevant analysis, making it the least appropriate of all."
+    }
+}
+================================================================================
+
+=== Workbook: hindi_stories.xlsx | Sheet: Story_2_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_1",
+        3: "Answer_4",
+        4: "Answer_2",
+        5: "Answer_5",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_3": "This answer summarizes the main message of the story about truth and honesty being most important. While it misses some details (like the cleverness of Tenali or consequences for dishonesty), it closely matches the reference answer's focus on honesty, truth, and being answerable to family and society, making it the best match.",
+        "Answer_1": "This answer generally discusses the importance of honesty and ethics, aligns with the reference answer in its discussion of following truth and justice, and the importance of acting with honesty. However, it contains some irrelevant references (like the name 'एजाज़ राही', which is not related to the original story), which makes it slightly less relevant than Answer_3.",
+        "Answer_4": "This answer mentions the importance of honesty and ethics and keeping one's promises, which is aligned with the reference answer in a very succinct way. However, it lacks depth, specific details, and does not elaborate on the consequences of dishonesty as the reference does.",
+        "Answer_2": "This answer talks about honesty and integrity, but its content is almost entirely unrelated to the story provided, mentioning other characters and events that do not exist in the story. Thus, its relevance is very low despite discussing the general theme of honesty.",
+        "Answer_5": "This answer is essentially a list of names and does not respond to the question, nor does it address any message about honesty or ethics. It is not a valid answer to the question.",
+        "Answer_6": "This answer is not in Hindi, does not reference the story, and states a lack of information. Therefore, it is irrelevant to both the story and the question."
+    }
+}
+================================================================================
+
+=== Workbook: hindi_stories.xlsx | Sheet: Story_3_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_3",
+        3: "Answer_2",
+        4: "Answer_4",
+        5: "Answer_5",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_1": "Although it diverges from the story by focusing on the crow's responsibility towards its family (which isn't in the original story), it does mention positive qualities such as determination, planning, intelligence, willingness to help, and caring for others, which overlap with the reference answer's focus on helpfulness, effort, and positive traits in contrast to laziness. It is more relevant and in line with the reference than the other answers.",
+        "Answer_3": "This answer partially addresses the comparison, mentioning that the crow is active and cares for its family, while the lazy person does not. However, it mixes in details about 'birds and their homes' and gets unclear in parts, but it does attempt to discuss positive attributes like activity and preparation, similar to what is stated in the reference answer.",
+        "Answer_2": "The answer is mostly off-topic, discussing generic behaviors of crows (such as living in nests, searching for food) with little relation to the question about positive comparisons to the lazy person's traits. It lacks key elements from the reference answer (helpfulness, cooperation, effort).",
+        "Answer_4": "This answer appears to be a generic or unrelated list of positive-sounding attributes (forgetting important things, living in a beautiful home, getting love, being happy), none of which are relevant to the actual story or reference answer. It doesn't address qualities shown by the crow in comparison to the lazy person.",
+        "Answer_5": "This answer is in Urdu and does not address the question or provide any relevant comparison between the crow and the lazy person's behavior. It is not related to the story.",
+        "Answer_6": "This answer is mostly gibberish in Urdu and Hindi and does not answer the question at all, nor does it mention anything about the crow's behavior or the narrative."
+    }
+}
+================================================================================
+

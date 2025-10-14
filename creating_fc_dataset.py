@@ -17,7 +17,7 @@ def prepare_ft_dataset(input_path: str, output_dir: str) -> None:
     total_qas = sum(len(story_data["qas"]["non-factoid"]) for story_data in dataset.values())
     assert total_qas > 0, "No non-factoid QAs found in dataset"
 
-    qa_counter = 100  # added
+    qa_counter = 10  # added
 
     with tqdm(total=total_qas, desc="Processing non-factoid entries", unit="qa") as pbar:
         for story_key, story_data in dataset.items():
@@ -81,7 +81,7 @@ def prepare_ft_dataset(input_path: str, output_dir: str) -> None:
     print(f"Total non-factoid entries: {len(entries)})")
 
 
-input_path = "/media/data_dump/aarya220007/finetuning_proj/combined_all_response.json"
-# output_dir = "/media/data_dump/aarya220007/data/fc_dataset"
-output_dir = "/media/data_dump/aarya220007/data_test/fc_dataset"
+input_path = "/media/data_dump/aarya220007/git/IP_Indic_Languages/finetuning/combined_all_response.json"
+# output_dir = "/media/data_dump/aarya220007/git/IP_Indic_Languages/finetuning/data/fc_dataset"
+output_dir = "/media/data_dump/aarya220007/git/IP_Indic_Languages/finetuning/data_test/fc_dataset"
 prepare_ft_dataset(input_path, output_dir)

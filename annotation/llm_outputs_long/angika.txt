@@ -1,0 +1,69 @@
+=== Workbook: angika_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_2",
+        2: "Answer_6",
+        3: "Answer_4",
+        4: "Answer_3",
+        5: "Answer_7",
+        6: "Answer_1",
+        7: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_2": "This answer is the most complete and directly addresses the question. It correctly explains that true change must start with oneself, highlights the importance of self-discipline, patience, and control as taught by the Mahatma's behavior, and connects the story's message clearly to real-life inspiration. It summarizes the main moral of the story accurately.",
+        "Answer_6": "This answer accurately states that the inspiration from the Mahatma's experience and behavior is the importance of restraint (संयम). While concise and correct, it is less comprehensive and detailed than Answer_2, lacking deeper explanation.",
+        "Answer_4": "This answer lists several lessons (like the importance of changing habits and the value of restraint), which are relevant. However, it is a bit repetitive and fragmented, and though it touches the story's themes, it lacks a cohesive narrative or elaboration.",
+        "Answer_3": "While this answer attempts to reflect on the story, it focuses excessively on the idea of 'magic' in the Mahatma's words instead of the core lesson of self-control and leading by example. It is less precise in conveying the actual inspiration from the Mahatma's behavior.",
+        "Answer_7": "This answer simply repeats the question without providing any answer or insights. It does not fulfill the task of explaining the inspiration derived from the Mahatma's experience and behavior.",
+        "Answer_1": "This answer does not respond to the question at all, instead listing random phrases that are unrelated to the story's moral or inspiration. It is completely irrelevant to the question asked.",
+        "Answer_5": "This answer is entirely in Chinese, which is not in English or Angika and does not follow the instruction language. Additionally, despite being generally about the topic of wisdom and self-change, it does not directly respond in the required language and is thus the least appropriate."
+    }
+}
+================================================================================
+
+=== Workbook: angika_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_2",
+        3: "Answer_1",
+        4: "Answer_4",
+        5: "Answer_5",
+        6: "Answer_6",
+        7: "Answer_7"
+    },
+    "Reasoning": {
+        "Answer_3": "Answer_3 gives the most comprehensive and accurate summary of the story's explanation about the origin of eclipses. It details the myth involving Rahu's beheading and immortal nature, his animosity against the Sun and Moon, and how this becomes the mythological cause for eclipses. Importantly, it also clearly connects the story's cultural significance: teaching moral lessons about deceit and the consequences of wrongdoing in society.",
+        "Answer_2": "Answer_2 is concise and correctly explains that Rahu swallows the Sun and Moon, causing eclipses, due to the effect of amrit. It also points out the cultural value by referencing the results of deceit and treachery. However, it is less complete than Answer_3 because it does not elaborate on the broader social teachings or the mythological elements as thoroughly.",
+        "Answer_1": "Answer_1 repeats the story's moral about staying away from deceitful people and acknowledges the impact of wrongful actions, but it lacks a clear and specific description of how the myth explains the origin of eclipses (the role of Rahu, beheading, and revenge on the Sun and Moon). The answer is repetitive and does not directly describe the sequence of events from the story.",
+        "Answer_4": "Answer_4 only restates the cultural importance of staying away from deceitful people, but it does not address the specific explanation for the origin of eclipses, making it incomplete.",
+        "Answer_5": "Answer_5 is confusing and inaccurate. It introduces unrelated facts, like Sun and Moon 'meeting' and having disputes, and fails to explain the myth as told in the story. It also cuts off mid-sentence and lacks a clear conclusion.",
+        "Answer_6": "Answer_6 starts to present a symbolic moral lesson but does not address the actual mythological explanation for the eclipse as described in the story. Moreover, it is incomplete, repetitive, and only partially related to the question.",
+        "Answer_7": "Answer_7 is written in Chinese, not Angika as required by the prompt. It summarizes the moral but does not directly cite or reference the contents of the original story, making it irrelevant and unfit for ranking above any other answer."
+    }
+}
+================================================================================
+
+=== Workbook: angika_stories.xlsx | Sheet: Story_3 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_4",
+        3: "Answer_7",
+        4: "Answer_2",
+        5: "Answer_1",
+        6: "Answer_5",
+        7: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_3": "This answer comprehensively lists all the positive changes in the author's life because of the morning walk: increased freshness and energy, reduced pain, improved social interaction, feeling of happiness, and easier sleep. It aligns best with the details in the story.",
+        "Answer_4": "This answer effectively summarizes several key positive effects: feeling of freshness, reduction in daily pain, easier sleep, and added entertainment. Although less detailed than Answer_3, it covers the major points correctly.",
+        "Answer_7": "Answer_7 mentions the main positive effects: freshness throughout the day, easier waking, and feelings of happiness, but does not mention social interaction or pain reduction explicitly. Still, it concisely captures some important aspects.",
+        "Answer_2": "Could be improved in coherence and structuring. It lists positive changes such as decreased pain, sustained freshness, adopting the habit as a mantra, and willingness to adopt good habits, but is less direct and somewhat repetitive. The fourth point is vague.",
+        "Answer_1": "This answer is largely incorrect and lacks focus on the actual positive changes. The points are either irrelevant (hopelessness, not needing to go alone) or contradict the story (worsening health). It reflects some misunderstanding.",
+        "Answer_5": "This answer is too generic, saying only that the walks made the author's life positive and happy. It lacks specific details from the story, so it is not a strong answer.",
+        "Answer_6": "This answer is irrelevant and does not address the question or reflect the story’s content. It speaks about 'Breath Awareness’, which is not the focus of the given story."
+    }
+}
+================================================================================
+

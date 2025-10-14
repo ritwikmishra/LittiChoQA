@@ -1,0 +1,20 @@
+
+=== Workbook: pali_stories.xlsx | Sheet: Story_1 ===
+Answer_1 : sarvamai/sarvam-1 
+Answer_2 : Reference answer 
+Answer_3 : CohereLabs/aya-23-8B 
+Answer_4 : krutrim-ai-labs/Krutrim-2-instruct 
+Answer_5 : sarvamai/OpenHathi-7B-Hi-v0.1-Base 
+Answer_6 : Qwen2.5-7B-Instruct 
+Answer_7 : meta-llama/Llama-3.1-8B-Instruct 
+
+
+=== Workbook: pali_stories.xlsx | Sheet: Story_2 ===
+Answer_1 : sarvamai/sarvam-1 
+Answer_2 : meta-llama/Llama-3.1-8B-Instruct 
+Answer_3 : CohereLabs/aya-23-8B 
+Answer_4 : Reference answer 
+Answer_5 : sarvamai/OpenHathi-7B-Hi-v0.1-Base 
+Answer_6 : Qwen2.5-7B-Instruct 
+Answer_7 : krutrim-ai-labs/Krutrim-2-instruct 
+

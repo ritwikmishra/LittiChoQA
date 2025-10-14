@@ -1,0 +1,69 @@
+=== Workbook: bundeli_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_4",
+        3: "Answer_1",
+        4: "Answer_3",
+        5: "Answer_2",
+        6: "Answer_7",
+        7: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_5": "This answer accurately and concisely summarizes both the quantity (at least 5,000 idols) and the immense value ('crores') of the sculptures, directly tying these points to the region's cultural richness and historic depth. It emphasizes both cultural and economic importance, clearly linking these elements to the overall significance of Lalitpur's artistic heritage, making it the most complete and relevant answer.",
+        "Answer_4": "This answer is also accurate and relevant, noting the number (at least 5,000) and value (crores), and explicitly explaining their importance as proof of cultural prosperity. However, it is slightly less clear and somewhat less detailed in linking these aspects together than Answer_5.",
+        "Answer_1": "This response lists correct details from the story (number, value, types of idols, etc.) and shows understanding of the cultural context, but its structure is fragmented and less focused in directly answering how these facts represent cultural richness—the required focus of the question.",
+        "Answer_3": "This answer tries to evaluate statements but is both incomplete (it cuts off) and lacks clear elaboration of how the numbers and value reflect cultural prosperity. It also hesitates between options, thus making it less clear and useful.",
+        "Answer_2": "While acknowledging the significance of the sculptures for the region's culture, this answer mostly paraphrases and repeats information in both Hindi and English without giving direct quantitative details from the passage about number or value. It addresses the broad importance, but not the specifics needed for the question.",
+        "Answer_7": "This answer contains mostly fabricated numbers (e.g., '5000 to 50000', '5 to 50 crores') and information not present in the original passage, as well as historical inaccuracies like the year 2002 and mentioning 18 temples, which is not stated. Therefore, it is less accurate and relevant.",
+        "Answer_6": "This answer is an incoherent repetition of the question itself, not answering or providing any new or relevant information about numbers or price—thus, it's the least useful."
+    }
+}
+================================================================================
+
+=== Workbook: bundeli_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_2",
+        2: "Answer_6",
+        3: "Answer_4",
+        4: "Answer_1",
+        5: "Answer_3",
+        6: "Answer_5",
+        7: "Answer_7"
+    },
+    "Reasoning": {
+        "Answer_2": "This answer clearly explains that the message from the final conversation is about the author's ability to turn the taunts and stereotypes of society into something to own humorously. It recognizes the deeper message that women should be proud of their speaking habits and not be suppressed by societal taunts, which is supported by the narrative tone and ending of the story. It is the most accurate and nuanced interpretation.",
+        "Answer_6": "This answer directly quotes the punchline exchange between the author and the village woman, showing understanding of the humorous turn, but it does not expand much on the message or its societal implication as in Answer_2. Still, it correctly reflects the main point of the ending.",
+        "Answer_4": "This answer interprets the ending as suggesting that 'the habit of excessive talking is harmful and a waste of time.' While this is a possible surface reading, it misses the self-aware humor and the critical tone of the story, which mocks the stereotype rather than warns sincerely against talking. The story uses irony rather than direct moralizing.",
+        "Answer_1": "This answer is mostly confused and repetitive, focusing only on villagers blaming women, but does not capture the nuanced social message or humor of the dialogue. It lacks clarity and is less connected to the specific ending conversation.",
+        "Answer_3": "This answer is a random collection of aphoristic phrases, many repeated and some irrelevant. It shows no clear understanding of the story's message or narrative style.",
+        "Answer_5": "This is a generic statement, 'Say what you have to say, and say it clearly,' which neither connects with the story's tone nor the specifics of the author's exchange with the villager. It feels out of context.",
+        "Answer_7": "This answer is in Chinese, so it is not appropriate for an answer to a Bundeli story and question. Even if translated, it moves away from the particular humor and social commentary present in the story's ending."
+    }
+}
+================================================================================
+
+=== Workbook: bundeli_stories.xlsx | Sheet: Story_3 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_5",
+        3: "Answer_2",
+        4: "Answer_4",
+        5: "Answer_6",
+        6: "Answer_1",
+        7: "Answer_7"
+    },
+    "Reasoning": {
+        "Answer_3": "This answer provides a detailed and accurate explanation. It not only notes that the changing form of 'गुरू दच्छिना' signals a decline in education and values, but also connects it to commercialization and the weakening of the sacred teacher-student relationship in modern society, which is directly supported by the story.",
+        "Answer_5": "This answer also explains well how the shift from traditional 'गुरू दच्छिना' to materialistic, market-based values reflects the decline in the significance of education and values. However, it is less coherent and doesn't tie back to the story scene as clearly as Answer_3.",
+        "Answer_2": "This answer is correct but is extremely brief and just affirms the trend without any explanation or connection to the provided story. It is accurate but lacks any depth.",
+        "Answer_4": "While this answer mentions the dispute and decline, it is presented in an unclear and fragmented manner. The connection between the arguments among the youths and the 'गुरू दच्छिना' theme is not properly justified, making it less focused.",
+        "Answer_6": "This is essentially a rephrasing of the question with no added information, explanation, or insight; therefore, it ranks low.",
+        "Answer_1": "This answer is mostly in Chinese, which is not appropriate since the story and question are in Bundeli/Hindi. It demonstrates some understanding of the story but is not relevant to the context and language requested, making it unsuitable.",
+        "Answer_7": "This answer is incorrect, as the teacher's dialogue clearly indicates the decline in the value and intent of 'गुरू दच्छिना' and thus the broader decline in educational and moral values. It completely misses the main point of the question."
+    }
+}
+================================================================================
+

@@ -1,0 +1,122 @@
+=== Workbook: bhojpuri_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_4",
+        3: "Answer_2",
+        4: "Answer_5",
+        5: "Answer_6",
+        6: "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_1": "This answer, though incorrect as it states that nothing can be inferred from gareebna's way of answering, at least responds in the correct language and is on topic, even if it completely misses the actual point of the reference answer.",
+        "Answer_4": "This response mixes up story details and misinterprets the relationship, focusing on unrelated story elements. However, it still attempts to draw a connection between the characters and certain story events, making it marginally more relevant than the completely off-topic answers.",
+        "Answer_2": "This answer is mostly a verbatim copy of story text and does not clearly interpret or answer the question. It provides context but lacks analysis or direct response regarding the inferred relationship, so it ranks below answers that at least attempt an answer, even if incorrect.",
+        "Answer_5": "This answer provides only 'Yes' and 'No', which do not answer the question in any way or provide any reasoning about the relationship, so it is ranked lower.",
+        "Answer_6": "This answer is just a series of bullets and has no content or attempt to answer, so it is the least useful.",
+        "Answer_3": "This answer is entirely in a foreign language (Chinese) and thus fails both in terms of language requirements and content, making it completely irrelevant to both the specific question and reference answer and deserving the lowest rank."
+    }
+}
+================================================================================
+
+=== Workbook: bhojpuri_stories.xlsx | Sheet: Story_2_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_1",
+        3: "Answer_4",
+        4: "Answer_6",
+        5: "Answer_5",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_3": "This answer accurately reflects the core message of the reference answer: that the truly helpless ('लाचार') character is the young man reliant on modern comforts, not RamSingaar Kaka who, though physically weak, struggles and remains self-reliant. It directly addresses the contrast and demonstrates understanding of the deeper theme, closely matching the reasoning in the reference answer.",
+        "Answer_1": "This answer points out that the young man is, in a way, the helpless one, as realized by RamSingaar Kaka. While it lacks full detail and does not explicitly explain the reasons (like comfort dependence or loss of empathy), it is thematically aligned with the reference answer, just less detailed.",
+        "Answer_4": "Answer_4 argues that RamSingaar Kaka is the real helpless one because of his age and physical struggle, which is the opposite of the argument in the reference answer. However, it does provide reasoning, even though it contradicts the reference. Thus, it's ranked slightly lower.",
+        "Answer_6": "This answer merely restates part of the question as 'ऊ नवजवान?' without any analysis or reasoning. It does not respond to the prompt meaningfully.",
+        "Answer_5": "This answer goes off-topic, discussing rural vs. urban life and the meaning of 'लाचार' in a sociological context, with no clear reference to the story or its characters. It does not address the core contrast presented in the question and reference answer.",
+        "Answer_2": "This answer is not in Bhojpuri and refers to 'nephew' rather than 'the young man'; moreover, its content shows confusion about the story's details and mostly discusses 'laziness' ('懒惰') rather than 'helplessness/lachaar' in the context intended. It is least similar to the reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: bhojpuri_stories.xlsx | Sheet: Story_3_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_4",
+        3: "Answer_6",
+        4: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 best captures the essence of the reference answer. It clearly describes that the media provides a platform for discussion on the farmer's movement, and notes that these discussions raise questions and may even create confusion for the public, especially the child. It also mentions the impact on the child's understanding, indicating a change in perception, which parallels the reference answer's focus that media influences the child's thinking and leads to deeper questions.",
+        "Answer_4": "Answer_4 provides a relevant discussion about the effect of media debates on public opinion and on the understanding of the farmer's plight, aligning somewhat with the reference answer. It mentions that media fills people's minds and can create distance between farmers and the government, which is somewhat related. However, it does not specifically link media debates to the child's evolving perspective as clearly and directly as Answer_1 does.",
+        "Answer_6": "Answer_6 discusses the possible implicit effect of media coverage on the child and acknowledges a lack of clarity about the specifics of the child's perspective. While it does mention media's advocacy and its potential influence, it mostly introduces uncertainty and does not directly tie these ideas back to the child's change in mindset as seen in the story and the reference answer. Thus, it is less aligned.",
+        "Answer_5": "Answer_5 simply lists several multiple-choice statements about the child's possible conclusions with no explanation or narrative. It does not clearly reference the role of media as depicted in the story nor its influence on the child's thinking process. Overall, it is not reflective or explanatory, making it the least similar to the reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: bhojpuri_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_3",
+        3: "Answer_1",
+        4: "Answer_2",
+        5: "Answer_6",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_5": "This answer is most related to the story and question. While it simply echoes some story lines and rephrases the question, it does mention the relationship between the characters and at least stays on topic, even if shallow compared to the reference. It avoids irrelevant content.",
+        "Answer_3": "This answer repeats story lines about Savita having further questions, but also introduces some unrelated narrative about Sudama and Krishna, confusing the context; however, a part of the content is still tangentially relevant to the original scenario and question.",
+        "Answer_1": "This answer starts with the ending lines of the story and then abruptly shifts to completely irrelevant content about Sudama and Krishna, as well as an unrelated narrative. Most of the answer is unrelated, but it at least starts with a relevant portion.",
+        "Answer_2": "Written in mixed Hindi-English, this answer discusses Sudama and Krishna, which is not part of the story. The answer fails to address the Savita-Gareebna relationship and drifts off-topic.",
+        "Answer_6": "This answer is largely in Chinese and introduces a character 'Krichna' not found in the story, failing to reference the story's main characters or answer the question asked. It's mostly irrelevant and linguistically incorrect for the context.",
+        "Answer_4": "This answer is completely off-topic, discussing someone with a drinking addiction, with no relation to the story or question. It does not address the characters, context, or the asked question in any way."
+    }
+}
+================================================================================
+
+=== Workbook: bhojpuri_stories.xlsx | Sheet: Story_2_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_6",
+        3: "Answer_5",
+        4: "Answer_1",
+        5: "Answer_2",
+        6: "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_4": "Answer_4 clearly states that it cannot answer based on the provided text, which, although incorrect regarding the availability of information, is at least logical and does not introduce any inaccurate details unrelated to the story. Among the given answers, it makes the least amount of erroneous assumptions.",
+        "Answer_6": "Answer_6 only repeats the word 'लाचार', offering no explanation, content, or irrelevant detail. While not helpful, it also avoids introducing confusion, making it more neutral than incorrect.",
+        "Answer_5": "Answer_5 is just a list of numbers from 1 to 62 without content, which makes it irrelevant but not actively wrong or misleading.",
+        "Answer_1": "Answer_1 is completely off-topic. It introduces new characters (a Muslim girl, rations, etc.) and a narrative that do not exist in the reference story, making it highly irrelevant.",
+        "Answer_2": "Answer_2 is also completely unrelated, inventing a character named 'केहू बा', assigning blame to a person not in the story, and demonstrating a total misreading of both story and question context.",
+        "Answer_3": "Answer_3 creates a whole alternate storyline about a young man, his wife, and struggles with family and employment not present in the original text, showing a misunderstanding of the theme in the reference answer. It is thus the least relevant."
+    }
+}
+================================================================================
+
+=== Workbook: bhojpuri_stories.xlsx | Sheet: Story_3_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_2",
+        2: "Answer_1",
+        3: "Answer_5",
+        4: "Answer_6",
+        5: "Answer_3",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_2": "This answer is the closest to the reference answer. It explicitly mentions that the media's discussion increases the child's curiosity and interest, echoing the reference's explanation that media debates prompt the boy to question and develop his own thoughts. It is also written in the question's language and context.",
+        "Answer_1": "This answer gives a generic response about media spreading news and impacting characters' opinions but lacks specific details about the influence on the child or direct reference to the boy's curiosity or the 'annadata' issue raised by the media. It is clear but less aligned with the exact reference content.",
+        "Answer_5": "This answer discusses the media's availability increasing interest (though it refers to a 'girl', which is inaccurate), and engagement, which partially overlaps with the reference about curiosity but is contextually off (mentioning investigation rather than questioning the meaning of 'annadata'). The latter part is in English and strays further from the reference context.",
+        "Answer_6": "Talks about the media causing the child to become confused and unable to clarify his thoughts or values. This is not reflected in the reference answer, where the child becomes more thoughtful and questions his parent, not more confused; thus, it is less accurate.",
+        "Answer_3": "This answer is essentially a meaningless sentence about the effect of the media on a 'girl' and is then followed by a string of non-Bhojpuri, non-contextual Unicode characters, making it incoherent and non-informative.",
+        "Answer_4": "This answer repeats the same irrelevant sentence about caring for a child, not addressing the media's role or its effect per the question or the reference. It is completely off-topic."
+    }
+}
+================================================================================
+

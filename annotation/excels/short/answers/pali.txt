@@ -1,0 +1,20 @@
+Workbook: pali_stories.xlsx
+
+
+Sheet: Story_1_short_l6
+Answer_1: meta-llama/Llama-3.1-8B-Instruct
+Answer_2: CohereLabs/aya-23-8B
+Answer_3: sarvamai/sarvam-1
+Answer_4: krutrim-ai-labs/Krutrim-2-instruct
+Answer_5: sarvamai/OpenHathi-7B-Hi-v0.1-Base
+Answer_6: Qwen2.5-7B-Instruct
+----------------------------------------
+
+Sheet: Story_1_short_l6v2
+Answer_1: Qwen2.5-7B-Instruct
+Answer_2: sarvamai/OpenHathi-7B-Hi-v0.1-Base
+Answer_3: krutrim-ai-labs/Krutrim-2-instruct
+Answer_4: CohereLabs/aya-23-8B
+Answer_5: sarvamai/sarvam-1
+Answer_6: meta-llama/Llama-3.1-8B-Instruct
+----------------------------------------

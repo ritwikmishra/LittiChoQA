@@ -1,0 +1,69 @@
+=== Workbook: dogri_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_7",
+        2: "Answer_4",
+        3: "Answer_5",
+        4: "Answer_2",
+        5: "Answer_3",
+        6: "Answer_1",
+        7: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_7": "This answer thoroughly explains the significance of the title 'भगवान भरोसे...' and directly links it to the storyline and message of the story. It contrasts the faith of the parrot (toता) with the actions of the crows (कां$), underlining how trusting in God leads to safety, thus making the relevance of the title very clear in relation to the events.",
+        "Answer_4": "This answer succinctly explains how the story's events relate to the title, summarizing the key plot points and overall message that faith in God helps one during difficulties. While somewhat less detailed than Answer_7, it accurately encapsulates the story's moral.",
+        "Answer_5": "While this answer repeats itself and lacks fluency, it does mention the meaning of the title and how faith in God connects to the story's events. However, due to its excessive repetition and less organized presentation, it falls behind Answer_4.",
+        "Answer_2": "This is a fragmented response containing multiple options. The key ideas are present (faith in God and expressing gratitude), but the answer is incomplete, poorly structured, and not directly connected. Thus, it ranks lower.",
+        "Answer_3": "This answer is mostly repetitive filler with little to no substantive explanation. It repeats the phrase 'भगवान भरोसे... दा महत्व की ऐ' and lacks meaningful content about the story or the title's relevance.",
+        "Answer_1": "This answer is incoherent, incomplete, and does not address the question meaningfully. It only repeats a phrase about crows sitting and adds no explanatory value.",
+        "Answer_6": "This answer talks about a toad sacrificing itself for a sparrow, which is not present in the story. It mixes in Hindi and English, and misrepresents key events. Thus, it demonstrates misunderstanding of both the content and the question, ranking it lowest."
+    }
+}
+================================================================================
+
+=== Workbook: dogri_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_3",
+        3: "Answer_2",
+        4: "Answer_1",
+        5: "Answer_7",
+        6: "Answer_4",
+        7: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer best summarizes both the behavior of the people (mocking and laughing at the man) and directly explains the reason: others had colorful flowers and saw the man's empty pot as a failure, not realizing the value of honesty. The explanation is well-connected to the story and explains the reasoning for both behavior and motivation.",
+        "Answer_3": "This answer accurately captures the mocking behavior and misunderstanding of the others, noting that the people laughed at the man with the empty pot and did not understand his honesty. It is slightly less detailed than Answer_6 but still covers both aspects asked in the question.",
+        "Answer_2": "This answer describes the behavior (people laughing at the man with an empty pot), but it does not clearly explain the underlying reason as explicitly as Answers 6 and 3. It mostly repeats from the story without deeper analysis.",
+        "Answer_1": "This answer is factually incorrect regarding the story. It claims the reason is 'because he did not work hard,' but the narrative clearly states he did work hard but the seeds were useless. Thus, it misconstrues the reason for the villagers' behavior and the story's moral.",
+        "Answer_7": "This answer is disjointed and mainly repeats elements of the story without clearly addressing the question, nor does it explain the villagers' behavior or the reason behind it.",
+        "Answer_4": "This answer is incomplete and simply says 'useless,' without context or explanation regarding the villagers' behavior or reasoning. It cannot be considered as a proper answer.",
+        "Answer_5": "This answer is incoherent and irrelevant to the question or the story, providing 'फँसणे के कारण' (cause of getting trapped) and 'कागज पर लिखें' (write on paper), which has nothing to do with the context."
+    }
+}
+================================================================================
+
+=== Workbook: dogri_stories.xlsx | Sheet: Story_3 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_7",
+        3: "Answer_3",
+        4: "Answer_6",
+        5: "Answer_1",
+        6: "Answer_4",
+        7: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_5": "Answer_5 provides the most comprehensive and accurate summary. It explains that the mice are sisters, emphasizes their bond of friendship, describes their efforts to help one another (such as Laddo alerting the Khattri after Gauri’s death), and highlights the underlying themes of mutual care, understanding, and cooperation that the story imparts.",
+        "Answer_7": "Answer_7 correctly identifies the three mice, their mutual care, and teamwork following Gauri's death. It details Laddo and Makkhani’s actions in response to the tragedy, though it introduces the 'revenge' angle, which is not explicitly present in the story—rather, the focus is on warning and mutual help. Still, it accurately reflects the value of their relationship.",
+        "Answer_3": "Answer_3 repeats similar ideas about the importance of friendship among the mice, but is somewhat vague and lacks specific examples from the story. It generally notes their mutual assistance without giving narrative details to support the claim.",
+        "Answer_6": "Answer_6 merely restates the question and does not provide any content or reasoning that relates to the story, thus offering almost no answer.",
+        "Answer_1": "Answer_1 is incomplete, repetitive, and does not directly address the specifics of friendship or assistance as described in the story. It's fragmented and fails to give a cohesive or complete answer.",
+        "Answer_4": "Answer_4 is mostly incoherent, repetitive, grammatically flawed, and offers no meaningful analysis of the mice’s friendship or mutual support as depicted in the story.",
+        "Answer_2": "Answer_2 is entirely irrelevant to the question and the story. It contains generic or nonsensical phrases and does not mention anything pertaining to the three mice, their friendship, or their actions."
+    }
+}
+================================================================================
+

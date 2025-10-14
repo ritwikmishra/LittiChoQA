@@ -11,12 +11,12 @@ models=(
   # "1shoomun/qwen2.5-14b-desi"
   # "meta-llama/Llama-3.1-8B-Instruct"
   # "CohereLabs/aya-23-8B"
-  # "cahya/bloomz-7b1-instruct"   #showing LoRA checkpoint shape mismatch
-  "sarvamai/sarvam-1"
-  "ai-forever/mGPT-13B"
-  "ai-forever/mGPT"
+  # "sarvamai/sarvam-1"
+  # "ai-forever/mGPT-13B"
+  # "ai-forever/mGPT"
   # "sarvamai/OpenHathi-7B-Hi-v0.1-Base"
   # "krutrim-ai-labs/Krutrim-2-instruct"
+  Qwen/Qwen2.5-7B-Instruct
 )
 
 mkdir -p logs

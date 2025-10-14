@@ -1,0 +1,126 @@
+=== Workbook: nepali_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_6",
+        3: "Answer_2",
+        4: "Answer_4",
+        5: "Answer_5",
+        6: "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 captures the key detail that the murids wanted to help Kunta-Haji and kept their intentions hidden due to awareness of his capricious (sankaha) temperament. Though the reasoning could be slightly more explicit regarding their respect and reverence, it is the closest to the reference and covers both aspects of the question.",
+        "Answer_6": "Answer_6 clearly notes the murids' desire to help out of goodwill and repeats the idea that their plan was secret due to the teacher’s temperament. However, it is a bit disorganized and introduces some irrelevant story segments not central to the question, which puts it behind Answer_1.",
+        "Answer_2": "Answer_2 states that the murids wanted to help because of fear of the teacher’s temperament, missing the respectful and affectionate motivations emphasized in the reference answer. It only focuses on fear and not on their positive intent.",
+        "Answer_4": "Answer_4 introduces incorrect motivations, such as the murids wanting to help because Kunta-Haji had knowledge in weeding cornfields, which is not indicated in the story. It also jumbles the reasoning about secrecy. Thus, it is less aligned with the reference.",
+        "Answer_5": "Answer_5 is mostly meaningless repetition and does not provide any information relevant to the question, failing completely to address either aspect.",
+        "Answer_3": "Answer_3 is in a completely different language (Arabic), unrelated to the question, and does not provide any coherent relevant information from the story."
+    }
+}
+================================================================================
+
+=== Workbook: nepali_stories.xlsx | Sheet: Story_2_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_2",
+        3: "Answer_6",
+        4: "Answer_3",
+        5: "Answer_1",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_5": "Answer_5 closely matches the reference answer by clearly highlighting the contrast between Anna's dreams (rich with desires for delicious foods) and her harsh reality, as well as reflecting on the message about desire and reality during times of deprivation. It mirrors the main points and stays relevant to the story.",
+        "Answer_2": "Although written in Chinese, Answer_2 provides a detailed analysis similar to the reference by interpreting Anna's dreams as expressions of longing for food during tough times and highlighting the gap between dreams and reality. However, it has some inaccuracies regarding the dream content (mentions cabbage and apple, not present in the story) and lacks the moral reflection found in the reference.",
+        "Answer_6": "Answer_6 discusses social inequality and refers to themes of powerlessness and risk-taking. While partially related, it misses the personal, psychological, and moral aspects of the contrast between Anna's dreams and realities emphasized in the reference answer and the story itself.",
+        "Answer_3": "Answer_3 simply says 'सपना' (dream), which is not an answer but just a keyword. It provides no explanation or reflection about the contrast or message, making it very far from the reference answer.",
+        "Answer_1": "Answer_1 provides generic, one-word answers ('हाँ', 'No', etc.) that have no relevance to the question, the story, or the reference, so it ranks very low.",
+        "Answer_4": "Answer_4 is not an answer to the question but rather irrelevant metadata and category listings; it makes no attempt to answer, so it is the least similar to the reference."
+    }
+}
+================================================================================
+
+=== Workbook: nepali_stories.xlsx | Sheet: Story_3_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_5",
+        3: "Answer_2",
+        4: "Answer_4",
+        5: "Answer_3",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 at least somewhat attempts to address the sentiment of hope and positivity in adverse circumstances, which connects to the deeper message of patience and not judging too quickly reflected in the reference answer. Although it lacks depth and misses key elements (like mistaken judgment and forgiveness), it is more thematically related than other answers.",
+        "Answer_5": "Answer_5 is a list of emotional messages associated with smiles, mentioning hope, trust, and compassion several times. While not specific and largely repetitive, it at least mentions some concepts connected to the story's emotional layer (e.g., hope, compassion), placing it marginally above others.",
+        "Answer_2": "Answer_2 includes significant padding and repetition about war's cruelty and its effect on belief and understanding. It doesn't address the main character's shift in perception or the lesson regarding mistaken judgment and forgiveness. Its connection to the actual ending and the role of the smile is very weak.",
+        "Answer_4": "Answer_4 misinterprets story events, suggesting the protagonist's smile means satisfaction over justice instead of the realization about the neighbor’s true actions. It also admits it did not directly find the smile in the story. Thus, it shows misunderstanding and doesn't address the key message.",
+        "Answer_3": "Answer_3 is entirely off-topic: it discusses unrelated characters (Maria and Diana), their emotional struggles in the context of loss, and provides completely irrelevant content. It does not answer the original question or address the story provided, so it is ranked very low.",
+        "Answer_6": "Answer_6 shows only system prompts and no meaningful answer to the question; hence it is ranked last."
+    }
+}
+================================================================================
+
+=== Workbook: nepali_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_2",
+        3: "Answer_3",
+        4: "Answer_4",
+        5: "Answer_5",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 is the closest to the reference answer, although it introduces some inaccuracies. It mentions the desire to help Kunta-Haji and the intention of keeping the plan secret, although the motivation is not precisely respect and service, but more about making the experience special. Still, it attempts to address both the motivation and secrecy, making it the most relevant among the options.",
+        "Answer_2": "Answer_2 makes an attempt to address the question in its first part, but the rest of the content is incoherent and appears to switch to an unrelated language (possibly Telugu). The answer does not provide proper reasoning aligned with the reference but does at least aim to answer the question structurally, so it is placed second.",
+        "Answer_3": "Answer_3 is mostly gibberish and repetitive, not providing any meaningful answer related to the question or the reference. It is marginally more coherent than later answers, hence third.",
+        "Answer_4": "Answer_4 is in Chinese and explicitly denies the information is in the story, which is incorrect. The story clearly details why the murids wanted to help and why they kept it secret. This misreading or denial is a significant error, but at least it is a full sentence response, so it ranks above the fully incoherent/gibberish answers.",
+        "Answer_5": "Answer_5 is a repeated phrase, possibly a name, and offers absolutely no relevant information about the question. It is not responsive and does not reference the story at all.",
+        "Answer_6": "Answer_6 is pure gibberish and contains no content that answers the question or references the story, ranking it last."
+    }
+}
+================================================================================
+
+=== Workbook: nepali_stories.xlsx | Sheet: Story_2_short_l6v2 ===
+{
+    "Rankings": {
+        "1": "Answer_1",
+        "2": "Answer_6",
+        "3": "Answer_5",
+        "4": "Answer_4",
+        "5": "Answer_2",
+        "6": "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_1": "This answer correctly highlights the contrast between dream and reality, touching on the theme of desires versus real circumstances and the acceptance of reality. It recognizes the main message that dreams may not be achievable and emphasizes accepting the truth, which aligns closely with the reference answer, though it omits the part about hope and moral choices.",
+        "Answer_6": "While repetitive and phrasing is awkward, this answer somewhat manages to express the idea that there is a message in the difference between dream and reality, specifically implying that reality may not meet one's desires. However, it is less developed and lacks specifics compared to Answer_1.",
+        "Answer_5": "This answer misinterprets the story's content, focusing on self-reflection and analysis ('आलोचना'), which is not a theme in the reference answer or the story. There is a tangential attempt at interpretation, but it is not relevant to the main theme of dream versus reality and moral decision.",
+        "Answer_4": "This answer consists mostly of speculative, generic interpretations, some of which are not relevant to the story. It questions the ability to determine what the characters feel and largely misses the key message stated in the reference answer. It shows less understanding than Answers 1, 6, and 5.",
+        "Answer_2": "This answer is mostly repeated Telugu text and irrelevant filler, failing to address the question or the reference answer at all.",
+        "Answer_3": "This answer is incomprehensible; it copies small parts of sentences, lacks coherence and does not address the story, question, or the reference answer's ideas in any way."
+    }
+}
+================================================================================
+
+=== Workbook: nepali_stories.xlsx | Sheet: Story_3_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_1",
+        3: "Answer_3",
+        4: "Answer_2",
+        5: "Answer_5",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer makes a partial attempt at interpreting the message of the story based on the character's emotional response and smile at the end. It addresses the presence of hope and humor in life despite destructive effects, which links somewhat to the emotional realization described in the reference answer, though it lacks the depth and specific reference to the misconceived judgment and later understanding shown in the reference. Nevertheless, it is the closest in intent.",
+        "Answer_1": "This answer is essentially unintelligible and repetitive, failing to address the question regarding the character's emotional response or the story's message. However, unlike some others, it attempts at least to reference a 'smile' and the character multiple times, keeping it slightly more relevant to the language and topic.",
+        "Answer_3": "Answer 3 states an inability to answer due to a supposed language mismatch and asserts that direct quotations are missing or unclear. While this is factually incorrect (since the story and question are both in Nepali), it at least acknowledges an attempt to engage with the question and story, which places it above purely irrelevant answers.",
+        "Answer_2": "This answer is written in Telugu, which is not the language of the provided story or question. Its content is unrelated to either the question or the required answer, showing no attempt to interpret the story or its message.",
+        "Answer_5": "This answer is also in Telugu and does not address the question, making it irrelevant for the Nepali-language story and question. It provides no interpretation or relevant content.",
+        "Answer_6": "This answer consists solely of random symbols and does not address the question or story at all. It provides no useful information or interpretation, so it is ranked last."
+    }
+}
+================================================================================
+

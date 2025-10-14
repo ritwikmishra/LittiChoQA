@@ -1,0 +1,30 @@
+
+=== Workbook: awadhi_stories.xlsx | Sheet: Story_1 ===
+Answer_1 : CohereLabs/aya-23-8B 
+Answer_2 : sarvamai/OpenHathi-7B-Hi-v0.1-Base 
+Answer_3 : sarvamai/sarvam-1 
+Answer_4 : Reference answer 
+Answer_5 : krutrim-ai-labs/Krutrim-2-instruct 
+Answer_6 : meta-llama/Llama-3.1-8B-Instruct 
+Answer_7 : Qwen2.5-7B-Instruct 
+
+
+=== Workbook: awadhi_stories.xlsx | Sheet: Story_2 ===
+Answer_1 : Qwen2.5-7B-Instruct 
+Answer_2 : sarvamai/OpenHathi-7B-Hi-v0.1-Base 
+Answer_3 : CohereLabs/aya-23-8B 
+Answer_4 : krutrim-ai-labs/Krutrim-2-instruct 
+Answer_5 : Reference answer 
+Answer_6 : sarvamai/sarvam-1 
+Answer_7 : meta-llama/Llama-3.1-8B-Instruct 
+
+
+=== Workbook: awadhi_stories.xlsx | Sheet: Story_3 ===
+Answer_1 : meta-llama/Llama-3.1-8B-Instruct 
+Answer_2 : sarvamai/OpenHathi-7B-Hi-v0.1-Base 
+Answer_3 : sarvamai/sarvam-1 
+Answer_4 : CohereLabs/aya-23-8B 
+Answer_5 : krutrim-ai-labs/Krutrim-2-instruct 
+Answer_6 : Reference answer 
+Answer_7 : Qwen2.5-7B-Instruct 
+

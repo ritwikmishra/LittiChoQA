@@ -1,0 +1,42 @@
+=== Workbook: bagheli_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_2",
+        3: "Answer_4",
+        4: "Answer_3",
+        5: "Answer_1",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_5": "This answer closely matches the reference answer by explaining the importance of the family's reunion (love, cooperation, justice, and equality), highlighting the social message of understanding, harmony, and unity within the family, and tying it to broader societal development. It is detailed and aligns well with the key points in the reference answer.",
+        "Answer_2": "This answer captures the essence of the importance of family bonds and togetherness, which is a core message in the reference answer. Though it is brief and does not address justice or the triumph of truth explicitly, it is accurate and relevant, earning it the second spot.",
+        "Answer_4": "This answer discusses the value of family and societal cohesion, mentioning restoration, belonging, and the importance of strong relationships; however, it introduces concepts in a modern or analytical way and incorporates some English, which makes it less directly connected to the narrative and specific details in the reference. Still, the core idea is present.",
+        "Answer_3": "This answer lists relevant societal and familial values (social unity, importance of family) but is vague and lacks specific explanation or narrative connection. It reads more as broad bullet points without capturing the story's emotional or moral outcome in detail.",
+        "Answer_1": "This answer is very generic and does not relate directly to the story or the question. 'Stay with your heart' is too vague and does not address any of the story's plots, lessons, or outcomes.",
+        "Answer_6": "Despite being a coherent response, this answer refers to a completely different story and is not relevant to the provided question or narrative. It is therefore ranked lowest."
+    }
+}
+================================================================================
+
+=== Workbook: bagheli_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_4",
+        3: "Answer_6",
+        4: "Answer_3",
+        5: "Answer_5",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 closely matches the reference answer by discussing the significance of the family's reunion and the value of familial bonds, cooperation, and overcoming hardship together. It captures the story's core messages around family unity and the positive societal message, though it is less detailed and slightly redundant, it is overall most similar to the reference in both content and spirit.",
+        "Answer_4": "Answer_4 is quite detailed and attempts to connect the story's reunion with broader societal issues such as change in thinking, importance of love, compassion, and understanding. It somewhat expands on the reference answer but stays largely relevant and mentions themes of justice, love, and family. The phrasing and structure lack some coherence and directness, but overall capture the spirit and key points of the reference answer.",
+        "Answer_6": "Answer_6 tries to present the idea that the reunion sends a positive message to society about the importance of friendship and family, as well as the enduring value of family bonds. However, its presentation is fragmented, repetitive, and does not tie together the various thematic threads as fully as the reference answer does. There is some relevance, but it's much less developed.",
+        "Answer_3": "Answer_3 is inconsistent and confusing. It shifts between incomplete options and a sudden switch to a Chinese-language irrelevant explanation about different characters. The answer does not address the story or the question, nor does it relate to the reference answer's main points. It is mostly irrelevant.",
+        "Answer_5": "Answer_5 consists of generic responses, primarily in English and Hindi, that are not related to the story or its message. It only generically remarks about rebuilding a family and giving a message to society without any reference to the specifics of the story or the themes of justice, love, and forgiveness. It's more incoherent and less relevant than Answer_3.",
+        "Answer_2": "Answer_2 discusses different characters (BIhari and Mahadev) who are not part of the story presented, indicating it is mistakenly referencing another narrative. It does not answer the actual question and is completely irrelevant to the reference answer, making it the least appropriate."
+    }
+}
+================================================================================
+

@@ -1,0 +1,69 @@
+=== Workbook: nepali_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_2",
+        3: "Answer_4",
+        4: "Answer_5",
+        5: "Answer_3",
+        6: "Answer_7",
+        7: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_1": "This answer gives a clear, comprehensive explanation relating the old woman's role and actions to the core message of the story. It explains how her compassion transforms the atmosphere from hatred to empathy, highlighting humanity and influencing the crowd, thus directly addressing the question.",
+        "Answer_2": "This answer touches on the main message about hidden humanity and compassion even in the midst of hostility and pain. It also mentions how a single person’s positive actions can create significant change. While it is a bit general and less focused on the specifics of the story, it is a correct and insightful summary.",
+        "Answer_4": "This answer repeats itself and lacks clarity in certain places but does relate the old woman's actions to illustrating the horrors of war and the value of humanity. It lacks detailed analysis and coherence but captures a part of the story’s message.",
+        "Answer_5": "This answer is somewhat repetitive, incomplete, and less coherent than the previous ones. It attempts to summarize the woman's actions but lacks a clear connection to the core message or an analysis of impact on the overall theme.",
+        "Answer_3": "This answer is vague, uses general statements, and lacks specifics or clear explanation. It does not analyze the woman's individual role or the impact of her actions on the theme. Thus, it is much less insightful.",
+        "Answer_7": "This answer is mostly incomplete and unclear, providing statements that do not add meaningful information or analysis. It lacks connection to the story's message or a direct answer to the question.",
+        "Answer_6": "This answer simply says 'yes' or 'no' and does not address the question at all, nor does it provide any analysis or explanation. It is not relevant or useful in this context."
+    }
+}
+================================================================================
+
+=== Workbook: nepali_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_7",
+        2: "Answer_2",
+        3: "Answer_4",
+        4: "Answer_1",
+        5: "Answer_6",
+        6: "Answer_3",
+        7: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_7": "This answer provides a clear and comprehensive explanation of how Bayard Rustin's actions—direct dialogue, logical reasoning, and proposing a practical test—helped the restaurant manager overcome her prejudices and fear. It accurately summarizes the story’s events and directly addresses the question, explaining the mechanism of change in the woman's thinking.",
+        "Answer_2": "This answer concisely and correctly identifies the key point: Rustin’s proposal for a democratic experiment exposed the groundlessness of the manager's fears, leading to her change. While brief, it is accurate and adequately addresses the question.",
+        "Answer_4": "This answer attempts to describe the experiment and its effect but is less clear and contains repetition and awkward phrasing, making the explanation less coherent. However, it still identifies that Rustin carried out an experiment that influenced the manager’s thinking.",
+        "Answer_1": "This answer is vague, repetitive, and does not clearly describe the process or experiment that led to the woman’s change in thinking. It refers generally to Rustin's actions but lacks detail and clarity.",
+        "Answer_6": "This answer appears to be unrelated to the question and story, mentioning a national conference instead and failing to answer the specific query about how Rustin’s behavior changed the restaurant manager’s thinking.",
+        "Answer_3": "This answer is completely off-topic and seems to be a scrambled copy-paste with no relevant information pertaining to the story or question.",
+        "Answer_5": "This answer consists only of a timestamp and includes no substantive response to the question."
+    }
+}
+================================================================================
+
+=== Workbook: nepali_stories.xlsx | Sheet: Story_3 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_1",
+        3: "Answer_2",
+        4: "Answer_5",
+        5: "Answer_6",
+        6: "Answer_7",
+        7: "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer clearly explains the symbolic value of the candy packet as a sign of friendship, kindness, and positive behavior. It ties the specific action in the story—a small gesture leading to major change—to the overall message that compassion, forgiveness, and love can remove enmity. It summarizes the story's message accurately and connects it directly with the symbolic item, making it the best answer.",
+        "Answer_1": "This answer accurately highlights the symbolic meaning of the candy packet and explains how the act benefits both parties and the family, focusing on forgiveness and breaking the cycle of enmity. It provides a comprehensive connection between the act and the story's message, but its explanation is a bit less comprehensive regarding the symbolic representation of the change in relationship, so it sits just behind Answer_4.",
+        "Answer_2": "While this answer correctly identifies the impact of the candy on Bob's behavior and the improved relationship, it is repetitive, lacks depth on the symbolic meaning, and does not clearly articulate how the gesture ties to the main message of the story or the broader moral lesson.",
+        "Answer_5": "Answer_5 is mostly incoherent, repetitive, and lacks a clear explanation regarding the symbolism or message. Some reference to culture is made, but overall, it does not answer the question in a meaningful or specific manner.",
+        "Answer_6": "This answer simply restates the question in slightly altered form without providing any actual reasoning or context from the story. It is incomplete and does not attempt to answer how the candy packet is symbolic or what message it conveys.",
+        "Answer_7": "Answer_7 merely copies the initial part of the story without even attempting to address the question about meaning or main message. It is incomplete and not relevant as an answer.",
+        "Answer_3": "This answer is entirely in Chinese and not relevant to the question (which asks for a Nepali-language answer and is for a Nepali reading audience). Additionally, it fundamentally misinterprets the meaning of the candy by claiming it represents an immature or superficial solution, which is the opposite of the story’s message. Thus, it is the least accurate and relevant."
+    }
+}
+================================================================================
+

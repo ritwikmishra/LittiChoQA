@@ -1,0 +1,56 @@
+Workbook: bundeli_stories.xlsx
+
+
+Sheet: Story_1_short_l6
+Answer_1: sarvamai/sarvam-1
+Answer_2: sarvamai/OpenHathi-7B-Hi-v0.1-Base
+Answer_3: Qwen2.5-7B-Instruct
+Answer_4: krutrim-ai-labs/Krutrim-2-instruct
+Answer_5: CohereLabs/aya-23-8B
+Answer_6: meta-llama/Llama-3.1-8B-Instruct
+----------------------------------------
+
+Sheet: Story_2_short_l6
+Answer_1: sarvamai/OpenHathi-7B-Hi-v0.1-Base
+Answer_2: Qwen2.5-7B-Instruct
+Answer_3: meta-llama/Llama-3.1-8B-Instruct
+Answer_4: CohereLabs/aya-23-8B
+Answer_5: krutrim-ai-labs/Krutrim-2-instruct
+Answer_6: sarvamai/sarvam-1
+----------------------------------------
+
+Sheet: Story_3_short_l6
+Answer_1: sarvamai/sarvam-1
+Answer_2: sarvamai/OpenHathi-7B-Hi-v0.1-Base
+Answer_3: krutrim-ai-labs/Krutrim-2-instruct
+Answer_4: Qwen2.5-7B-Instruct
+Answer_5: meta-llama/Llama-3.1-8B-Instruct
+Answer_6: CohereLabs/aya-23-8B
+----------------------------------------
+
+Sheet: Story_1_short_l6v2
+Answer_1: meta-llama/Llama-3.1-8B-Instruct
+Answer_2: sarvamai/OpenHathi-7B-Hi-v0.1-Base
+Answer_3: krutrim-ai-labs/Krutrim-2-instruct
+Answer_4: CohereLabs/aya-23-8B
+Answer_5: sarvamai/sarvam-1
+Answer_6: Qwen2.5-7B-Instruct
+----------------------------------------
+
+Sheet: Story_2_short_l6v2
+Answer_1: sarvamai/OpenHathi-7B-Hi-v0.1-Base
+Answer_2: sarvamai/sarvam-1
+Answer_3: CohereLabs/aya-23-8B
+Answer_4: Qwen2.5-7B-Instruct
+Answer_5: meta-llama/Llama-3.1-8B-Instruct
+Answer_6: krutrim-ai-labs/Krutrim-2-instruct
+----------------------------------------
+
+Sheet: Story_3_short_l6v2
+Answer_1: sarvamai/sarvam-1
+Answer_2: CohereLabs/aya-23-8B
+Answer_3: meta-llama/Llama-3.1-8B-Instruct
+Answer_4: sarvamai/OpenHathi-7B-Hi-v0.1-Base
+Answer_5: krutrim-ai-labs/Krutrim-2-instruct
+Answer_6: Qwen2.5-7B-Instruct
+----------------------------------------

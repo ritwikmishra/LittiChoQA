@@ -1,0 +1,126 @@
+=== Workbook: dogri_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_3",
+        3: "Answer_1",
+        4: "Answer_2",
+        5: "Answer_5",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer provides a direct response to both parts of the question: it states that the mouse's (chūhī's) thinking changes by the end of the story, and that this change is because she realizes the truth and her own mistake. Although not as detailed as the reference, it is the closest match in content and logic.",
+        "Answer_3": "This answer attempts to describe a change in thinking but is somewhat disorganized and includes inaccurate details (mixing up the mouse and the rat's habit). It touches on the idea of change and cause but is less clear and accurate compared to Answer_6.",
+        "Answer_1": "This answer just states that the mouse has a habit of making excuses and does not attempt to explain any change or a reason for a change in thinking by the end of the story. It omits the main point of the reference answer.",
+        "Answer_2": "This answer incorrectly claims there is no change in the mouse's thinking and misinterprets the story, even though the reference answer clearly indicates the mouse's attitude changes at the end. It is less accurate than Answer_1 because it directly contradicts the reference.",
+        "Answer_5": "This is mostly repetitive questions, not an answer, and provides no relevant information or connection to the reference answer or question. It cannot be considered a relevant response.",
+        "Answer_4": "Simply says 'sandarbh' (reference) and 'The answer is:', which does not address the question at all and is not an answer. It ranks lowest due to lacking any substantive content."
+    }
+}
+================================================================================
+
+=== Workbook: dogri_stories.xlsx | Sheet: Story_2_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_2",
+        3: "Answer_6",
+        4: "Answer_3",
+        5: "Answer_4",
+        6: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_1": "This answer is the closest to the reference answer. It describes some actions taken by Naula Diddhu, such as calling out the snake and instructing the frogs to circle it, reflecting both the strategy and courage aspects noted in the reference. Although the answer is incomplete and a bit disorganized, it contains the essence of both help and the special thinking of Naula.",
+        "Answer_2": "This answer states that Naula Diddhu helped his friends and characterizes his qualities as being helpful, intelligent, and willing, which aligns with the reference answer's main points about helpfulness, intelligence, and readiness to help. However, it lacks details about the specific actions Naula took.",
+        "Answer_6": "This answer mentions that Naula made preparations to help and save the frogs, suggesting readiness and helpfulness. However, it is more repetitive and less detailed about the situation or Naula's unique approach, making it less close to the reference than Answer 2.",
+        "Answer_3": "This answer does not contain relevant information—it is unfinished and does not address the question directly, thus ranking lower.",
+        "Answer_4": "This answer simply says '5 khasiyat si', which does not answer the question in any meaningful way.",
+        "Answer_5": "This answer simply states '99', which is not relevant or meaningful in the context of the question."
+    }
+}
+================================================================================
+
+=== Workbook: dogri_stories.xlsx | Sheet: Story_3_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_5",
+        3: "Answer_3",
+        4: "Answer_1",
+        5: "Answer_2",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_6": "Answer_6 closely matches the reference answer by stating that the mouse refused to choose the farmer, bee, and lion as suitors because their offers did not meet her needs (they talked about food that she did not like or that was inappropriate for her). While the explanation is more simplistic and omits the deeper reasoning about practicality and understanding, it still maintains the core. It is in Dogri/Hindi, appropriate to the context.",
+        "Answer_5": "Answer_5 attempts to explain that the mouse rejected the suitors because the things they offered were not easily obtainable or suitable for her. However, it misinterprets the moral a bit — suggesting the mouse was wrong in her thinking about struggling for things, which contrasts with the reference answer's positive interpretation of her being practical and thoughtful. Still, it refers to the specific offers and partial reasoning, making it closer than others.",
+        "Answer_3": "Answer_3 mainly summarizes parts of the story but does not directly answer the question in a clear and complete way. It lists what the farmer promised but does not state why the mouse refused the suitors or analyze her thinking. There is very little reasoning present, so it is less similar to the reference answer.",
+        "Answer_1": "Answer_1 is incomplete and nonsensical ('300 tongue'), providing no relevant information to the question or reference answer.",
+        "Answer_2": "Answer_2 is entirely in Chinese and talks about natural enemies and food chains, with speculative options not related to the specifics of the story. The reasoning about food being 'enemies' is not relevant and thus does not match the reference answer.",
+        "Answer_4": "Answer_4 seems to be largely about 'Sapna Narenia' (possibly misunderstanding the author as a character) and talks about mindset control, powers and hesitation, none of which are present in the story or the reference answer. It is wholly unrelated to both the question and the story content."
+    }
+}
+================================================================================
+
+=== Workbook: dogri_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_3",
+        3: "Answer_2",
+        4: "Answer_4",
+        5: "Answer_5",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_1": "Although Answer_1 is somewhat vague and not perfectly clear about the change in Chuhi's thinking, it does mention her coming to accept a harsh reality and realizing the truth, which is somewhat aligned with the reference answer's explanation regarding Chuhi recognizing her own mistakes and the futility of making excuses. It is the only answer that somewhat addresses the evolution in Chuhi's thinking, albeit not as directly or clearly as the reference answer.",
+        "Answer_3": "Answer_3 veers off topic by introducing a new character (Ramnamurti) who is not a part of the original story and talks about him fulfilling his dreams. While it briefly mentions Chuhi's thinking changes, it attributes the change and story resolution to an unrelated person, diverging from both the story and the question. Nonetheless, it at least mentions a change in thinking, thereby marginally connecting with the prompt.",
+        "Answer_2": "Answer_2 is written in Bengali and seems entirely unrelated to both the story and the question in content. It only contains repeated unrelated text and does not address Chuhi, her thinking, or any change.",
+        "Answer_4": "Answer_4 simply states that there is no corresponding option and offers unrelated commentary about mismatched language and content. It does not attempt to answer the question at all.",
+        "Answer_5": "Answer_5 only repeats 'రమణమూర్తి తృళ్ళిపడ్డాడు' (Ramnamurti was shocked), which has no relation to the Dogri story about Chuhi. It is not an answer and is not relevant to the question.",
+        "Answer_6": "Answer_6 contains a series of sentences about someone named Ratan and love, which is unrelated to the 'Chuhi' story. The text is off-topic and does not address the question about the change in Chuhi's thinking at all."
+    }
+}
+================================================================================
+
+=== Workbook: dogri_stories.xlsx | Sheet: Story_2_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_2",
+        2: "Answer_5",
+        3: "Answer_6",
+        4: "Answer_1",
+        5: "Answer_3",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_2": "Although not detailed, Answer_2 attempts to address both parts of the question (how Naula Diddu helped his friends and what was special about his thinking) by mentioning loyalty, determination, and the importance of courage and friendship. While it is not specific to the story, it is the closest to the reference answer in terms of thematics.",
+        "Answer_5": "This answer gives a generic quality 'very supportive and helpful', so it partially aligns with the general role played by Naula Diddu, but lacks the detail, context, or any mention of specifics from the story or question.",
+        "Answer_6": "This answer is somewhat incoherent and mixes reference to 'Mirza Sahib' who is unrelated to the story, but it still makes a brief attempt to connect to friendship and helpfulness, albeit in a confused manner. It's marginally better than the least relevant answers because it at least mentions helping friends.",
+        "Answer_1": "Answer_1 is extremely vague ('There are people who are expert in doing such things.') and does not address the question or story specifics. It provides no mention of help, characteristics, or any story-related content.",
+        "Answer_3": "Answer_3 is completely irrelevant, containing random sentences and characters not connected to the story, question, or reference answer.",
+        "Answer_4": "Answer_4 is entirely in Chinese, discussing options not provided in the prompt, and has absolutely no relevance or connection to the story, question, or reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: dogri_stories.xlsx | Sheet: Story_3_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_2",
+        2: "Answer_4",
+        3: "Answer_3",
+        4: "Answer_1",
+        5: "Answer_5",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_2": "This answer addresses the question about why the mouse rejected the farmer, the bumblebee, and the lion as suitors. It attempts to explain the mouse's reasoning (preferences and values) and provides some linkage to the mouse's mindset, though the explanation is a bit generic and does not detail the specific promises of each character as the reference answer does. Still, it is the closest in intent and content.",
+        "Answer_4": "This answer is somewhat incoherent and contains irrelevant or confusing statements. It gives some attempt to answer the question but deviates from the actual details present in the story and reference answer. Steps are listed but these do not logically relate to the question or the story, making the answer weak but marginally more relevant than the remaining options.",
+        "Answer_3": "This answer does not answer the question at all and instead gives strange, irrelevant statements about turning away from a lion, none of which relate to the story. It is not meaningful nor does it address the mouse's reasoning or personality.",
+        "Answer_1": "This answer is completely non-informative and does not attempt to answer the question. It consists only of a line of repeated or meaningless symbols.",
+        "Answer_5": "This answer is a completely unrelated personal anecdote about fishing, humans, and a fish, and has nothing to do with the story, mouse, or the question asked.",
+        "Answer_6": "This answer is in Chinese and appears to discuss a completely different story content (tree, branches, Noah, etc.), which is not even remotely relevant to the provided Dogri story or question. It provides no relevant information regarding the mouse or its choices."
+    }
+}
+================================================================================
+

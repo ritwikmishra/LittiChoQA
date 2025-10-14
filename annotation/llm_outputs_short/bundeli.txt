@@ -1,0 +1,125 @@
+=== Workbook: bundeli_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_6",
+        3: "Answer_1",
+        4: "Answer_2",
+        5: "Answer_5",
+        6: "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_4": "Answer_4 discusses the internal changes in Dineshchaddh Dubey, noting emotions like satisfaction, pride, and self-confidence as causes behind his change. It describes behavioral shifts such as walking alone, moving ahead without responding, and indicates his readiness to go alone—closely matching the reference answer's focus on internal dissatisfaction, social change, and behavioral reflection such as walking faster and feeling restless and lonely. It aligns well with both components of the reference.",
+        "Answer_6": "Answer_6 attempts to list reasons behind the mental change and mentions behavioral shifts, but it adds details about the vehicle and color change that are not present in the original story or reference answer. While it touches on 'moter stand' and village vehicle themes, much of its explanation diverges from the actual content. Still, it at least tries to explain cause (societal event) and resulting attention/behavior change, so it is closer to the reference than the rest.",
+        "Answer_1": "Answer_1 repeats the same point in several ways, mainly about switching from vehicle to walking. It fails to talk about internal dissatisfaction, societal change, feeling of loneliness or behavioral signs of restlessness mentioned in the reference answer. It shows some attempt at describing a change in behavior (walking instead of taking the vehicle) but misses the main psychological or emotional aspects.",
+        "Answer_2": "Answer_2 is too vague and does not mention any actual cause or behavioral change; it only generally speaks about people doing things or behaviors at the same time. It has no direct relevance to the reference answer or the story.",
+        "Answer_5": "Answer_5 repeats 'भाईचोरी का भाव' (emotion of brotherhood) twenty times with no explanation or connection to the story or reference answer. It neither addresses cause nor behavioral change. Its content is almost entirely filler.",
+        "Answer_3": "Answer_3 is written in Chinese and describes a different scenario about someone being angry at young people for not helping in an accident and reflecting on their reaction. While this theme is thematically somewhat related (disappointment with younger generation and reflection), it does not reference the actual story content and diverges significantly from both question and reference answer, making it the least suitable."
+    }
+}
+================================================================================
+
+=== Workbook: bundeli_stories.xlsx | Sheet: Story_2_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_5",
+        3: "Answer_4",
+        4: "Answer_6",
+        5: "Answer_2",
+        6: "Answer_1"
+    },
+    "Reasoning": {
+        "Answer_3": "This answer most closely aligns with the reference, reflecting on how the loss or absence of a loved one creates deep sorrow and emptiness, using the metaphor of the bumblebee and the bud. It captures the emotional aspect and the existential impact of loss, similar to the reference. Though the explanation becomes a bit repetitive, it stays on topic and communicates the core message found in the reference.",
+        "Answer_5": "This answer attempts to draw a lesson from the bumblebee's behavior in times of loss and sorrow, suggesting that people should move beyond sorrow and seek happiness. While it is positive, it simplifies and somewhat misses the depth of overwhelming grief and emotional struggle described in the reference answer. It does not address the intensity of sorrow or the initial need to accept and understand feelings, making it less aligned with the reference.",
+        "Answer_4": "This answer is somewhat off-topic and introduces the idea of the Ganga being affected by the bumblebee's behavior, which is not directly related to the central message of the reference. It also repeats itself and lacks clarity, drifting away from the theme of how humans feel and react to loss and sorrow.",
+        "Answer_6": "This answer misinterprets the story, focusing on season change rather than the emotional lesson in times of loss or sorrow. It fails to address any of the key points from the reference regarding human emotional state during grief.",
+        "Answer_2": "This answer is completely in Chinese and largely unrelated to the story, its metaphors, or the reference answer. The suggestions of staying strong and optimistic are generic, and the answer demonstrates a misunderstanding of the poem's actual message. It is the least aligned with the reference."
+    }
+}
+================================================================================
+
+=== Workbook: bundeli_stories.xlsx | Sheet: Story_3_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_5",
+        3: "Answer_2",
+        4: "Answer_4",
+        5: "Answer_6",
+        6: "Answer_1"
+    },
+    "Reasoning": {
+        "Answer_3": "This answer conveys the main idea of the reference answer: when faced with one's own grief, it is difficult to maintain detachment and true sympathy for others' pain comes from experiencing it oneself. It captures both the incident (sadhu crying over his own loss) and the key lesson of empathy and understanding others' suffering.",
+        "Answer_5": "This answer partially retrieves the message about comforting others and not being able to change destiny, like the reference. However, it misses the subtlety that when the sadhu faced his own loss he could not stay detached. The answer is less nuanced about the difference in handling others' pain vs. one's own, but still somewhat close.",
+        "Answer_2": "This answer barely addresses the question. It repeats the question and adds 'it is the sign of the sikh', which neither explains the sadhu's behavior nor provides any lesson or insight related to empathy or understanding, as the reference answer does.",
+        "Answer_4": "This answer misunderstands the story completely. It refers to the death of a mouse and then lists unrelated family relations (daughter, husband, father), showing confusion. It misses the point about the sadhu's reaction to his personal loss and the universal lesson intended.",
+        "Answer_6": "This answer only repeats phrases like 'to explain to others' and lacks specific content related to the story or the lesson. It provides no information about the sadhu's conduct or the deeper message about personal experience of sorrow.",
+        "Answer_1": "This answer is complete gibberish (repetition of '2020'). It is not related to the story or the question, and demonstrates no understanding at all."
+    }
+}
+================================================================================
+
+=== Workbook: bundeli_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_3",
+        3: "Answer_2",
+        4: "Answer_6",
+        5: "Answer_4",
+        6: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_1": "This answer, although somewhat generic and repetitive, attempts to address both the causes for the changes in Dineshchaddh Dubey's mind and how these changes manifest in his behavior, aligning with the structure and intent of the reference answer. It talks about new directions and challenges, which loosely connects to themes of change and adaptation, similar to the reference answer that mentions internal dissatisfaction and behavioral change.",
+        "Answer_3": "This answer is largely irrelevant to the story and reference answer context, as it introduces unrelated characters (Mukta and Ganpati) and situations not present in the source story. However, it attempts to detail internal emotional change and behavior, which is conceptually closer to the reference answer than the remaining responses.",
+        "Answer_2": "This response is extremely brief, mostly an assertion about Dineshchaddh Dubey's hatred for lies and his honesty, with no explanation of causes or manifestations of behavioral change. Thus, it is less relevant than Answer_1 and Answer_3.",
+        "Answer_6": "This response is in Chinese and essentially asserts that the character is not mentioned in the story, which is incorrect as Dineshchaddh Dubey is explicitly a central character. It does not answer the question at all and shows a complete disconnect from the task.",
+        "Answer_4": "This answer is in Telugu (a language not relevant to context), and appears to be a string of partially repeated phrases without any discernible content linked to the story or question.",
+        "Answer_5": "This answer is just a string of repeated symbols and offers no content at all. It is the lowest ranked due to complete lack of relevance, content, or effort."
+    }
+}
+================================================================================
+
+=== Workbook: bundeli_stories.xlsx | Sheet: Story_2_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_6",
+        3: "Answer_4",
+        4: "Answer_1",
+        5: "Answer_3",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_5": "This answer, although repetitive, is written in Bundeli/Hindi and directly addresses the question by reflecting on the kinds of emotions a human experiences during separation and grief, in connection with the bumblebee's behavior, aligning with the reference answer. It loosely matches the required elements, mentioning human feelings during such times, although it largely repeats the same line.",
+        "Answer_6": "This answer interprets the bumblebee's behavior and tries to relate it to how humans should behave in times of happiness and sorrow, but it misses the depth and nuance present in the reference answer regarding intense grief, helplessness, and self-destructive behavior during loss. It does, however, stay largely on topic unlike the non-Bundeli and off-topic answers.",
+        "Answer_4": "This answer is written in Chinese, discusses the symbolism of the crematory scene and general grief, misidentifies the animal (mixing up 'भौंरा' with '乌鸦' meaning 'crow'), and does not directly reference the bumblebee. It is more general and disconnected from the reference answer, though it somewhat touches on grief and loss.",
+        "Answer_1": "This answer is in Telugu and unrelated to the context of the story or question. It neither references the bumblebee nor addresses the emotional lesson about grief, therefore ranks low.",
+        "Answer_3": "This answer is also in Telugu and repeats some lines from Answer_1, being equally unrelated and irrelevant to the question regarding the bumblebee and human emotional response.",
+        "Answer_2": "This answer is in English, unrelated to the reference answer, and is nonsensical and repetitive about smelling an animal's corpse, which has no relation to the story, question, or reference answer. It is the furthest from the expected content."
+    }
+}
+================================================================================
+
+=== Workbook: bundeli_stories.xlsx | Sheet: Story_3_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_5",
+        3: "Answer_3",
+        4: "Answer_6",
+        5: "Answer_2",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 is the only response that attempts to provide a brief learning from the story, with the line 'सहानुभूति इहिसे सिख मिलत है' which means 'the lesson is empathy.' While it's very brief and does not explain the context, this is the closest among the answers to the reference answer, which emphasizes understanding the depth of others' pain only when one experiences it themselves. The rest is mostly repetition or off-topic.",
+        "Answer_5": "Answer_5 simply says 'महात्मा गांधी' which is not relevant to the story, but at least identifies an individual associated with spiritual or moral teachings. However, it is not responsive to the question and does not reference any of the story content.",
+        "Answer_3": "Answer_3 is a repetitive and incorrect narrative about Ram remaining silent after the death of several family members—which does not match the story or the question. It does not address the story of the sadhu or the intended moral lesson.",
+        "Answer_6": "Answer_6 tries to address the mismatch between story and question and claims the story is about Ram, Vanaras, and a character called Ramamurti, which is incorrect—this does not match the provided Bundeli story. Also, it does not attempt to answer the actual question.",
+        "Answer_2": "Answer_2 is in Telugu, not Bundeli, and despite mentioning Rajaram, it does not provide any explanation related to the intended story or question. It is incomprehensible in this context and does not answer the question from the Bundeli story.",
+        "Answer_4": "Answer_4 is also in Telugu and provides lines that are contextually and linguistically unrelated to the story. It refers to different characters and events, therefore ranks lowest as it brings in completely irrelevant content."
+    }
+}
+================================================================================
+

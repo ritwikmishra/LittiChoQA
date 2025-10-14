@@ -1,0 +1,126 @@
+=== Workbook: awadhi_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_2",
+        3: "Answer_6",
+        4: "Answer_5",
+        5: "Answer_3",
+        6: "Answer_1"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer is the closest to the reference. It correctly explains Parvati's reaction by mentioning her unease when Mahadev did not return by midday, and her subsequent action of creating a child from her own body dirt to guard the door. This matches the details of the reference answer, including her proactive response for security.",
+        "Answer_2": "This answer also provides a sequence of events similar to the reference: Parvati notices Mahadev missing, creates a child for guarding, and later details Shankar's and Brahma's roles. However, it is more factual and less focused on Parvati's emotions or motivations compared to the reference and Answer_4.",
+        "Answer_6": "This answer partially addresses the emotional impact on Parvati due to Mahadev leaving without informing her, as stated in the reference. However, it lacks the key detail of her protective action (creating the child) and focuses mostly on her feeling sad and anxious.",
+        "Answer_5": "The answer tries to structure the response step-wise but ultimately repeats and generalizes Parvati's emotions rather than connecting them clearly to her subsequent actions. It hints at her sadness but not at her protective instinct or response, making it less aligned with the reference.",
+        "Answer_3": "This answer gives a repetitive and unclear list about Parvati sitting and making a child at the doorway but contains contradictory or duplicate statements. It is confusing and incomplete in context and does not build a clear cause-effect chain reflecting her emotional reaction and subsequent protective action.",
+        "Answer_1": "This answer is largely irrelevant and incoherent with respect to the question and story. It introduces new information not found in the story (Parvati going out, Mahadev being disappointed, etc.), includes random affirmations, and does not address Parvati's emotions or actions related to Mahadev leaving without informing her."
+    }
+}
+================================================================================
+
+=== Workbook: awadhi_stories.xlsx | Sheet: Story_2_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_5",
+        3: "Answer_6",
+        4: "Answer_3",
+        5: "Answer_4",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 closely mirrors the reference answer. It correctly mentions that the bhaujais react by questioning if 'tangi' (hardship) is only for the man and then reveals the behavior of the wife to the husband, which leads to the husband quietly observing his wife, exactly matching the reference's main points.",
+        "Answer_5": "This answer includes the correct sequence: bhaujai questioning the hardship, revealing the wife's reality to the husband, and then the man's reaction. However, it is unnecessarily verbose, contains some irrelevant sentences about marriage, and is slightly less concise than Answer_1.",
+        "Answer_6": "This answer only includes a partial aspect of the outcome (the husband sitting quietly and observing), omitting the crucial part about the bhaujais questioning and revealing the situation. It is less complete but is still somewhat relevant.",
+        "Answer_3": "Answer_3 awkwardly repeats itself and lacks clarity. While it mentions the bhaujai questioning and eventual change, the details are confused, and it does not robustly summarize the event sequence as well as higher-ranked answers.",
+        "Answer_4": "This answer lists options without clear reasoning and misinterprets the story by including words and implied plot points not present in the actual narrative, making it much less similar to the reference answer.",
+        "Answer_2": "Answer_2 does not provide any real content or details from the story. It repeats the question and does not highlight any of the necessary plot points, making it the least similar to the reference."
+    }
+}
+================================================================================
+
+=== Workbook: awadhi_stories.xlsx | Sheet: Story_3_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_4",
+        3: "Answer_2",
+        4: "Answer_6",
+        5: "Answer_1",
+        6: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_3": "This answer closely reflects the core message of the reference answer: that paps (sins) are removed through meaningful and sincere actions, not just rituals, and that addressing the root of the problem is necessary for true resolution. It covers the process followed by the king and connects it to learning about consequences and sincere atonement, similar in spirit and content to the reference.",
+        "Answer_4": "This answer recognizes the importance of ethical duty and responsibility in removing sin, which partially aligns with the reference. However, it lacks the explicit mention of internal sincerity, humility, or distinction between ritual and genuine action present in the reference answer. Its focus on 'moral duty' is somewhat general, but it is still relevant.",
+        "Answer_2": "This answer tries to summarize the events, indicating the process involves marrying the wronged party, but it misinterprets and reduces the story to only marriage and does not really answer what is learned from the process, missing the deeper lesson about sincere atonement, humility, and true service found in the reference. Thus, it ranks below 3 and 4.",
+        "Answer_6": "This response is incoherent and does not answer the question about the lesson learned from the process of atonement at all. It just restates part of the story's phrase about '3-8 ka sar he t ke se paap hoigai', offering no actual explanation or interpretation.",
+        "Answer_1": "This is a very short and dismissive response ('not so'), which neither addresses the question nor provides any information relating to the lesson in the reference answer or the story. It contributes nothing relevant.",
+        "Answer_5": "This answer is entirely irrelevant, presenting only a long, disconnected list of social roles and repeating them, showing no connection to the story or the question. It does not address the lesson, process, or even mention any character or moral topic."
+    }
+}
+================================================================================
+
+=== Workbook: awadhi_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_5",
+        3: "Answer_3",
+        4: "Answer_2",
+        5: "Answer_1",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_6": "Answer_6, though brief, addresses the actual impact on Parvati ('गुस्सा अउर उदास') and refers to Mahadev leaving without telling, which is directly relevant to both the question and the story. However, it lacks depth and nuances such as Parvati creating the boy and her reactions throughout the story, but it is still closest to the reference answer.",
+        "Answer_5": "Answer_5 is written in Hindi, giving a general description of Parvati's sense of emptiness and inability to live without Mahadev. It repeats sentiments about her emptiness and inability to accept life without him, but does not mention her actual response/actions (like creating the boy) or behavioral details from the story. It is less accurate than Answer_6 but more related to Parvati's emotional state from the narrative than the other responses.",
+        "Answer_3": "Answer_3 does not provide an answer; it simply repeats the question. It does not answer the prompt but is at least relevant in its content, setting it higher than the unrelated or off-topic responses.",
+        "Answer_2": "Answer_2 notes that the provided text does not contain information about Mahadev Baba or Parvati and claims more information is needed, but this is incorrect as the story contains details about them. Thus, it is not relevant or correct.",
+        "Answer_1": "Answer_1 is completely irrelevant to both the question and the story, consisting of an unrelated phrase in Telugu.",
+        "Answer_4": "Answer_4 is nonsensical and entirely off-topic, containing unrelated content in Telugu about Jesus and light beams, and does not reference the story or question at all."
+    }
+}
+================================================================================
+
+=== Workbook: awadhi_stories.xlsx | Sheet: Story_2_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_1",
+        2: "Answer_6",
+        3: "Answer_5",
+        4: "Answer_3",
+        5: "Answer_2",
+        6: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_1": "Answer_1 at least partially references the villagers noticing the man's condition and reacting, although it adds unrelated dialogue about the wife comforting the husband ('सूजा बेटा'). While incomplete, it is closer to the reference answer which describes the villagers' concern and questioning. It also stays within the context of the story and question.",
+        "Answer_6": "Answer_6 attempts to follow a step-by-step reasoning and mentions the villagers noticing the man's condition, but then diverges into irrelevant events about 'sahus' arriving and someone dying which do not relate to the reference answer or the main story sequence. However, it is less off-topic than the others further below.",
+        "Answer_5": "Answer_5 is largely generic, offering a list of emotional responses and ultimately settling on 'अजीब लगा' (strange) as the villagers' reaction. This is not accurate per the story, as the villagers actually show concern and inquire about the cause. The answer is vague and doesn't reference any details from the story.",
+        "Answer_3": "Answer_3 is almost entirely off-context. It introduces unrelated events about someone being impaled by a marigold spear and the villagers' fear or shock. This narrative is not supported anywhere in the provided story or the reference answer.",
+        "Answer_2": "Answer_2 presents random poetic/literary lines and unrelated dialogue that does not pertain to the question or the story at all. There is no connection to the villagers' concern or developments after that.",
+        "Answer_4": "Answer_4 also contains primarily incoherent or unrelated text, with references to random characters/dialogue and no attempt to answer the question based on story facts. It does not address either the reaction or subsequent events in the story."
+    }
+}
+================================================================================
+
+=== Workbook: awadhi_stories.xlsx | Sheet: Story_3_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_1",
+        3: "Answer_6",
+        4: "Answer_2",
+        5: "Answer_5",
+        6: "Answer_3"
+    },
+    "Reasoning": {
+        "Answer_4": "Answer_4 captures the key lesson from the story that service is essential for removing sin, which aligns closely with the reference answer's emphasis on genuine action and humility over superficial ritual. Despite being somewhat concise and partially in other languages, it is most aligned with the core message.",
+        "Answer_1": "Answer_1 mentions the importance of helping others sincerely to remove sin, which is part of the lesson in the reference answer. However, it lacks detail about humility and true atonement and does not reference the specific actions the king took, making it less comprehensive than Answer_4.",
+        "Answer_6": "Answer_6 provides a repeated phrase 'नैतिक शिक्षा' (moral education) which is generic and does not specifically relate to the story or its lesson. It is vague and lacks connection to both the process and the deeper moral described in the reference.",
+        "Answer_2": "Answer_2 is disorganized and confuses details from the story. It focuses on a location and a process irrelevant to the king's redemption and misinterprets the story’s main moral, making it much less similar to the reference.",
+        "Answer_5": "Answer_5 makes incorrect references to the plot (such as the king's son dying and the king finding peace in an empty home), which are not present in the story. It is factually inaccurate and unrelated to the theme of atonement.",
+        "Answer_3": "Answer_3 is irrelevant and consists only of repeated symbols (£¬), offering no content or meaning relating to the question or story, and therefore ranks last."
+    }
+}
+================================================================================
+

@@ -1,0 +1,46 @@
+=== Workbook: pali_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_2",
+        2: "Answer_7",
+        3: "Answer_4",
+        4: "Answer_3",
+        5: "Answer_1",
+        6: "Answer_6",
+        7: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_2": "This answer most directly and accurately explains the reason from the story: the ogre could not enter the man's house because the man residing there had taken refuge in the Buddha. By mentioning both the virtue (sīlatejena, guṇatejena) and the efficacy of taking refuge (saranagamanam) against evil, it clearly connects the reason for the ogre's incapacity to the story's central event.",
+        "Answer_7": "This answer also states that the reason the ogre cannot enter is because of taking refuge in the Buddha, referencing traditional scriptural authority, and restates that the Buddha is the ultimate reason for why the ogre can't enter. However, it is a little less direct and overly repeats and references canonical scriptures more than required by the story's own explanation.",
+        "Answer_4": "This answer tries to explain that the ogre, unable to say 'I go for refuge', cannot enter the house, but its phrasing is confusing and it doesn't clearly state that it's because of the man already taking refuge and the associated protective virtue, making it less clear than the answers ranked above.",
+        "Answer_3": "This answer gives keywords like 'fear', 'great fear', and 'because of great fear' multiple times. While 'fear' is indeed the ogre’s result, it misses the underlying reason (the protective power due to the man’s taking refuge in the Buddha). It only describes the ogre's emotion without causation.",
+        "Answer_1": "This output is a confusing mixture of story fragments stitched together. It doesn't directly answer the question regarding the ogre's inability to enter due to the spiritual power of taking refuge in the Buddha. The explanation is muddled and lacks clarity.",
+        "Answer_6": "Though it says 'the ogre was not interested in eating the man', it misconstrues the causality—the reason for the ogre not attacking is from fear driven by the man’s taking refuge in the Buddha, not a lack of interest. It summarizes this incorrectly and doesn't engage with the core doctrinal point or direct story explanation.",
+        "Answer_5": "This answer simply says 'kim', which is not a meaningful answer to the question. It gives no information or reasoning, hence it's the least useful."
+    }
+}
+================================================================================
+
+=== Workbook: pali_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_7",
+        3: "Answer_2",
+        4: "Answer_6",
+        5: "Answer_1",
+        6: "Answer_3",
+        7: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer provides a clear and accurate summary of the Satthā's teaching to the monks, directly referencing the relevant part: that not only in the current life but also in the past, the woman freed the three men from suffering. It also interprets the meaning of the teaching, highlighting wisdom and loving-kindness as factors for freeing others from suffering, thus conveying both the content and significance of Satthā's ovāda.",
+        "Answer_7": "This answer explains the context in detail, referencing the Satthā’s words to the monks and clearly extracting the meaning—namely, that through wholesome actions (kusala kamma) one can help free others from suffering, and that such virtue is praiseworthy. The answer showcases understanding of both the literal ovāda and its deeper meaning, although it is a bit repetitive and less concise than Answer_4.",
+        "Answer_2": "This answer presents the sequence of the narrative and reiterates the story’s key details, including the Buddha’s teaching about previous and current acts of liberation, but does not clearly articulate the explicit meaning (attho) of the ovāda. It’s mostly descriptive, not interpretive.",
+        "Answer_6": "This answer mentions the content—'Satthā taught the monks that not just now but also earlier suffering was removed'—which is on the right track. However, its repetition and incomplete sentences detract from clarity, and it does not give a precise explanation of the message or meaning behind the teaching.",
+        "Answer_1": "This answer copies a passage from the story, recounting part of the dialogue surrounding the value of a brother compared to a son or husband but does not relate it directly to the Satthā’s instruction to the bhikkhus nor explain the meaning of the ovāda, making it less relevant to the question asked.",
+        "Answer_3": "This answer is not coherent; it consists mainly of repeated phrases and words with no clear explanation or answer to the question regarding the Satthā’s ovāda or its meaning.",
+        "Answer_5": "This answer is simply '(c) raaja.', which does not answer the question at all and is completely unrelated to the Satthā’s ovāda or its meaning."
+    }
+}
+================================================================================
+

@@ -1,0 +1,45 @@
+```
+You are an expert evaluator. You have been given a story, a question, reference answer and multiple model generated answers. 
+Your task is to carefully read the story and the question, then evaluate all the provided answers based on their similarity with the reference answer.
+
+Instructions:
+1. Rank the answers from 1 to N, where 1 is the best answer.
+2. If multiple answers are equally similar, assign them consecutive ranks.
+3. Do not generate the answers; only provide the ranking.
+4. Provide a brief reasoning for each answer explaining why it received its rank. The reasoning must be written in English only irrespective of the language in which the example is given.
+5. Format your output as a JSON object as shown below.
+
+Output Format Example:
+{{
+    "Rankings": {{
+	1: "Answer_3",
+	2: "Answer_1",
+	3: "Answer_4",
+	...
+    }},
+    "Reasoning": {{
+        "Answer_3": "Explanation for Answer_3 ranking",
+        "Answer_1": "Explanation for Answer_1 ranking",
+        "Answer_4": "Explanation for Answer_4 ranking",
+	...
+    }}
+}}
+
+
+## Language ##
+{Language}
+
+## Story ##
+{Story}
+
+## Question ##
+{Question}
+
+## Reference Answer ##
+{Reference}
+
+## Answers ##
+{Answer_Texts}
+
+## Output ##
+```

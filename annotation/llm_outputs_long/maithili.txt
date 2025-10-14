@@ -1,0 +1,69 @@
+=== Workbook: maithili_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_7",
+        3: "Answer_5",
+        4: "Answer_3",
+        5: "Answer_1",
+        6: "Answer_2",
+        7: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer succinctly and accurately identifies two key moral lessons from the story: the importance of intelligence and cleverness in difficult situations (as shown by the bird's cunning) and the dangers of impatience and greed (as displayed by the crow), directly connecting these to what children can learn from the story. It also clearly explains how these lessons serve child readers, making it highly relevant and comprehensive.",
+        "Answer_7": "This answer correctly identifies the major morals of the story—beware of craftiness and betrayal, importance of problem-solving, and distinguishing between good and bad. It also explains how children benefit from the story in learning to think carefully in tough situations. However, it is slightly less detailed and pointed than Answer_4 about specific story elements and implications.",
+        "Answer_5": "This answer narrates the story's events and hints at some moral lessons, especially involving cunning and consequences. However, it is wordy, focuses too much on summary, and never explicitly completes the moral lessons, ending mid-sentence. It is only somewhat useful for the question.",
+        "Answer_3": "This answer provides a numbered list of possible values and lessons, many of which are not clearly relevant to the story (e.g., respect for animals, importance of Ganga river, environmental protection). It lacks focus on the actual story's key morals and offers generic or unrelated points, so it does not fully answer the question.",
+        "Answer_1": "This answer is repetitive, inaccurate, and confused. It mixes Hindi and English, and repeatedly states that 'the crow and vulture do not feed the child,' which is not a correct reflection of the story. It does not identify any specific moral, nor does it relate the story meaningfully to child readers.",
+        "Answer_2": "This answer consists of incoherent and disconnected portions from the story text, making no attempt to answer the moral or educational aspect of the question. It provides no reasoning or interpretation.",
+        "Answer_6": "This answer is in Chinese, not in Maithili as required, and largely summarizes the broad theme of not trusting others or being greedy, but is not contextualized to the specific story events. It is not usable for the intended audience or task."
+    }
+}
+================================================================================
+
+=== Workbook: maithili_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_3",
+        3: "Answer_4",
+        4: "Answer_1",
+        5: "Answer_6",
+        6: "Answer_2",
+        7: "Answer_7"
+    },
+    "Reasoning": {
+        "Answer_5": "This answer provides a comprehensive and accurate summary. It clearly notes that Gonu Jha suddenly woke up, saw the thieves entering, and, unable to immediately think of a solution, pinched his wife to wake her up, then tried to handle the situation cleverly and calmly. This aligns closely with the events and Gonu Jha's characteristic cleverness and composure under pressure.",
+        "Answer_3": "This answer correctly points out the sequence: Gonu Jha woke up, saw the thieves, then pinched his wife. However, it does not elaborate on Gonu Jha's mindset or the reasoning behind his actions, missing some important context found in the story.",
+        "Answer_4": "This answer describes what happened after Gonu Jha pinched his wife and her reaction, including their brief conversation, but does not directly address why Gonu Jha woke up or provide the full sequence as clearly as Answer_5 or 3.",
+        "Answer_1": "This answer starts to recount the conversation after Gonu Jha woke up, but it mostly copies dialogue from the story and is incomplete, getting cut off before finishing the answer. It does not directly answer both parts of the question: why his sleep was disturbed and his immediate reaction to seeing the thieves.",
+        "Answer_6": "This answer is a disjointed collection of extracted dialogue snippets and does not directly answer the question. It lacks context, coherence, and specificity with regard to Gonu Jha's reaction to seeing the thieves or why he woke up.",
+        "Answer_2": "This answer is irrelevant and confusing in the context of the story and question. It mentions something about sticks and lost items which does not match the events in the provided story. Thus, it is not an appropriate or accurate answer.",
+        "Answer_7": "This is not an answer to the question at all. It is just a prompt to click for more information and an article title, unrelated to the content of the story or the query."
+    }
+}
+================================================================================
+
+=== Workbook: maithili_stories.xlsx | Sheet: Story_3 ===
+{
+    "Rankings": {
+        1: "Answer_7",
+        2: "Answer_5",
+        3: "Answer_2",
+        4: "Answer_6",
+        5: "Answer_3",
+        6: "Answer_1",
+        7: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_7": "This answer is comprehensive and provides multiple clear lessons for society from the story: the value of wisdom and cleverness, remaining calm in crisis, the consequences of greed and haste, and the self-destructive nature of crime. It is clearly written, well-organized, and directly addresses the question based on the story context.",
+        "Answer_5": "This answer highlights that using intelligence, cleverness, and awareness can help protect oneself in any situation, which is a correct and relevant takeaway from the story. However, it is not as detailed or multi-faceted as Answer_7.",
+        "Answer_2": "This response provides the moral that thieves cannot succeed and will be punished for their misdeeds, which is a valid and central lesson from the story. However, it is less comprehensive and focused than the higher ranked answers, and most of the content is a summary rather than an explicit statement of the societal lesson.",
+        "Answer_6": "This answer is mostly a reproduction of parts of the story and does not explicitly state the moral or lesson for society, making it less relevant to the specific question. There is no explicit educational point drawn for society.",
+        "Answer_3": "This is simply a repetition of the question and does not answer it. No reasoning or lesson for society is provided.",
+        "Answer_1": "This is a repeated question, not an answer, and therefore does not provide any educational value or direct response related to the story.",
+        "Answer_4": "This answer is not in Maithili, but in Chinese, and is only partially relevant, referencing wisdom and cleverness. However, it does not fit the language requirement and does not appropriately answer the posed question for the Maithili context."
+    }
+}
+================================================================================
+

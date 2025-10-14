@@ -1,0 +1,42 @@
+=== Workbook: angika_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_3",
+        3: "Answer_1",
+        4: "Answer_4",
+        5: "Answer_5",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer discusses the emotional and social impact of the pandemic as depicted in the story, referencing themes like concern, fear, emotional pain, distance from loved ones, and hope. Although not a fluent summary, it is most aligned with the reference answer, mentioning both emotional and social aspects drawn directly from the story.",
+        "Answer_3": "This answer attempts to analyze the emotional and social impacts reflected in the story, speaks about anxiety, uncertainty, and fear, and connects these with the pandemic. However, it is very general and lacks specificity to the story's content, and seems partly meta-evaluative.",
+        "Answer_1": "This answer provides a generic overview of the social and emotional impacts of the coronavirus era, such as unemployment and mental health, but does not utilize the specific details or emotions presented in the story. It also covers information about healthcare providers that is not in the original story.",
+        "Answer_4": "This is not an answer to the question but a restatement or confusion in phrasing. It fails to discuss the story's content or the social/emotional impacts, so it ranks low.",
+        "Answer_5": "This answer lists points about emotions, relationships, and being emotionally balanced, but does not relate to the story given at all and simply enumerates generic points about emotions.",
+        "Answer_2": "This answer is a series of repetitive, irrelevant statements (mostly 'I can't talk about it'), bearing no connection to the story or the question. It makes no attempt to answer the prompt and ranks the lowest."
+    }
+}
+================================================================================
+
+=== Workbook: angika_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_3",
+        3: "Answer_1",
+        4: "Answer_6",
+        5: "Answer_4",
+        6: "Answer_2"
+    },
+    "Reasoning": {
+        "Answer_5": "Answer_5 most closely aligns with the reference answer as it directly states that the story highlights changes in human nature and the social and emotional impacts during the Corona period, which reflects key points from the reference such as social bonds and emotional pain.",
+        "Answer_3": "Answer_3 discusses main points such as changes in human nature, feelings of isolation after freedom, and thoughts about change, but elaborates less specifically on the context of the pandemic or direct emotional consequences as highlighted in the reference answer.",
+        "Answer_1": "Answer_1 does not actually address the question. It instead discusses event trigger words and references a different language. It does not relate to the social or emotional impacts described in the story.",
+        "Answer_6": "Answer_6 simply says 'No' and 'Yes' without any context or explanation. It does not relate to the question or reference answer at all.",
+        "Answer_4": "Answer_4 is mostly gibberish, stream-of-consciousness, and although some words touch on human nature, it does not constitute a meaningful answer to the question.",
+        "Answer_2": "Answer_2 contains only repetitive text in another language, is incoherent, and provides no relevant information in response to the question."
+    }
+}
+================================================================================
+

@@ -1,0 +1,69 @@
+=== Workbook: hindi_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_2",
+        2: "Answer_5",
+        3: "Answer_7",
+        4: "Answer_1",
+        5: "Answer_3",
+        6: "Answer_4",
+        7: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_2": "This answer is concise, accurate, and deeply engages with the events and values of the story. It highlights the mother's patience, loving nature, and her exemplary way of guiding her son through affection and understanding. The answer reflects both the character's actions and the moral lesson, making it the most precise and relevant.",
+        "Answer_5": "This response effectively describes the mother as loving, patient, and wise. It explains the lesson the son learns and connects the story's message to universal values of love and respect for parents. The structure is logical and captures the inspirational impact of the mother's behavior. It's nearly as strong as Answer_2, but slightly more verbose.",
+        "Answer_7": "This answer correctly recognizes the mother as an ideal and selfless parent and details her dedication and attentive listening to her son. However, it has some minor factual inaccuracies (e.g., the mother, not the son, was sick; she did not go to the market) and becomes repetitive, reducing its precision.",
+        "Answer_1": "This answer is partly correct in describing the mother as a symbol of parental affection and as a model of motherhood. However, it is generic, somewhat repetitive (due to translation overlap), and lacks specific reference to the emotional dynamics and lessons present in the story.",
+        "Answer_3": "This answer is confused in its details and mixes up story events (e.g., says the 'son was sick' and 'mother was at work,' which does not match the story). The logical order and relevance are compromised, making the answer less accurate and more ambiguous.",
+        "Answer_4": "This answer incorrectly describes the son as a 20-year-old who is very respectful and serving towards his parents, which is not supported by the story. The answer generalizes the theme without accurately reflecting the character dynamics or the main message about the change in the son's attitude after the mother's gentle reminder.",
+        "Answer_6": "This answer is in Chinese, not in the required language, and mixes content from another question about what was in the mother's tea instead of answering the actual given question about the mother's role and her inspirational behavior. It is off-topic and in the wrong language."
+    }
+}
+================================================================================
+
+=== Workbook: hindi_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_1",
+        3: "Answer_3",
+        4: "Answer_2",
+        5: "Answer_4",
+        6: "Answer_6",
+        7: "Answer_7"
+    },
+    "Reasoning": {
+        "Answer_5": "This answer most accurately and comprehensively explains how the story changes the perspective of the Brahmin and his disciples. It highlights their initial outlook, their realization about karma and violence, and how the story leads to compassion, introspection, and awareness about the consequences of actions – all of which are strongly reflected in the story.",
+        "Answer_1": "This answer is also accurate, clearly summarizes the impact of the story on the Brahmin and his disciples regarding karma and how it forces them to rethink traditions like animal sacrifice. However, it is wordy, slightly repetitive, and not as succinct or seamlessly reasoned as Answer_5.",
+        "Answer_3": "This answer touches on important aspects such as understanding karma and references their preparation for the sacrifice. However, the structure is somewhat disjointed, the points appear incomplete, and it does not fully elaborate on how their view specifically changes, making it less informative than Answers 1 and 5.",
+        "Answer_2": "The answer initially makes an accurate observation about the Brahmin postponing the sacrifice and providing protection, but then introduces fictional events not found in the story, such as the Brahmin killing himself or sacrificing the goat himself repeatedly, which decreases its accuracy.",
+        "Answer_4": "This answer mainly discusses the caste system and comparative behavior instead of focusing on how the story changes the Brahmin and disciples' outlook. Much of the answer is generic commentary or irrelevant English text, making it largely disconnected from the explicit question and the story.",
+        "Answer_6": "This is not an answer but a series of repeated questions with no information provided. It does not address the question at all and hence ranks low.",
+        "Answer_7": "This answer is factually incorrect about the story's events, claiming there is no change in perspective and that the Brahmin's decision is unaffected, which directly contradicts the story, where the Brahmin cancels the sacrifice after hearing the goat. Therefore, it is the least accurate."
+    }
+}
+================================================================================
+
+=== Workbook: hindi_stories.xlsx | Sheet: Story_3 ===
+{
+    "Rankings": {
+        1: "Answer_5",
+        2: "Answer_4",
+        3: "Answer_3",
+        4: "Answer_7",
+        5: "Answer_2",
+        6: "Answer_6",
+        7: "Answer_1"
+    },
+    "Reasoning": {
+        "Answer_5": "Answer_5 provides a comprehensive, step-by-step explanation of the rabbit’s plan to teach the mongoose a lesson. It covers all the key steps: taking two baskets, applying tar, luring the mongoose with greed, filling the baskets, the tar sticking the basket, the mongoose hurting himself, and giving him his own painful balm. It also ties the plan directly to the reason behind it: making the mongoose feel the pain he caused others.",
+        "Answer_4": "Answer_4 thoroughly explains the sequence of the plan, describing each significant event, including the preparation of the tarred basket, luring the mongoose, the trap on the mountain, and giving the balm. However, it is slightly less detailed in explicitly relating the cause-effect between the rabbit's steps and the mongoose's realization than Answer_5.",
+        "Answer_3": "Answer_3 offers a clear breakdown of the rabbit’s steps and includes an itemized list of the plan's components. It is accurate and relevant, but slightly less fluent and narrative in structure compared to the top two answers. Some repetition and a note at the end reduce its polish and completeness.",
+        "Answer_7": "Answer_7 outlines all crucial steps in the plan in bullet points and is factually accurate. However, the explanation stops mid-sentence and lacks a conclusion, making it incomplete, which lowers its ranking.",
+        "Answer_2": "Answer_2 states most main steps in the plan in a straightforward list, but is interrupted by incomplete sentences, strange formatting, and lacks explanation or context. It also ends abruptly, which makes it less effective.",
+        "Answer_6": "Answer_6 is somewhat disorganized and includes many follow-up questions and redundant points not directly related to the main question. It explains the sequence but lacks coherence and focus on just the plan steps. The presence of extra Q&A and Yes/No answers detracts from the clarity.",
+        "Answer_1": "Answer_1 is the least accurate and most confusing. It mixes English and Hindi randomly, contains factual errors (such as confusing the placement of baskets), and muddles the sequence of steps. It fails to clearly and accurately enumerate the plan’s steps."
+    }
+}
+================================================================================
+

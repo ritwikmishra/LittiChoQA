@@ -1,0 +1,69 @@
+=== Workbook: urdu_stories.xlsx | Sheet: Story_1 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_6",
+        3: "Answer_2",
+        4: "Answer_5",
+        5: "Answer_1",
+        6: "Answer_3",
+        7: "Answer_7"
+    },
+    "Reasoning": {
+        "Answer_4": "This answer gives a thorough and precise analysis of the story, accurately identifying the main motifs: the tragic nature of the girl's death, its transformation in the narrative into a meaningful and dignified event via the elements of 'rahmat ki barish', the wider grave, as well as the idea of her being a martyr. It also notes the symbolic dimension of the spacious grave, expressing her spiritual largeness, and brings together both the external events and their inner meaning.",
+        "Answer_6": "This answer is detailed and correct, summarizing the key points (the tragedy, the sense of spiritual blessing, and the elevation of death to martyrdom), though it is slightly less elaborate in analysis and less nuanced than Answer_4. Still, it covers both the literal and metaphorical aspects and conveys the underlying spiritual interpretation presented in the story.",
+        "Answer_2": "This answer correctly describes the passage from tragedy to respect and meaning, recognizing the significance of the 'rain of mercy' and the respect shown after death. However, it lacks specificity and depth compared to 4 and 6, particularly in linking the reactions of the characters and symbolic details to the overall thematic structure.",
+        "Answer_5": "This answer contains partially correct elements, like mentioning rain as a sign of mercy, but is confused and repetitive, with some irrelevant or inaccurate details. It also includes text in Chinese, which is not required for this task. The Urdu part is jumbled and does not fully explain the symbolic or meaningful transformation of the girl's death.",
+        "Answer_1": "This answer is largely incoherent, repetitive and fails to provide clear reasoning or explanation for the events and their meaning in the story. It touches on rain and mercy but is muddled and lacks the necessary analysis.",
+        "Answer_3": "This answer is very incomplete, grammatically broken and does not answer the question. It seems to be cut off and fails to convey any analysis of the events or their meaning.",
+        "Answer_7": "This answer is completely irrelevant and does not pertain to the question or the story provided, referring instead to a story about 'Chaacha' and 'Gor', some Hindi, and a narrative not related to the given material. It is therefore ranked lowest."
+    }
+}
+================================================================================
+
+=== Workbook: urdu_stories.xlsx | Sheet: Story_2 ===
+{
+    "Rankings": {
+        1: "Answer_6",
+        2: "Answer_1",
+        3: "Answer_7",
+        4: "Answer_2",
+        5: "Answer_4",
+        6: "Answer_3",
+        7: "Answer_5"
+    },
+    "Reasoning": {
+        "Answer_6": "This answer provides a comprehensive and conceptual analysis, identifying 'حرامخور' not as a specific person but as a widespread social disease affecting all facets of society. It connects the story’s abstract presentation to themes of moral decline, selfishness, and collective irresponsibility, directly tying these to the question of why 'حرامخور' is a societal disease. This makes it the most complete and insightful response.",
+        "Answer_1": "This answer lists several detailed points, drawing directly from the events in the story and articulating how each one reflects a form of social disease (e.g., corruption, loss of trust, institutional breakdown). It directly connects incidents to broader societal problems, but is less succinct and philosophical than Answer_6.",
+        "Answer_7": "This answer summarizes the effects of 'حرامخور' on society, mentioning the impact on daily life, fear in the community, and illegal activities. While it addresses relevant points from the story, it is less detailed and a little disjointed, not as deep as Answers 1 and 6.",
+        "Answer_2": "This answer simply lists the problematic incidents caused by 'حرامخور' without analyzing the underlying societal implications or explicitly explaining why these are evidence of a 'معاشرتی بیماری'. It is simplistic and misses the conceptual link.",
+        "Answer_4": "This answer appears to be a partial copy-paste from the story and breaks off mid-sentence, failing to answer the question directly. There is no reasoning or extraction of the underlying causes presented.",
+        "Answer_3": "This answer is incoherent and incomplete; it lacks logical structure and fails to present connected reasoning or relevant points from the story.",
+        "Answer_5": "This is just a repetitive list of the author's name without any content related to the story or question. It is irrelevant and does not address the question at all."
+    }
+}
+================================================================================
+
+=== Workbook: urdu_stories.xlsx | Sheet: Story_3 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_2",
+        3: "Answer_5",
+        4: "Answer_6",
+        5: "Answer_1",
+        6: "Answer_7",
+        7: "Answer_4"
+    },
+    "Reasoning": {
+        "Answer_3": "This answer provides a comprehensive symbolic interpretation of 'tang rasta' (the narrow path), clearly connecting it to the protagonist's hardships, risks, and constrained opportunities in life. It discusses both the literal imagery within the dream and its metaphorical links to poverty, risk, and crime in the character's life. The explanation covers key elements from the story, like the constant threat and the emotional burden.",
+        "Answer_2": "This answer effectively captures the symbolic meaning of the narrow path as a mental and emotional struggle. It mentions the connection to daily struggles, risks, and the character's criminal life. It lacks a bit of succinctness and focus compared to Answer_3, but still thoroughly explains both the metaphor and its relevance to the character's situation.",
+        "Answer_5": "This answer identifies the narrow path as a symbol of challenges and responsibilities in life, relating it to the ant with a burden. While it touches on difficult aspects like fear, anxiety, and struggle, it is less clearly connected to aspects like risk/crime and lacks the organization and thoroughness of Answers 2 and 3.",
+        "Answer_6": "This answer begins to discuss the symbolism of the path and the risks on either side but is somewhat unclear and incomplete. The explanation is difficult to follow (likely due to some language errors), and the analysis of the story is not as deep or accurate as the top-ranked answers.",
+        "Answer_1": "This answer simply repeats 'tang rasta' without any explanation or analysis. It provides no information about the symbolism or relevance to the character's life.",
+        "Answer_7": "This answer is largely incoherent and repetitive, not making meaningful sense and not providing any serious analysis of the question.",
+        "Answer_4": "This answer is completely nonsensical, filled with repetitive, meaningless phrases, and provides no relevant explanation at all."
+    }
+}
+================================================================================
+

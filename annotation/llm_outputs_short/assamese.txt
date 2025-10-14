@@ -1,0 +1,42 @@
+=== Workbook: assamese_stories.xlsx | Sheet: Story_1_short_l6 ===
+{
+    "Rankings": {
+        1: "Answer_4",
+        2: "Answer_5",
+        3: "Answer_2",
+        4: "Answer_1",
+        5: "Answer_3",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_4": "Answer_4 concisely and accurately addresses both parts of the question: how Munia understood the mystery of the sun (by realizing it plays hide and seek) and the emotional effect (it brought happiness), closely matching the reference answer's meaning and key points.",
+        "Answer_5": "Answer_5 has repetition and formatting noise, but it does mention Munia understanding the mystery and an emotional response from looking at the sun, partially aligning with the reference answer though with less detail and unclear wording.",
+        "Answer_2": "Answer_2 attempts to discuss Munia realizing the sun's tricks and her initial dislike, but the answer is incomplete and doesn’t clearly address the emotional result of her new understanding, making it less similar to the reference.",
+        "Answer_1": "Answer_1 primarily recounts Munia's attempts to seek answers and her friends' disinterest but doesn’t answer how Munia actually understood or her emotional reaction, making it diverge significantly from the reference.",
+        "Answer_3": "Answer_3 is mostly incoherent and repetitive; it doesn't answer either how Munia came to understand the sun's mysteries or how it made her feel, so it ranks near the bottom.",
+        "Answer_6": "Answer_6 is completely incoherent and does not contain any relevant information related to the story or the question, making it the least similar to the reference answer."
+    }
+}
+================================================================================
+
+=== Workbook: assamese_stories.xlsx | Sheet: Story_1_short_l6v2 ===
+{
+    "Rankings": {
+        1: "Answer_3",
+        2: "Answer_1",
+        3: "Answer_2",
+        4: "Answer_4",
+        5: "Answer_5",
+        6: "Answer_6"
+    },
+    "Reasoning": {
+        "Answer_3": "Although somewhat incoherent and incomplete, Answer_3 is the only one that references Munia and the bhelir (sun) and makes some attempt to respond to the question, even mentioning feelings, albeit not in detail or accurately. It is more on topic than the rest.",
+        "Answer_1": "This answer creates an entirely new story about Munia's heartbreak from betrayal, which does not align with the reference answer or the story. It is thematically off, but at least mentions Munia and emotions, making it marginally more relevant than the rest after Answer_3.",
+        "Answer_2": "This answer is not in Assamese, nor does it reference Munia or the theme of the question. It contains generic placeholder text. Slightly better than the completely off-topic or nonsensical answers, but still not relevant.",
+        "Answer_4": "This answer denies that the question is answerable from the story, which is incorrect. It also references a different story (Gopi and Nirmala), showing a complete misunderstanding and lack of relevance.",
+        "Answer_5": "This answer is in Telugu and talks about Gopi and Nirmala, not Munia or the sun. It is entirely irrelevant and off-topic for the question.",
+        "Answer_6": "This answer is just a sequence of symbols and holds no meaningful content or relevance to the story or question."
+    }
+}
+================================================================================
+
