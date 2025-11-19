@@ -5,5 +5,8 @@ inferencing/outputs
 annotation/intersection_output.jsonl
 evaluation/hub_models
 evaluation/rouge_evaluation
-evaluation/sts_evaluation
 inferencing/base_outputs
+evaluation/sts_evaluation
+evaluation/base_rouge_evaluation
+evaluation/base_sts_evaluation
+evaluation/rouge_evaluation

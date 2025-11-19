@@ -1,15 +1,13 @@
 #!/bin/bash
 
-BASE_OUTPUT="sts_evaluation"
-# MODELS=("CohereLabs/aya-23-8B" "sarvamai/OpenHathi-7B-Hi-v0.1-Base" "Qwen/Qwen2.5-7B-Instruct" "meta-llama/Llama-3.1-8B-Instruct" "krutrim-ai-labs/Krutrim-2-instruct" "sarvamai/sarvam-1")
-MODELS=("Qwen/Qwen2.5-7B-Instruct")
+BASE_OUTPUT="base_sts_evaluation"
+MODELS=("sarvamai/sarvam-1" "CohereLabs/aya-23-8B" "sarvamai/OpenHathi-7B-Hi-v0.1-Base" "Qwen/Qwen2.5-7B-Instruct" "meta-llama/Llama-3.1-8B-Instruct" "krutrim-ai-labs/Krutrim-2-instruct")
 
 CONTEXTS=("long" "short_l6" "short_l6v2")
 
-TOTAL_SPLITS=6
+TOTAL_SPLITS=1
 
-gpu_order=(2 2 2\
-           3 3 3)
+gpu_order=(2)
 
 
 for model in "${MODELS[@]}"; do

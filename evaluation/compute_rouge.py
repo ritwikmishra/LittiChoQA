@@ -13,6 +13,18 @@ parser.add_argument('--output_file', type=str, required=True, help='Path to save
 args = parser.parse_args()
 
 # ------------------------------
+# Check if output file already exists
+# ------------------------------
+if os.path.exists(args.output_file):
+    exit(0)
+
+# ------------------------------
+# Validate input file
+# ------------------------------
+if not os.path.exists(args.batch_file):
+    exit(1)
+
+# ------------------------------
 # Unicode-based script detection
 # ------------------------------
 def detect_script(text: str) -> str:
@@ -40,54 +52,55 @@ def transliterate_text(text: str) -> str:
         try:
             return transliterators[script].transform(text)
         except Exception:
-            pass
+            return text
     return text
 
 # ------------------------------
-# Load reference and generated answers
+# Read batch file
 # ------------------------------
-results = []
-
 with open(args.batch_file, 'r', encoding='utf-8') as f:
     content = f.read()
 
 qid_blocks = content.split("QID:")[1:]
-scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=False)
+scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rouge3', 'rougeL'], use_stemmer=False)
+
+results = []
 
 for block in qid_blocks:
-    # Extract QID
     qid_end = block.find("Prompt:")
     qid = block[:qid_end].strip() if qid_end != -1 else "unknown"
 
     # Extract Reference Answer
-    ref_answer = None
+    ref_answer, gen_answer = None, None
     if "Reference Answer:" in block and "Generated Answer:" in block:
         ref_start = block.index("Reference Answer:") + len("Reference Answer:")
         gen_start = block.index("Generated Answer:")
         ref_answer = block[ref_start:gen_start].strip()
-    
-    # Extract Generated Answer
-    gen_answer = None
+
     if "Generated Answer:" in block and "-----" in block:
         gen_start = block.index("Generated Answer:") + len("Generated Answer:")
         gen_end = block.index("-----", gen_start)
         gen_answer = block[gen_start:gen_end].strip()
 
     if ref_answer and gen_answer:
-        # Transliterate
         ref_translit = transliterate_text(ref_answer)
         gen_translit = transliterate_text(gen_answer)
 
-        # ROUGE
         rouge_scores = scorer.score(ref_translit, gen_translit)
 
-        # Save only QID and ROUGE scores
         results.append({
             "qid": qid,
-            "rouge": rouge_scores
+            "R1": rouge_scores['rouge1'].fmeasure,
+            "R2": rouge_scores['rouge2'].fmeasure,
+            "R3": rouge_scores['rouge3'].fmeasure,
+            "RL": rouge_scores['rougeL'].fmeasure
         })
 
+# ------------------------------
 # Save results as JSON
+# ------------------------------
 os.makedirs(os.path.dirname(args.output_file), exist_ok=True)
 with open(args.output_file, 'w', encoding='utf-8') as f:
     json.dump(results, f, indent=4)
+
+print(f"✅ ROUGE scores saved to: {args.output_file}")

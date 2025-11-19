@@ -63,3 +63,24 @@ No run-specific best checkpoint found. Starting training from scratch.
 {'train_runtime': 628.8121, 'train_samples_per_second': 1.656, 'train_steps_per_second': 1.656, 'train_loss': 1.8877763116050523, 'epoch': 1.0}
 Model for this run saved to finetuned_models/Qwen/Qwen2.5-7B-Instruct/runs/2
 Best checkpoint for this run saved at: finetuned_models/Qwen/Qwen2.5-7B-Instruct/runs/2/best_checkpoint
+===== Run Arguments =====
+{
+  "run_id": "2",
+  "model": "Qwen/Qwen2.5-7B-Instruct",
+  "train": "data/sc_l6_dataset/train.jsonl",
+  "val": "data/sc_l6_dataset/val.jsonl",
+  "context": "short_l6",
+  "max_len": 1250
+}
+=========================
+
+Loaded tokenized lengths for 135237 QIDs
+Original train dataset size: 94684
+Trimmed train dataset size: 1975
+Original val dataset size: 13526
+Trimmed val dataset size: 292
+Filtering fully-masked samples...
+Final train dataset size: 1041
+Final val dataset size: 150
+trainable params: 10,092,544 || all params: 7,625,709,056 || trainable%: 0.1323
+Resuming training from this run's best checkpoint: finetuned_models/Qwen/Qwen2.5-7B-Instruct/runs/2/best_checkpoint

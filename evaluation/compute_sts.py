@@ -1,5 +1,18 @@
 #!/usr/bin/env python3
 import os
+
+# # Limit CPU cores to first 10 (0–9)
+# os.sched_setaffinity(0, set(range(15)))
+
+# # Limit thread count for common numerical libraries
+# os.environ["OMP_NUM_THREADS"] = "15"
+# os.environ["OPENBLAS_NUM_THREADS"] = "15"
+# os.environ["MKL_NUM_THREADS"] = "15"
+# os.environ["NUMEXPR_NUM_THREADS"] = "15"
+
+# print("Using CPU cores:", os.sched_getaffinity(0))
+
+
 import json
 import argparse
 from bert_score import BERTScorer
@@ -10,6 +23,7 @@ import tensorflow_text  # required by TF-Hub text models
 import gc
 from tqdm import tqdm
 import re
+
 
 # ------------------------------
 # Arguments
@@ -24,8 +38,8 @@ args = parser.parse_args()
 # ------------------------------
 # Paths
 # ------------------------------
-BATCH_DIR = f"../inferencing/outputs/{args.model_name}/{args.context_type}"
-OUTPUT_DIR = f"sts_evaluation/{args.model_name}/{args.context_type}"
+BATCH_DIR = f"../inferencing/base_outputs/{args.model_name}/{args.context_type}"
+OUTPUT_DIR = f"base_sts_evaluation/{args.model_name}/{args.context_type}"
 
 if not os.path.exists(BATCH_DIR):
     raise FileNotFoundError(f"Batch directory not found: {BATCH_DIR}")
