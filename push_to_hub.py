@@ -53,81 +53,121 @@
 
 # push_adapter_to_huggingface(local_adapter_path, repo_name, token)
 
-from huggingface_hub import HfApi, upload_file
+# from huggingface_hub import HfApi, upload_file
 
-def create_and_upload_dataset_to_huggingface(
-    username: str,
-    repo_name: str,
-    token: str,
-    local_file_path: str,
-    private: bool = False,
-    license_name: str = "cc-by-nc-4.0"
-):
-    """
-    Create a Hugging Face dataset repository, upload a JSON file,
-    and set license metadata (e.g., CC-BY-NC 4.0 for research-only use).
-    """
-    api = HfApi()
-    full_repo_name = f"{username}/{repo_name}"
+# def create_and_upload_dataset_to_huggingface(
+#     username: str,
+#     repo_name: str,
+#     token: str,
+#     local_file_path: str,
+#     private: bool = False,
+#     license_name: str = "cc-by-nc-4.0"
+# ):
+#     """
+#     Create a Hugging Face dataset repository, upload a JSON file,
+#     and set license metadata (e.g., CC-BY-NC 4.0 for research-only use).
+#     """
+#     api = HfApi()
+#     full_repo_name = f"{username}/{repo_name}"
 
-    print(f"🔍 Checking or creating dataset repo: {full_repo_name}")
+#     print(f"🔍 Checking or creating dataset repo: {full_repo_name}")
 
-    try:
-        # Step 1: Create (or reuse) the dataset repo
-        api.create_repo(
-            repo_id=full_repo_name,
-            repo_type="dataset",
-            token=token,
-            private=private,
-            exist_ok=True
-        )
-        print(f"✅ Dataset repository ready at: https://huggingface.co/datasets/{full_repo_name}")
+#     try:
+#         # Step 1: Create (or reuse) the dataset repo
+#         api.create_repo(
+#             repo_id=full_repo_name,
+#             repo_type="dataset",
+#             token=token,
+#             private=private,
+#             exist_ok=True
+#         )
+#         print(f"✅ Dataset repository ready at: https://huggingface.co/datasets/{full_repo_name}")
 
-        # Step 2: Upload your local dataset file
-        print(f"⬆️ Uploading file from: {local_file_path}")
-        upload_file(
-            path_or_fileobj=local_file_path,
-            path_in_repo="MuNfQuAD_v2.json",
-            repo_id=full_repo_name,
-            repo_type="dataset",
-            token=token
-        )
-        print(f"✅ File uploaded successfully to the dataset hub.")
+#         # Step 2: Upload your local dataset file
+#         print(f"⬆️ Uploading file from: {local_file_path}")
+#         upload_file(
+#             path_or_fileobj=local_file_path,
+#             path_in_repo="MuNfQuAD_v2.json",
+#             repo_id=full_repo_name,
+#             repo_type="dataset",
+#             token=token
+#         )
+#         print(f"✅ File uploaded successfully to the dataset hub.")
 
-        # Step 3: Add license and metadata
-        api.update_repo_metadata(
-            repo_id=full_repo_name,
-            repo_type="dataset",
-            metadata={
-                "license": license_name,
-                "language": ["en"],
-                "annotations_creators": ["expert-generated"],
-                "task_categories": ["question-answering"]
-            },
-            token=token
-        )
-        print(f"📜 License set to: {license_name}")
+#         # Step 3: Add license and metadata
+#         api.update_repo_metadata(
+#             repo_id=full_repo_name,
+#             repo_type="dataset",
+#             metadata={
+#                 "license": license_name,
+#                 "language": ["en"],
+#                 "annotations_creators": ["expert-generated"],
+#                 "task_categories": ["question-answering"]
+#             },
+#             token=token
+#         )
+#         print(f"📜 License set to: {license_name}")
 
-        print(f"🎉 Dataset successfully uploaded to: https://huggingface.co/datasets/{full_repo_name}")
+#         print(f"🎉 Dataset successfully uploaded to: https://huggingface.co/datasets/{full_repo_name}")
 
-    except Exception as e:
-        print(f"❌ Failed to upload dataset: {e}")
+#     except Exception as e:
+#         print(f"❌ Failed to upload dataset: {e}")
 
 
-# --------------------------
-# Example usage
-# --------------------------
-if __name__ == "__main__":
-    username = "ritwikm"  # Your HF username
-    repo_name = "MuNfQuAD-v2"  # Dataset repo name
-    token = "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"  # Your Hugging Face token
-    local_file_path = "/media/data_dump/Ritwik/git/mqna/data/dataset/MuNfQuAD/MuNfQuAD_v2.json"
+# # --------------------------
+# # Example usage
+# # --------------------------
+# if __name__ == "__main__":
+#     username = "ritwikm"  # Your HF username
+#     repo_name = "MuNfQuAD-v2"  # Dataset repo name
+#     token = "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"  # Your Hugging Face token
+#     local_file_path = "/media/data_dump/Ritwik/git/mqna/data/dataset/MuNfQuAD/MuNfQuAD_v2.json"
 
-    create_and_upload_dataset_to_huggingface(
-        username=username,
-        repo_name=repo_name,
-        token=token,
-        local_file_path=local_file_path,
-        private=False,
-        license_name="cc-by-nc-4.0"
-    )
+#     create_and_upload_dataset_to_huggingface(
+#         username=username,
+#         repo_name=repo_name,
+#         token=token,
+#         local_file_path=local_file_path,
+#         private=False,
+#         license_name="cc-by-nc-4.0"
+#     )
+
+
+
+# from huggingface_hub import create_repo
+# from huggingface_hub import HfApi
+
+# create_repo(
+#     repo_id="ritwikm/QA_dataset",
+#     repo_type="dataset",
+#     private=True  
+# )
+
+# api = HfApi()
+
+# api.upload_file(
+#     path_or_fileobj="finetuning/combined_all_response.json",                       
+#     path_in_repo="data/data.json",                       
+#     repo_id="ritwikm/QA_dataset",
+#     repo_type="dataset",
+#     token = "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"
+# )
+
+
+from huggingface_hub import upload_folder, create_repo, HfFolder
+
+REPO_ID = "ritwikm/Finetuned_krutrim_short_l6"
+
+create_repo(
+    repo_id=REPO_ID,
+    repo_type="model",
+    private=True
+)
+
+
+upload_folder(
+    folder_path="finetuning/finetuned_models/krutrim-ai-labs/Krutrim-2-instruct/runs/2/best_checkpoint",
+    repo_id=REPO_ID,
+    repo_type="model",
+    token="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"
+)

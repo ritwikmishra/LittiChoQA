@@ -26,10 +26,7 @@ models=(
   "sarvamai/sarvam-1"
   "CohereLabs/aya-23-8B"  
   "sarvamai/OpenHathi-7B-Hi-v0.1-Base"
-  "Qwen/Qwen2.5-7B-Instruct"    
-  "1shoomun/qwen2.5-14b-desi"   #error: Engine core initialization failed
-  "ai-forever/mGPT-13B"  #giving empty generated output
-  "ai-forever/mGPT"  #giving empty generated output  
+  "Qwen/Qwen2.5-7B-Instruct"     
 )
 
 # Loop over models
