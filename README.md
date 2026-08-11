@@ -1,4 +1,4 @@
-# IndicGen QA
+# LittiChoQA
 
 ## Installation Requirements
 
@@ -94,6 +94,8 @@ bash finetuning/run_all.sh
 ```
 
 ---
+
+PEFT adapters of the best performing model (Krutrim) are available here: [https://huggingface.co/ritwikm/Finetuned_krutrim_short_l6](https://huggingface.co/ritwikm/Finetuned_krutrim_short_l6)
 
 ## Running Inference
 
